@@ -8,10 +8,10 @@ import xml.etree.ElementTree as ET
 from pathlib import Path
 
 PROJECT = Path(__file__).resolve().parents[1]
-SOURCE = Path('/home/kiezys/modlist_rimworld/3762723122')
+SOURCE = PROJECT / 'source-mods' / '3762723122'
 FRENCH = PROJECT / 'Languages' / 'French'
 PLACEHOLDER = re.compile(r'\{\d+\}')
-FRENCH_COGNATES = {'Permanent', 'Conversion', 'Embargo', 'Coalition', 'Ultimatum', 'Ultimatum…'}
+FRENCH_COGNATES = {'Permanent', 'Conversion', 'Embargo', 'Coalition', 'Ultimatum', 'Ultimatum…', '(vacant)'}
 
 
 def xml_files(root: Path):

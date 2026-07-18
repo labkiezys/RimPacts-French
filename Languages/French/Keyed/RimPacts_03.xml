@@ -256,6 +256,44 @@
   <Rpt_Eco_Recession>récession</Rpt_Eco_Recession>
   <Rpt_Eco_BoomTip>Effets pendant toute la durée de l'essor :\n\n- Prix du marché +{0}\n- Argent des marchands ×{1}\n- Revenus des routes commerciales ×{2}\n- Fréquence des marchands supplémentaires ×{3}\n- Revenus des tributs ×{4}</Rpt_Eco_BoomTip>
   <Rpt_Eco_RecessionTip>Effets pendant toute la durée de la récession :\n\n- Prix du marché −{0}\n- Argent des marchands ×{1}\n- Revenus des routes commerciales ×{2}\n- Fréquence des marchands supplémentaires ×{3}\n- Revenus des tributs ×{4}\n- Risque d'incident sur les routes commerciales ×{5}\n- Risque d'événement de cour ×{6}\n- Niveau effectif de la compagnie commerciale −1 (une route commerciale suspendue)</Rpt_Eco_RecessionTip>
+  <Rpt_Eco_NormalTip>L'économie est stable. Aucun modificateur économique n'est appliqué.\n\nChaque trimestre, elle peut basculer par hasard dans une période d'essor ou de récession.</Rpt_Eco_NormalTip>
+  <Rpt_UI_IdeoLeaderTag>dirigeant de l'idéologie (Social +{0})</Rpt_UI_IdeoLeaderTag>
+
+  <Rpt_LetterCrisisLabel>Crise de succession — {0}</Rpt_LetterCrisisLabel>
+  <Rpt_LetterCrisis>Le dirigeant de {0} est mort et la cour s'est divisée au sujet de sa succession. {1} et {2} se disputent le pouvoir.\n\nEnvoyez {3} unités d'argent pour soutenir la prétention de l'un des deux camps. Si notre candidat l'emporte, nos relations avec les nouveaux dirigeants s'amélioreront considérablement ; dans le cas contraire, elles se détérioreront gravement. Nous devons nous décider dans les deux jours.</Rpt_LetterCrisis>
+  <Rpt_Crisis_BackSilver>Soutenir {0} — envoyer {1} unités d'argent</Rpt_Crisis_BackSilver>
+  <Rpt_Crisis_Neutral>Rester neutre</Rpt_Crisis_Neutral>
+  <Rpt_LetterCrisisWon>La crise de succession au sein de {0} est terminée. {1}, que nous avons soutenu, a pris le pouvoir, et les nouveaux dirigeants nous considèrent comme un bienfaiteur.</Rpt_LetterCrisisWon>
+  <Rpt_LetterCrisisLost>La crise de succession au sein de {0} est terminée. {1}, à qui nous nous sommes opposés, a pris le pouvoir, et les nouveaux dirigeants nous considèrent comme une épine dans leur pied.</Rpt_LetterCrisisLost>
+  <Rpt_CantSign_Dispute>Une crise de succession est en cours.</Rpt_CantSign_Dispute>
+  <Rpt_UI_DisputeTag>[Crise de succession]</Rpt_UI_DisputeTag>
+  <Rpt_UI_DisputeStatus>Crise de succession — {0} contre {1}, résolution dans {2} jours</Rpt_UI_DisputeStatus>
+  <Rpt_UI_DisputeBlocked>Aucune action diplomatique n'est possible pendant une crise de succession.</Rpt_UI_DisputeBlocked>
+  <Rpt_TrustReason_Crisis>Soutien lors de la succession</Rpt_TrustReason_Crisis>
+  <Rpt_UI_LeaderVacantName>(vacant)</Rpt_UI_LeaderVacantName>
+  <Rpt_UI_LeaderVacantTip>Le siège du dirigeant est vacant. Une crise de succession est en cours pour désigner son héritier.</Rpt_UI_LeaderVacantTip>
+
+  <Rpt_LetterExileOfferLabel>Demande d'asile — {0}</Rpt_LetterExileOfferLabel>
+  <Rpt_LetterExileOffer>{0} s'est effondrée. Ses dirigeants survivants et {1} membres de la cour demandent à établir un gouvernement en exil sous notre protection.\n\nSi nous les accueillons, nous leur offrirons un refuge et pourrons un jour restaurer leur nation au prix de {2} unités d'argent et de {3} jours de travail diplomatique. Leur hébergement ne coûte rien.</Rpt_LetterExileOffer>
+  <Rpt_Exile_Accept>Accueillir le gouvernement en exil</Rpt_Exile_Accept>
+  <Rpt_Exile_Decline>Refuser</Rpt_Exile_Decline>
+  <Rpt_Exile_AlreadyHosting>Nous accueillons déjà un autre gouvernement en exil.</Rpt_Exile_AlreadyHosting>
+  <Rpt_MsgExileAccepted>Nous avons accueilli le gouvernement en exil de {0}. ({1} personnes)</Rpt_MsgExileAccepted>
+  <Rpt_MsgExileGone>Les exilés se sont déjà dispersés.</Rpt_MsgExileGone>
+  <Rpt_MsgExileCollapsed>Le gouvernement en exil de {0} a perdu tous ses membres et s'est dissous.</Rpt_MsgExileCollapsed>
+  <Rpt_MsgExileRestoreStart>La restauration de {0} a commencé. Elle prendra {1} jours.</Rpt_MsgExileRestoreStart>
+  <Rpt_LetterExileRestoredLabel>Restauration — {0}</Rpt_LetterExileRestoredLabel>
+  <Rpt_LetterExileRestored>{0} a été restaurée. Le dirigeant exilé {1} a repris le pouvoir et hissé sa bannière sur {2} nouvelles colonies. La faction ne nous oubliera pas.</Rpt_LetterExileRestored>
+  <Rpt_UI_ExileSection>Gouvernement en exil — {0}</Rpt_UI_ExileSection>
+  <Rpt_UI_ExileLeader>Dirigeant exilé : {0}</Rpt_UI_ExileLeader>
+  <Rpt_UI_ExileRestore>Commencer la restauration ({0} unités d'argent)</Rpt_UI_ExileRestore>
+  <Rpt_UI_ExileRestoreDays>Restauration en cours — {0} jours restants</Rpt_UI_ExileRestoreDays>
+  <Rpt_UI_ExileRestoreConfirm>Dépenser {1} unités d'argent et consacrer {2} jours de travail diplomatique à la restauration de {0} ?</Rpt_UI_ExileRestoreConfirm>
+  <Rpt_UI_ExileDismiss>Congédier le gouvernement en exil</Rpt_UI_ExileDismiss>
+  <Rpt_UI_ExileDismissConfirm>Congédier le gouvernement en exil de {0} ? Le dirigeant exilé et les membres de sa cour partiront définitivement et ne reviendront jamais. Toute restauration en cours sera annulée et les unités d'argent dépensées ne seront pas remboursées.</Rpt_UI_ExileDismissConfirm>
+  <Rpt_LetterExileDismissLabel>Gouvernement en exil congédié — {0}</Rpt_LetterExileDismissLabel>
+  <Rpt_LetterExileDismiss>Vous avez congédié le gouvernement en exil de {0}. Le dirigeant et les membres de sa cour sont partis errer ailleurs, et leur restauration n'est désormais plus envisageable.</Rpt_LetterExileDismiss>
+  <Rpt_TrustReason_Restore>Restauration</Rpt_TrustReason_Restore>
   <Rpt_LetterEcoBoomLabel>Économie mondiale : essor</Rpt_LetterEcoBoomLabel>
   <Rpt_LetterEcoBoom>Le marché mondial est entré dans une période d'essor. Les marchands arrivent plus souvent avec des bourses mieux garnies, tandis que les revenus des routes commerciales et des tributs augmentent.</Rpt_LetterEcoBoom>
   <Rpt_LetterEcoRecessionLabel>Économie mondiale : récession</Rpt_LetterEcoRecessionLabel>
