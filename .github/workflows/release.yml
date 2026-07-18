@@ -1,0 +1,29 @@
+name: Release
+
+on:
+  push:
+    tags:
+      - "v*"
+
+permissions:
+  contents: write
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Build and validate archive
+        run: python3 tools/build_release.py --version "${GITHUB_REF_NAME}"
+
+      - name: Publish GitHub Release
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: >-
+          gh release create "${GITHUB_REF_NAME}"
+          dist/RimPacts-French-${GITHUB_REF_NAME}.zip
+          --verify-tag
+          --generate-notes
+          --title "${GITHUB_REF_NAME}"
