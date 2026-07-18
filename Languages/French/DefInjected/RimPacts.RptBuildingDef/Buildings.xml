@@ -1,39 +1,39 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <Rpt_Bld_Workshop.label>workshop</Rpt_Bld_Workshop.label>
-  <Rpt_Bld_Workshop.description>A shared workshop of jigs, benches and good light. Colonists here simply work faster.</Rpt_Bld_Workshop.description>
-  <Rpt_Bld_Granary.label>granary</Rpt_Bld_Granary.label>
-  <Rpt_Bld_Granary.description>Storage pits, drying racks and proper field tools. Farmhands sow and harvest with far less waste.</Rpt_Bld_Granary.description>
-  <Rpt_Bld_Clinic.label>clinic</Rpt_Bld_Clinic.label>
-  <Rpt_Bld_Clinic.description>Clean rooms, boiled instruments and a place to rest. Doctors tend and operate with steadier hands.</Rpt_Bld_Clinic.description>
-  <Rpt_Bld_School.label>academy</Rpt_Bld_School.label>
-  <Rpt_Bld_School.description>A library of salvaged texts and a quiet study hall. Researchers make faster progress.</Rpt_Bld_School.description>
-  <Rpt_Bld_Barracks.label>barracks</Rpt_Bld_Barracks.label>
-  <Rpt_Bld_Barracks.description>A firing range and sparring yard with a drill schedule. Colonists shoot and fight with more discipline.</Rpt_Bld_Barracks.description>
-  <Rpt_Bld_Market.label>marketplace</Rpt_Bld_Market.label>
-  <Rpt_Bld_Market.description>Stalls, scales and a reputation for fair dealing. Trades struck here favor the colony.</Rpt_Bld_Market.description>
-  <Rpt_Bld_Hall.label>assembly hall</Rpt_Bld_Hall.label>
-  <Rpt_Bld_Hall.description>A warm common hall for meals, music and news. Life feels a little less like survival.</Rpt_Bld_Hall.description>
-  <Rpt_Bld_Watchtower.label>watchtower</Rpt_Bld_Watchtower.label>
-  <Rpt_Bld_Watchtower.description>Watch rotations and signal fires spot trouble early. Raiders arrive in thinner numbers.</Rpt_Bld_Watchtower.description>
-  <Rpt_Bld_Inn.label>inn</Rpt_Bld_Inn.label>
-  <Rpt_Bld_Inn.description>Good beds and better gossip. Envoys and gifts sent from this colony leave a stronger impression.</Rpt_Bld_Inn.description>
-  <Rpt_Bld_Garage.label>caravan depot</Rpt_Bld_Garage.label>
-  <Rpt_Bld_Garage.description>Tack rooms, spare wheels and packed rations. Caravans move noticeably faster.</Rpt_Bld_Garage.description>
-  <Rpt_Bld_ShipWorkshop.label>ship workshop</Rpt_Bld_ShipWorkshop.label>
-  <Rpt_Bld_ShipWorkshop.description>A machine shop bolted into the hull. Crew aboard the gravship work faster.</Rpt_Bld_ShipWorkshop.description>
-  <Rpt_Bld_ShipClinic.label>sickbay</Rpt_Bld_ShipClinic.label>
-  <Rpt_Bld_ShipClinic.description>A compact medical bay with everything within arm's reach. Shipboard doctors work with steadier hands.</Rpt_Bld_ShipClinic.description>
-  <Rpt_Bld_EngineBay.label>engine bay</Rpt_Bld_EngineBay.label>
-  <Rpt_Bld_EngineBay.description>Tuned injectors and a maintenance pit for the grav engine. Launches burn less fuel.</Rpt_Bld_EngineBay.description>
-  <Rpt_Bld_CargoHold.label>cargo hold</Rpt_Bld_CargoHold.label>
-  <Rpt_Bld_CargoHold.description>Netting, rails and clever stowage. The crew can haul far heavier loads.</Rpt_Bld_CargoHold.description>
-  <Rpt_Bld_NavRoom.label>navigation room</Rpt_Bld_NavRoom.label>
-  <Rpt_Bld_NavRoom.description>Charts, beacons and a steady hand on the stick. Rough landings become far less likely.</Rpt_Bld_NavRoom.description>
-  <Rpt_Bld_CrewQuarters.label>crew quarters</Rpt_Bld_CrewQuarters.label>
-  <Rpt_Bld_CrewQuarters.description>Proper bunks and a shared mess instead of bedrolls between crates. The crew rests better and grumbles less.</Rpt_Bld_CrewQuarters.description>
-  <Rpt_Bld_ArmoryBay.label>armory bay</Rpt_Bld_ArmoryBay.label>
-  <Rpt_Bld_ArmoryBay.description>Hardpoints, gun lockers and drilled boarding responses. Attackers think twice and come in thinner numbers.</Rpt_Bld_ArmoryBay.description>
-  <Rpt_Bld_TradeAntenna.label>trade antenna</Rpt_Bld_TradeAntenna.label>
-  <Rpt_Bld_TradeAntenna.description>A long-range dish tuned to merchant frequencies. Trades struck aboard favor the crew.</Rpt_Bld_TradeAntenna.description>
+  <Rpt_Bld_Workshop.label>atelier</Rpt_Bld_Workshop.label>
+  <Rpt_Bld_Workshop.description>Un atelier commun doté de gabarits, d'établis et d'un bon éclairage. Les colons qui s'y trouvent travaillent tout simplement plus vite.</Rpt_Bld_Workshop.description>
+  <Rpt_Bld_Granary.label>grenier</Rpt_Bld_Granary.label>
+  <Rpt_Bld_Granary.description>Des fosses de stockage, des séchoirs et de bons outils agricoles. Les ouvriers agricoles sèment et récoltent en gaspillant bien moins de ressources.</Rpt_Bld_Granary.description>
+  <Rpt_Bld_Clinic.label>clinique</Rpt_Bld_Clinic.label>
+  <Rpt_Bld_Clinic.description>Des pièces propres, des instruments stérilisés et un endroit où se reposer. Les médecins prodiguent des soins et opèrent d'une main plus sûre.</Rpt_Bld_Clinic.description>
+  <Rpt_Bld_School.label>académie</Rpt_Bld_School.label>
+  <Rpt_Bld_School.description>Une bibliothèque de textes récupérés et une salle d'étude calme. Les chercheurs progressent plus vite.</Rpt_Bld_School.description>
+  <Rpt_Bld_Barracks.label>caserne</Rpt_Bld_Barracks.label>
+  <Rpt_Bld_Barracks.description>Un champ de tir, une cour d'entraînement et un programme d'exercices. Les colons tirent et combattent avec davantage de discipline.</Rpt_Bld_Barracks.description>
+  <Rpt_Bld_Market.label>marché</Rpt_Bld_Market.label>
+  <Rpt_Bld_Market.description>Des étals, des balances et une réputation de commerce équitable. Les transactions conclues ici sont plus avantageuses pour la colonie.</Rpt_Bld_Market.description>
+  <Rpt_Bld_Hall.label>salle commune</Rpt_Bld_Hall.label>
+  <Rpt_Bld_Hall.description>Une salle commune chaleureuse où partager repas, musique et nouvelles. La vie y ressemble un peu moins à une lutte pour la survie.</Rpt_Bld_Hall.description>
+  <Rpt_Bld_Watchtower.label>tour de guet</Rpt_Bld_Watchtower.label>
+  <Rpt_Bld_Watchtower.description>Des tours de garde et des feux de signalement permettent de repérer rapidement les dangers. Les pillards arrivent en moins grand nombre.</Rpt_Bld_Watchtower.description>
+  <Rpt_Bld_Inn.label>auberge</Rpt_Bld_Inn.label>
+  <Rpt_Bld_Inn.description>De bons lits et des rumeurs encore meilleures. Les émissaires et les cadeaux envoyés depuis cette colonie font plus forte impression.</Rpt_Bld_Inn.description>
+  <Rpt_Bld_Garage.label>dépôt caravanier</Rpt_Bld_Garage.label>
+  <Rpt_Bld_Garage.description>Des selleries, des roues de rechange et des rations déjà emballées. Les caravanes se déplacent sensiblement plus vite.</Rpt_Bld_Garage.description>
+  <Rpt_Bld_ShipWorkshop.label>atelier de vaisseau</Rpt_Bld_ShipWorkshop.label>
+  <Rpt_Bld_ShipWorkshop.description>Un atelier d'usinage fixé à la coque. À bord du gravivaisseau, l'équipage travaille plus vite.</Rpt_Bld_ShipWorkshop.description>
+  <Rpt_Bld_ShipClinic.label>infirmerie</Rpt_Bld_ShipClinic.label>
+  <Rpt_Bld_ShipClinic.description>Une unité médicale compacte où tout se trouve à portée de main. À bord, les médecins travaillent d'une main plus sûre.</Rpt_Bld_ShipClinic.description>
+  <Rpt_Bld_EngineBay.label>compartiment moteur</Rpt_Bld_EngineBay.label>
+  <Rpt_Bld_EngineBay.description>Des injecteurs réglés et une fosse d'entretien pour le moteur gravitationnel. Les décollages consomment moins de carburant.</Rpt_Bld_EngineBay.description>
+  <Rpt_Bld_CargoHold.label>soute</Rpt_Bld_CargoHold.label>
+  <Rpt_Bld_CargoHold.description>Des filets, des rails et un arrimage ingénieux. L'équipage peut transporter des charges bien plus lourdes.</Rpt_Bld_CargoHold.description>
+  <Rpt_Bld_NavRoom.label>salle de navigation</Rpt_Bld_NavRoom.label>
+  <Rpt_Bld_NavRoom.description>Des cartes, des balises et une main ferme aux commandes. Les atterrissages difficiles deviennent bien moins probables.</Rpt_Bld_NavRoom.description>
+  <Rpt_Bld_CrewQuarters.label>quartiers d'équipage</Rpt_Bld_CrewQuarters.label>
+  <Rpt_Bld_CrewQuarters.description>De vraies couchettes et un mess commun au lieu de sacs de couchage entre les caisses. L'équipage se repose mieux et se plaint moins.</Rpt_Bld_CrewQuarters.description>
+  <Rpt_Bld_ArmoryBay.label>armurerie</Rpt_Bld_ArmoryBay.label>
+  <Rpt_Bld_ArmoryBay.description>Des points d'ancrage, des casiers à armes et des procédures de défense bien rodées. Les assaillants y réfléchissent à deux fois et viennent en moins grand nombre.</Rpt_Bld_ArmoryBay.description>
+  <Rpt_Bld_TradeAntenna.label>antenne commerciale</Rpt_Bld_TradeAntenna.label>
+  <Rpt_Bld_TradeAntenna.description>Une parabole longue portée réglée sur les fréquences marchandes. Les transactions conclues à bord sont plus avantageuses pour l'équipage.</Rpt_Bld_TradeAntenna.description>
 </LanguageData>

@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <Rpt_Hediff_Facilities.label>facility benefits</Rpt_Hediff_Facilities.label>
-  <Rpt_Hediff_Facilities.description>Benefits granted by settlement and ship facilities. The active facilities are listed below.</Rpt_Hediff_Facilities.description>
-  <Rpt_Hediff_Workshop.label>workshop benefits</Rpt_Hediff_Workshop.label>
-  <Rpt_Hediff_Workshop.description>Access to a well-equipped workshop makes every job go faster.</Rpt_Hediff_Workshop.description>
-  <Rpt_Hediff_Granary.label>granary benefits</Rpt_Hediff_Granary.label>
-  <Rpt_Hediff_Granary.description>Proper storage and field tools make farm work quicker and less wasteful.</Rpt_Hediff_Granary.description>
-  <Rpt_Hediff_Clinic.label>clinic benefits</Rpt_Hediff_Clinic.label>
-  <Rpt_Hediff_Clinic.description>Clean facilities steady the hands of anyone tending the sick.</Rpt_Hediff_Clinic.description>
-  <Rpt_Hediff_School.label>academy benefits</Rpt_Hediff_School.label>
-  <Rpt_Hediff_School.description>A quiet study hall and a good library speed up research.</Rpt_Hediff_School.description>
-  <Rpt_Hediff_Barracks.label>barracks training</Rpt_Hediff_Barracks.label>
-  <Rpt_Hediff_Barracks.description>Regular drills sharpen aim and footwork.</Rpt_Hediff_Barracks.description>
-  <Rpt_Hediff_CargoHold.label>cargo hold benefits</Rpt_Hediff_CargoHold.label>
-  <Rpt_Hediff_CargoHold.description>Clever stowage lets the crew haul far heavier loads.</Rpt_Hediff_CargoHold.description>
-  <Rpt_Hediff_CrewQuarters.label>crew quarters benefits</Rpt_Hediff_CrewQuarters.label>
-  <Rpt_Hediff_CrewQuarters.description>Proper bunks make rest genuinely restful.</Rpt_Hediff_CrewQuarters.description>
+  <Rpt_Hediff_Facilities.label>avantages des installations</Rpt_Hediff_Facilities.label>
+  <Rpt_Hediff_Facilities.description>Avantages conférés par les installations de la colonie et du vaisseau. Les installations actives sont indiquées ci-dessous.</Rpt_Hediff_Facilities.description>
+  <Rpt_Hediff_Workshop.label>avantages de l'atelier</Rpt_Hediff_Workshop.label>
+  <Rpt_Hediff_Workshop.description>L'accès à un atelier bien équipé accélère tous les travaux.</Rpt_Hediff_Workshop.description>
+  <Rpt_Hediff_Granary.label>avantages du grenier</Rpt_Hediff_Granary.label>
+  <Rpt_Hediff_Granary.description>Un stockage adéquat et de bons outils agricoles rendent les travaux des champs plus rapides et moins coûteux en ressources.</Rpt_Hediff_Granary.description>
+  <Rpt_Hediff_Clinic.label>avantages de la clinique</Rpt_Hediff_Clinic.label>
+  <Rpt_Hediff_Clinic.description>Des installations propres assurent des gestes plus sûrs à quiconque soigne les malades.</Rpt_Hediff_Clinic.description>
+  <Rpt_Hediff_School.label>avantages de l'académie</Rpt_Hediff_School.label>
+  <Rpt_Hediff_School.description>Une salle d'étude calme et une bonne bibliothèque accélèrent la recherche.</Rpt_Hediff_School.description>
+  <Rpt_Hediff_Barracks.label>entraînement à la caserne</Rpt_Hediff_Barracks.label>
+  <Rpt_Hediff_Barracks.description>Des exercices réguliers améliorent la précision et les déplacements.</Rpt_Hediff_Barracks.description>
+  <Rpt_Hediff_CargoHold.label>avantages de la soute</Rpt_Hediff_CargoHold.label>
+  <Rpt_Hediff_CargoHold.description>Un arrimage ingénieux permet à l'équipage de transporter des charges bien plus lourdes.</Rpt_Hediff_CargoHold.description>
+  <Rpt_Hediff_CrewQuarters.label>avantages des quartiers d'équipage</Rpt_Hediff_CrewQuarters.label>
+  <Rpt_Hediff_CrewQuarters.description>De vraies couchettes permettent un repos véritablement réparateur.</Rpt_Hediff_CrewQuarters.description>
 </LanguageData>

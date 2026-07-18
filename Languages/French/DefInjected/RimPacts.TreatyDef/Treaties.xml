@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <Rpt_Treaty_NonAggression.label>non-aggression pact</Rpt_Treaty_NonAggression.label>
-  <Rpt_Treaty_NonAggression.description>A signed promise of peace. The other faction will not raid your colony while the pact holds — even hostile factions can be bought into a ceasefire, at a steep price. Breaking it damages trust across the rim.</Rpt_Treaty_NonAggression.description>
-  <Rpt_Treaty_Trade.label>trade agreement</Rpt_Treaty_Trade.label>
-  <Rpt_Treaty_Trade.description>Trade caravans visit more often and offer better terms. Also unlocks ordering specific goods for delivery.</Rpt_Treaty_Trade.description>
-  <Rpt_Treaty_Passage.label>right of passage</Rpt_Treaty_Passage.label>
-  <Rpt_Treaty_Passage.description>Your caravans move faster and safer through the other faction's territory.</Rpt_Treaty_Passage.description>
-  <Rpt_Treaty_Tribute.label>tributary pact</Rpt_Treaty_Tribute.label>
-  <Rpt_Treaty_Tribute.description>Demand tribute from a much weaker faction. They pay silver every quarter and dare not raid you — but resentment builds over time.</Rpt_Treaty_Tribute.description>
-  <Rpt_Treaty_TributePay.label>become a tributary</Rpt_Treaty_TributePay.label>
-  <Rpt_Treaty_TributePay.description>Become a tributary of a stronger faction. As long as the silver flows, they will not touch your colony or caravans — and will overlook minor frictions. Miss the payments twice and everything collapses.</Rpt_Treaty_TributePay.description>
-  <Rpt_Treaty_Defense.label>defense pact</Rpt_Treaty_Defense.label>
-  <Rpt_Treaty_Defense.description>If your colony is raided, the other faction sends reinforcements. They expect your help in return. Requires an active non-aggression pact first.</Rpt_Treaty_Defense.description>
+  <Rpt_Treaty_NonAggression.label>pacte de non-agression</Rpt_Treaty_NonAggression.label>
+  <Rpt_Treaty_NonAggression.description>Une promesse de paix dûment signée. L'autre faction n'attaquera pas votre colonie tant que le pacte tiendra — même les factions hostiles peuvent être soudoyées pour accepter un cessez-le-feu, mais le prix sera élevé. Le rompre entame la confiance dans toute la région.</Rpt_Treaty_NonAggression.description>
+  <Rpt_Treaty_Trade.label>accord commercial</Rpt_Treaty_Trade.label>
+  <Rpt_Treaty_Trade.description>Les caravanes commerciales viennent plus souvent et proposent de meilleures conditions. Permet également de commander des marchandises précises qui seront ensuite livrées.</Rpt_Treaty_Trade.description>
+  <Rpt_Treaty_Passage.label>droit de passage</Rpt_Treaty_Passage.label>
+  <Rpt_Treaty_Passage.description>Vos caravanes traversent le territoire de l'autre faction plus rapidement et en plus grande sécurité.</Rpt_Treaty_Passage.description>
+  <Rpt_Treaty_Tribute.label>pacte tributaire</Rpt_Treaty_Tribute.label>
+  <Rpt_Treaty_Tribute.description>Exiger un tribut d'une faction bien plus faible. Elle verse de l'argent chaque trimestre et n'ose pas vous attaquer — mais son ressentiment grandit avec le temps.</Rpt_Treaty_Tribute.description>
+  <Rpt_Treaty_TributePay.label>devenir tributaire</Rpt_Treaty_TributePay.label>
+  <Rpt_Treaty_TributePay.description>Devenir tributaire d'une faction plus puissante. Tant que l'argent continuera d'affluer, elle ne touchera ni à votre colonie ni à vos caravanes — et fermera les yeux sur les incidents mineurs. Manquez deux paiements et tout s'effondrera.</Rpt_Treaty_TributePay.description>
+  <Rpt_Treaty_Defense.label>pacte de défense</Rpt_Treaty_Defense.label>
+  <Rpt_Treaty_Defense.description>Si votre colonie est attaquée, l'autre faction envoie des renforts. Elle attend la même aide de votre part. Nécessite au préalable un pacte de non-agression actif.</Rpt_Treaty_Defense.description>
 </LanguageData>

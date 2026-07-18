@@ -1,302 +1,302 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <Rpt_Set_MedievalTechTip>When enabled, envoys, missionaries and summit delegates depart without a shuttle, reward goods arrive at the map edge instead of by drop pod, international summits no longer require a comms console, and founding a trade company and upgrading settlement buildings no longer require research. Meant for medieval-themed playthroughs. If Medieval Overhaul is installed, this starts enabled by default — you can turn it off at any time.</Rpt_Set_MedievalTechTip>
-  <Rpt_Set_MedievalDetected>Medieval Overhaul detected — this setting was enabled by default. Feel free to turn it off if your playthrough spans beyond the medieval era.</Rpt_Set_MedievalDetected>
-  <Rpt_Set_Titles>Rename my court titles</Rpt_Set_Titles>
-  <Rpt_Set_TitlesTip>Changes the displayed names of your own court positions (chancellor, marshal, steward, spymaster). Leave blank to use the default names. Effects are unchanged.</Rpt_Set_TitlesTip>
-  <Rpt_Set_NotorietyTip>Destroying settlements builds notoriety; past the threshold, factions band together to hunt your colony. Turning this off stops accrual and dissolves any ongoing hunt.</Rpt_Set_NotorietyTip>
-  <Rpt_CantSign_DefenseAlly>Requires an alliance (goodwill 75 or higher).</Rpt_CantSign_DefenseAlly>
-  <Rpt_Act_UltAlly>You cannot send an ultimatum to an ally.</Rpt_Act_UltAlly>
-  <Rpt_Act_UltGlobalCooldown>The stir from your last ultimatum has not settled. ({0} days)</Rpt_Act_UltGlobalCooldown>
-  <Rpt_Marry_Cooldown>Marriage talks are still fresh. ({0} days)</Rpt_Marry_Cooldown>
-  <Rpt_Marry_OnceReign>A marriage has already been arranged under this leader. (available again after succession)</Rpt_Marry_OnceReign>
-  <Rpt_LetterMarryFloorBrokenLabel>Marriage ties severed</Rpt_LetterMarryFloorBrokenLabel>
-  <Rpt_LetterMarryFloorBroken>After repeated hostile acts, {0} has turned its back. The marriage no longer shields your relations — from now on they can collapse all the way.</Rpt_LetterMarryFloorBroken>
-  <Rpt_UI_RenewNotYet>Too early to renew. (available in {0} days)</Rpt_UI_RenewNotYet>
-  <Rpt_LetterCoalInviteLabel>Coalition invitation</Rpt_LetterCoalInviteLabel>
-  <Rpt_LetterCoalInvite>{0} is raising a coalition to check the hegemon {1}, and reaches out to us.\n\nAccept, and the coalition forms — its members will send reinforcements when the hegemon raids you. Refuse, and this coalition falls apart, disappointing its leader.</Rpt_LetterCoalInvite>
-  <Rpt_TrustReason_CoalRefused>Coalition invitation refused</Rpt_TrustReason_CoalRefused>
-  <Rpt_CantSign_TruceIndepWar>No ceasefire during a war of independence.</Rpt_CantSign_TruceIndepWar>
-  <Rpt_CantSign_TruceHunt>No ceasefire with a faction hunting your colony.</Rpt_CantSign_TruceHunt>
-  <Rpt_CantSign_TruceJointWar>No ceasefire with the target of your joint war.</Rpt_CantSign_TruceJointWar>
-  <Rpt_Act_Reparation>Pay reparations ({0} silver)</Rpt_Act_Reparation>
-  <Rpt_Act_ReparationConfirm>Send {1} silver in reparations to {0}.\n\nRelations stay hostile, but trust builds by +{2}. Accumulated trust paves the way to a ceasefire and eventual reconciliation.</Rpt_Act_ReparationConfirm>
-  <Rpt_Act_ReparationCooldown>Reparations were sent recently. ({0} days)</Rpt_Act_ReparationCooldown>
-  <Rpt_MsgReparation>Reparations sent to {0}. (trust +{1})</Rpt_MsgReparation>
-  <Rpt_TrustReason_Reparation>Reparations</Rpt_TrustReason_Reparation>
-  <Rpt_Act_EmbargoCooldown>The embargo was lifted too recently. ({0} days)</Rpt_Act_EmbargoCooldown>
-  <Rpt_UI_MyCourt>My court</Rpt_UI_MyCourt>
-  <Rpt_UI_CourtNoIdeology>Requires the Ideology DLC.</Rpt_UI_CourtNoIdeology>
-  <Rpt_UI_CourtNoLeaderRole>No one holds the leader role.</Rpt_UI_CourtNoLeaderRole>
-  <Rpt_UI_CourtVacant>Vacant</Rpt_UI_CourtVacant>
-  <Rpt_UI_CourtAssign>Appoint</Rpt_UI_CourtAssign>
-  <Rpt_UI_CourtDismiss>Dismiss</Rpt_UI_CourtDismiss>
-  <Rpt_UI_CourtCooldown>{0} days until reassignment.</Rpt_UI_CourtCooldown>
-  <Rpt_UI_CourtNoCandidate>No colonist is available for appointment.</Rpt_UI_CourtNoCandidate>
-  <Rpt_UI_CourtTipLeader>Head of the court. The colonist holding the Ideology leader role is shown automatically. While a leader reigns, notoriety fades faster.</Rpt_UI_CourtTipLeader>
-  <Rpt_UI_CourtTipChancellor>Oversees diplomacy. Trust gain +{0}% (scales with Social skill)</Rpt_UI_CourtTipChancellor>
-  <Rpt_UI_CourtTipMarshal>Commands the military. Allied reinforcement size +{0}% (scales with Shooting/Melee skill)</Rpt_UI_CourtTipMarshal>
-  <Rpt_UI_CourtTipSteward>Manages trade routes. Route income +{0}%, accident chance -{1}% (scales with Construction skill)</Rpt_UI_CourtTipSteward>
-  <Rpt_MsgCourtVacated>The {0} position at court is now vacant. ({1})</Rpt_MsgCourtVacated>
-  <Rpt_UI_CourtEffectChancellor>Trust gain +{0}%</Rpt_UI_CourtEffectChancellor>
-  <Rpt_UI_CourtEffectMarshal>Allied reinforcement size +{0}%</Rpt_UI_CourtEffectMarshal>
-  <Rpt_UI_CourtEffectSteward>Route income +{0}% · accident chance -{1}%</Rpt_UI_CourtEffectSteward>
-  <Rpt_Court_Role_Spy>Spymaster</Rpt_Court_Role_Spy>
-  <Rpt_Spy_Section>Intelligence bureau</Rpt_Spy_Section>
-  <Rpt_Spy_Found>Found intelligence bureau ({0})</Rpt_Spy_Found>
-  <Rpt_Spy_FoundConfirm>Spend {0} silver to found an intelligence bureau. Construction takes {1} days.\n\nOnce founded, the spymaster position becomes available and you can run intelligence operations against other factions.</Rpt_Spy_FoundConfirm>
-  <Rpt_Spy_Founding>Under construction — {0} days left</Rpt_Spy_Founding>
-  <Rpt_Spy_Upgrading>Upgrading — {0} days left</Rpt_Spy_Upgrading>
-  <Rpt_Spy_Level>Tier {0}/{1} · spies {2}/{3}</Rpt_Spy_Level>
-  <Rpt_Spy_NeedStationed>A spy must be embedded there</Rpt_Spy_NeedStationed>
-  <Rpt_Spy_CounterLine>Counterintelligence — daily sweep {0}%</Rpt_Spy_CounterLine>
-  <Rpt_LetterCounterTheftLabel>Research stolen</Rpt_LetterCounterTheftLabel>
-  <Rpt_LetterCounterTheft>Someone rifled through the lab and stole research materials for '{0}'. Progress dropped by {1} points.\n\nThe culprit left no trace. A stronger counterintelligence network at the bureau can block or catch such intruders.</Rpt_LetterCounterTheft>
-  <Rpt_LetterCounterSabotageLabel>Power grid sabotaged</Rpt_LetterCounterSabotageLabel>
-  <Rpt_LetterCounterSabotage>Someone tampered with the wiring and short-circuited {0} conduits. Batteries discharged and sparks flew.\n\nThe culprit left no trace. A stronger counterintelligence network at the bureau can block or catch such intruders.</Rpt_LetterCounterSabotage>
-  <Rpt_LetterCounterCaughtLabel>Enemy spy caught: {0}</Rpt_LetterCounterCaughtLabel>
-  <Rpt_LetterCounterCaught>Our counterintelligence network caught a spy sent by {0}. For the next {1} days, no faction will dare send another.\n\nWhat should we do with the captured spy?</Rpt_LetterCounterCaught>
-  <Rpt_CounterSpy_Ransom>Demand ransom ({0} silver)</Rpt_CounterSpy_Ransom>
-  <Rpt_CounterSpy_Denounce>Denounce publicly (just cause)</Rpt_CounterSpy_Denounce>
-  <Rpt_MsgCounterRansom>{0} paid {1} silver in ransom for their spy.</Rpt_MsgCounterRansom>
-  <Rpt_MsgCounterDenounce>We publicly denounced the espionage of {0}. We gain a just cause for {1} days.</Rpt_MsgCounterDenounce>
-  <Rpt_TrustReason_CounterDenounce>Espionage denounced</Rpt_TrustReason_CounterDenounce>
-  <Rpt_Spy_Upgrade>Upgrade to tier {0} ({1})</Rpt_Spy_Upgrade>
-  <Rpt_Spy_UpgradeConfirm>Spend {1} silver to upgrade the bureau to tier {0}. Work takes {2} days.\n\nHigher tiers let you maintain more spies.</Rpt_Spy_UpgradeConfirm>
-  <Rpt_Spy_MaxLevel>Maximum tier reached.</Rpt_Spy_MaxLevel>
-  <Rpt_Spy_Train>Train spy (requires spymaster)</Rpt_Spy_Train>
-  <Rpt_Spy_RosterFull>Roster is full (bureau tier = {0})</Rpt_Spy_RosterFull>
-  <Rpt_Spy_StatusIdle>idle</Rpt_Spy_StatusIdle>
-  <Rpt_Spy_StatusEmbedded>embedded in {0} for {1} days</Rpt_Spy_StatusEmbedded>
-  <Rpt_Spy_StatusOp>{0} — {1}, {2} days left</Rpt_Spy_StatusOp>
-  <Rpt_Spy_Deploy>Deploy…</Rpt_Spy_Deploy>
-  <Rpt_Spy_StatusInfiltrating>infiltrating {0} — {1} days left</Rpt_Spy_StatusInfiltrating>
-  <Rpt_Spy_StillInfiltrating>Still infiltrating</Rpt_Spy_StillInfiltrating>
-  <Rpt_MsgSpyEmbedded>Spy {0} is now embedded in {1}. Their hidden numbers are revealed.</Rpt_MsgSpyEmbedded>
-  <Rpt_Spy_SpyTip>XP {0}/{1}\nCurrent daily detection about {2}%</Rpt_Spy_SpyTip>
-  <Rpt_Spy_NoTech>There is no technology to learn from that faction</Rpt_Spy_NoTech>
-  <Rpt_MsgSpyTrained>Spy {0} has joined the bureau.</Rpt_MsgSpyTrained>
-  <Rpt_MsgSpyDeployed>Spy {0} has set out for {1}. Infiltration takes {2} days.</Rpt_MsgSpyDeployed>
-  <Rpt_MsgSpyLevelUp>Spy {0} reached level {1}.</Rpt_MsgSpyLevelUp>
-  <Rpt_LetterSpyFateDead>Captured spy: {0} (Lv.{1}) — executed.</Rpt_LetterSpyFateDead>
-  <Rpt_LetterSpyFateEscaped>Captured spy: {0} (Lv.{1}) — barely escaped and returned.</Rpt_LetterSpyFateEscaped>
-  <Rpt_LetterSpyTechOkDone>The research was completed outright!</Rpt_LetterSpyTechOkDone>
-  <Rpt_UI_CourtTipSpy>Spymaster (Intellectual)\n\nSpy detection risk reduced by {0}%\nAssassination, sabotage and bribe bonus +{1}%p</Rpt_UI_CourtTipSpy>
-  <Rpt_UI_CourtEffectSpy>Detection risk -{0}%</Rpt_UI_CourtEffectSpy>
-  <Rpt_Spy_NoChief>No spymaster appointed</Rpt_Spy_NoChief>
-  <Rpt_Spy_NeedLevel>Requires bureau tier {0}</Rpt_Spy_NeedLevel>
-  <Rpt_Spy_OpBusyFaction>This spy is already running an operation</Rpt_Spy_OpBusyFaction>
-  <Rpt_Spy_CivilWarActive>Another civil war is already raging</Rpt_Spy_CivilWarActive>
-  <Rpt_Spy_InciteNotRipe>The target is not unstable enough (needs power below {0} and 2+ settlements)</Rpt_Spy_InciteNotRipe>
-  <Rpt_Act_TargetCivilWar>The target is in a civil war</Rpt_Act_TargetCivilWar>
-  <Rpt_Spy_OpTechConfirm>Steal technology from {0} ({1} silver, {2} days).\n\nSuccess is guaranteed, but each day of the operation carries about a {3}% risk of discovery. If discovered, the operation fails and the spy may be executed ({4}% death chance). On success, one unlearned research of that faction\'s era advances greatly — with luck, it completes outright.</Rpt_Spy_OpTechConfirm>
-  <Rpt_Spy_OpInciteConfirm>Stir up dissidents inside {0} ({1} silver, {2} days).\n\nSuccess is guaranteed, but each day of the operation carries about a {3}% risk of discovery. If discovered, the operation fails and the spy may be executed ({4}% death chance). On success, a civil war breaks out in that faction.</Rpt_Spy_OpInciteConfirm>
-  <Rpt_MsgBureauDone>The intelligence bureau is now tier {0}.</Rpt_MsgBureauDone>
-  <Rpt_MsgSpyOpAborted>Spy {0}'s operation was aborted due to the target's circumstances; its cost was recovered.</Rpt_MsgSpyOpAborted>
-  <Rpt_MsgSpyInciteOk>The spark planted in {0} has caught fire.</Rpt_MsgSpyInciteOk>
-  <Rpt_LetterSpyIntroLabel>Espionage and information</Rpt_LetterSpyIntroLabel>
-  <Rpt_LetterSpyIntro>The inner workings of other factions — their national power, submission pressure and the like — can no longer be seen from the outside.\n\nFound an intelligence bureau from your own settlement\'s screen in the diplomacy tab, train spies and embed them in other factions. While a spy remains embedded, that faction\'s hidden numbers stay revealed.</Rpt_LetterSpyIntro>
-  <Rpt_LetterSpyTechOkLabel>Technology stolen: {0}</Rpt_LetterSpyTechOkLabel>
-  <Rpt_LetterSpyTechOk>We smuggled out technical documents from {0}. Research '{1}' advanced by {2} points.</Rpt_LetterSpyTechOk>
-  <Rpt_LetterSpyExposedLabel>Spy exposed: {0}</Rpt_LetterSpyExposedLabel>
-  <Rpt_LetterSpyTechExposed>Our agent was caught stealing technology from {0}. Relations and trust have suffered badly.</Rpt_LetterSpyTechExposed>
-  <Rpt_LetterSpyBreakSuffix>Furious, they tore up {0} treaties with us.</Rpt_LetterSpyBreakSuffix>
-  <Rpt_LetterSpyInciteExposed>Our agent was caught inciting rebellion in {0}. They are furious and may retaliate.</Rpt_LetterSpyInciteExposed>
-  <Rpt_TrustReason_SpyExposed>Spy exposed</Rpt_TrustReason_SpyExposed>
-  <Rpt_CantSign_CivilWar>Diplomacy is impossible during their civil war</Rpt_CantSign_CivilWar>
-  <Rpt_Hosp_Embargoed>Under embargo</Rpt_Hosp_Embargoed>
-  <Rpt_UI_CivilWarTag>[Civil war]</Rpt_UI_CivilWarTag>
-  <Rpt_UI_CivilWarStatus>Civil war — no diplomacy · about {0} days left</Rpt_UI_CivilWarStatus>
-  <Rpt_UI_CivilWarBlocked>No diplomatic actions are possible during a civil war.</Rpt_UI_CivilWarBlocked>
+  <Rpt_Set_MedievalTechTip>Lorsque cette option est activée, les émissaires, missionnaires et délégués aux sommets partent sans navette, les récompenses arrivent au bord de la carte plutôt que par capsule de transport, les sommets internationaux ne nécessitent plus de console de communication, et la fondation d'une compagnie commerciale ainsi que l'amélioration des bâtiments de colonie ne nécessitent plus de recherches. Cette option est destinée aux parties à thème médiéval. Si Medieval Overhaul est installé, elle est activée par défaut — vous pouvez la désactiver à tout moment.</Rpt_Set_MedievalTechTip>
+  <Rpt_Set_MedievalDetected>Medieval Overhaul détecté — cette option a été activée par défaut. N'hésitez pas à la désactiver si votre partie s'étend au-delà de l'époque médiévale.</Rpt_Set_MedievalDetected>
+  <Rpt_Set_Titles>Renommer les titres de ma cour</Rpt_Set_Titles>
+  <Rpt_Set_TitlesTip>Modifie les noms affichés des postes de votre cour (chancelier, maréchal, intendant, maître-espion). Laissez un champ vide pour utiliser le nom par défaut. Les effets restent inchangés.</Rpt_Set_TitlesTip>
+  <Rpt_Set_NotorietyTip>Détruire des colonies accroît votre notoriété ; une fois le seuil dépassé, les factions s'unissent pour traquer votre colonie. Désactiver cette option interrompt son accumulation et met fin à toute traque en cours.</Rpt_Set_NotorietyTip>
+  <Rpt_CantSign_DefenseAlly>Nécessite une alliance (bienveillance de 75 ou plus).</Rpt_CantSign_DefenseAlly>
+  <Rpt_Act_UltAlly>Vous ne pouvez pas envoyer d'ultimatum à un allié.</Rpt_Act_UltAlly>
+  <Rpt_Act_UltGlobalCooldown>L'agitation provoquée par votre dernier ultimatum n'est pas encore retombée. ({0} jours)</Rpt_Act_UltGlobalCooldown>
+  <Rpt_Marry_Cooldown>Les pourparlers matrimoniaux sont encore trop récents. ({0} jours)</Rpt_Marry_Cooldown>
+  <Rpt_Marry_OnceReign>Un mariage a déjà été arrangé sous ce dirigeant. (à nouveau disponible après la succession)</Rpt_Marry_OnceReign>
+  <Rpt_LetterMarryFloorBrokenLabel>Liens matrimoniaux rompus</Rpt_LetterMarryFloorBrokenLabel>
+  <Rpt_LetterMarryFloorBroken>Après des actes hostiles répétés, {0} nous a tourné le dos. Le mariage ne protège plus nos relations — elles peuvent désormais s'effondrer complètement.</Rpt_LetterMarryFloorBroken>
+  <Rpt_UI_RenewNotYet>Il est trop tôt pour renouveler l'accord. (disponible dans {0} jours)</Rpt_UI_RenewNotYet>
+  <Rpt_LetterCoalInviteLabel>Invitation à une coalition</Rpt_LetterCoalInviteLabel>
+  <Rpt_LetterCoalInvite>{0} rassemble une coalition pour contenir l'hégémon {1} et sollicite notre participation.\n\nSi nous acceptons, la coalition se formera — ses membres enverront des renforts lorsque l'hégémon nous attaquera. Si nous refusons, cette coalition se désagrégera, au grand mécontentement de son chef.</Rpt_LetterCoalInvite>
+  <Rpt_TrustReason_CoalRefused>Invitation à une coalition refusée</Rpt_TrustReason_CoalRefused>
+  <Rpt_CantSign_TruceIndepWar>Impossible de conclure un cessez-le-feu pendant une guerre d'indépendance.</Rpt_CantSign_TruceIndepWar>
+  <Rpt_CantSign_TruceHunt>Impossible de conclure un cessez-le-feu avec une faction qui traque votre colonie.</Rpt_CantSign_TruceHunt>
+  <Rpt_CantSign_TruceJointWar>Impossible de conclure un cessez-le-feu avec la cible de votre guerre conjointe.</Rpt_CantSign_TruceJointWar>
+  <Rpt_Act_Reparation>Verser des réparations ({0} unités d'argent)</Rpt_Act_Reparation>
+  <Rpt_Act_ReparationConfirm>Envoyer {1} unités d'argent en réparations à {0}.\n\nLes relations restent hostiles, mais la confiance augmente de +{2}. La confiance accumulée ouvre la voie à un cessez-le-feu, puis à une éventuelle réconciliation.</Rpt_Act_ReparationConfirm>
+  <Rpt_Act_ReparationCooldown>Des réparations ont été versées récemment. ({0} jours)</Rpt_Act_ReparationCooldown>
+  <Rpt_MsgReparation>Réparations versées à {0}. (confiance +{1})</Rpt_MsgReparation>
+  <Rpt_TrustReason_Reparation>Réparations</Rpt_TrustReason_Reparation>
+  <Rpt_Act_EmbargoCooldown>L'embargo a été levé trop récemment. ({0} jours)</Rpt_Act_EmbargoCooldown>
+  <Rpt_UI_MyCourt>Ma cour</Rpt_UI_MyCourt>
+  <Rpt_UI_CourtNoIdeology>Nécessite le DLC Ideology.</Rpt_UI_CourtNoIdeology>
+  <Rpt_UI_CourtNoLeaderRole>Personne n'occupe le rôle de dirigeant.</Rpt_UI_CourtNoLeaderRole>
+  <Rpt_UI_CourtVacant>Poste vacant</Rpt_UI_CourtVacant>
+  <Rpt_UI_CourtAssign>Nommer</Rpt_UI_CourtAssign>
+  <Rpt_UI_CourtDismiss>Révoquer</Rpt_UI_CourtDismiss>
+  <Rpt_UI_CourtCooldown>{0} jours avant une nouvelle affectation.</Rpt_UI_CourtCooldown>
+  <Rpt_UI_CourtNoCandidate>Aucun colon n'est disponible pour cette nomination.</Rpt_UI_CourtNoCandidate>
+  <Rpt_UI_CourtTipLeader>Chef de la cour. Le colon qui occupe le rôle de dirigeant de l'idéologie est affiché automatiquement. Tant qu'un dirigeant règne, la notoriété s'estompe plus rapidement.</Rpt_UI_CourtTipLeader>
+  <Rpt_UI_CourtTipChancellor>Supervise la diplomatie. Gain de confiance +{0}% (dépend de la compétence Social)</Rpt_UI_CourtTipChancellor>
+  <Rpt_UI_CourtTipMarshal>Commande les forces armées. Taille des renforts alliés +{0}% (dépend de la compétence Tir/Mêlée)</Rpt_UI_CourtTipMarshal>
+  <Rpt_UI_CourtTipSteward>Gère les routes commerciales. Revenus des routes +{0}%, risque d'accident -{1}% (dépend de la compétence Construction)</Rpt_UI_CourtTipSteward>
+  <Rpt_MsgCourtVacated>Le poste de {0} à la cour est désormais vacant. ({1})</Rpt_MsgCourtVacated>
+  <Rpt_UI_CourtEffectChancellor>Gain de confiance +{0}%</Rpt_UI_CourtEffectChancellor>
+  <Rpt_UI_CourtEffectMarshal>Taille des renforts alliés +{0}%</Rpt_UI_CourtEffectMarshal>
+  <Rpt_UI_CourtEffectSteward>Revenus des routes +{0}% · risque d'accident -{1}%</Rpt_UI_CourtEffectSteward>
+  <Rpt_Court_Role_Spy>Maître-espion</Rpt_Court_Role_Spy>
+  <Rpt_Spy_Section>Bureau du renseignement</Rpt_Spy_Section>
+  <Rpt_Spy_Found>Fonder un bureau du renseignement ({0})</Rpt_Spy_Found>
+  <Rpt_Spy_FoundConfirm>Dépenser {0} unités d'argent pour fonder un bureau du renseignement. La construction prend {1} jours.\n\nUne fois le bureau fondé, le poste de maître-espion devient disponible et vous pouvez mener des opérations de renseignement contre d'autres factions.</Rpt_Spy_FoundConfirm>
+  <Rpt_Spy_Founding>En construction — {0} jours restants</Rpt_Spy_Founding>
+  <Rpt_Spy_Upgrading>Amélioration en cours — {0} jours restants</Rpt_Spy_Upgrading>
+  <Rpt_Spy_Level>Niveau {0}/{1} · espions {2}/{3}</Rpt_Spy_Level>
+  <Rpt_Spy_NeedStationed>Un espion doit y être infiltré</Rpt_Spy_NeedStationed>
+  <Rpt_Spy_CounterLine>Contre-espionnage — inspection quotidienne {0}%</Rpt_Spy_CounterLine>
+  <Rpt_LetterCounterTheftLabel>Recherche volée</Rpt_LetterCounterTheftLabel>
+  <Rpt_LetterCounterTheft>Quelqu'un a fouillé le laboratoire et volé du matériel de recherche lié à « {0} ». La progression a diminué de {1} points.\n\nLe coupable n'a laissé aucune trace. Un réseau de contre-espionnage plus puissant au sein du bureau peut bloquer ou capturer ce genre d'intrus.</Rpt_LetterCounterTheft>
+  <Rpt_LetterCounterSabotageLabel>Réseau électrique saboté</Rpt_LetterCounterSabotageLabel>
+  <Rpt_LetterCounterSabotage>Quelqu'un a trafiqué le câblage et court-circuité {0} conduits. Les batteries se sont déchargées et des étincelles ont jailli.\n\nLe coupable n'a laissé aucune trace. Un réseau de contre-espionnage plus puissant au sein du bureau peut bloquer ou capturer ce genre d'intrus.</Rpt_LetterCounterSabotage>
+  <Rpt_LetterCounterCaughtLabel>Espion ennemi capturé : {0}</Rpt_LetterCounterCaughtLabel>
+  <Rpt_LetterCounterCaught>Notre réseau de contre-espionnage a capturé un espion envoyé par {0}. Pendant les {1} prochains jours, aucune faction n'osera en envoyer un autre.\n\nQue devons-nous faire de l'espion capturé ?</Rpt_LetterCounterCaught>
+  <Rpt_CounterSpy_Ransom>Exiger une rançon ({0} unités d'argent)</Rpt_CounterSpy_Ransom>
+  <Rpt_CounterSpy_Denounce>Dénoncer publiquement (casus belli)</Rpt_CounterSpy_Denounce>
+  <Rpt_MsgCounterRansom>{0} a payé {1} unités d'argent pour la rançon de son espion.</Rpt_MsgCounterRansom>
+  <Rpt_MsgCounterDenounce>Nous avons dénoncé publiquement l'espionnage de {0}. Nous obtenons un casus belli pendant {1} jours.</Rpt_MsgCounterDenounce>
+  <Rpt_TrustReason_CounterDenounce>Espionnage dénoncé</Rpt_TrustReason_CounterDenounce>
+  <Rpt_Spy_Upgrade>Améliorer jusqu'au niveau {0} ({1})</Rpt_Spy_Upgrade>
+  <Rpt_Spy_UpgradeConfirm>Dépenser {1} unités d'argent pour améliorer le bureau jusqu'au niveau {0}. Les travaux prennent {2} jours.\n\nLes niveaux supérieurs permettent d'entretenir davantage d'espions.</Rpt_Spy_UpgradeConfirm>
+  <Rpt_Spy_MaxLevel>Niveau maximal atteint.</Rpt_Spy_MaxLevel>
+  <Rpt_Spy_Train>Former un espion (nécessite un maître-espion)</Rpt_Spy_Train>
+  <Rpt_Spy_RosterFull>L'effectif est complet (niveau du bureau = {0})</Rpt_Spy_RosterFull>
+  <Rpt_Spy_StatusIdle>inactif</Rpt_Spy_StatusIdle>
+  <Rpt_Spy_StatusEmbedded>infiltré chez {0} depuis {1} jours</Rpt_Spy_StatusEmbedded>
+  <Rpt_Spy_StatusOp>{0} — {1}, {2} jours restants</Rpt_Spy_StatusOp>
+  <Rpt_Spy_Deploy>Déployer…</Rpt_Spy_Deploy>
+  <Rpt_Spy_StatusInfiltrating>infiltration de {0} — {1} jours restants</Rpt_Spy_StatusInfiltrating>
+  <Rpt_Spy_StillInfiltrating>Infiltration toujours en cours</Rpt_Spy_StillInfiltrating>
+  <Rpt_MsgSpyEmbedded>L'espion {0} est désormais infiltré chez {1}. Les données secrètes de cette faction sont révélées.</Rpt_MsgSpyEmbedded>
+  <Rpt_Spy_SpyTip>EXP {0}/{1}\nRisque quotidien de détection actuel : environ {2}%</Rpt_Spy_SpyTip>
+  <Rpt_Spy_NoTech>Cette faction ne possède aucune technologie à apprendre</Rpt_Spy_NoTech>
+  <Rpt_MsgSpyTrained>L'espion {0} a rejoint le bureau.</Rpt_MsgSpyTrained>
+  <Rpt_MsgSpyDeployed>L'espion {0} est parti pour {1}. L'infiltration prend {2} jours.</Rpt_MsgSpyDeployed>
+  <Rpt_MsgSpyLevelUp>L'espion {0} a atteint le niveau {1}.</Rpt_MsgSpyLevelUp>
+  <Rpt_LetterSpyFateDead>Espion capturé : {0} (niv.{1}) — exécuté.</Rpt_LetterSpyFateDead>
+  <Rpt_LetterSpyFateEscaped>Espion capturé : {0} (niv.{1}) — s'est échappé de justesse et est revenu.</Rpt_LetterSpyFateEscaped>
+  <Rpt_LetterSpyTechOkDone>La recherche a été achevée sur-le-champ !</Rpt_LetterSpyTechOkDone>
+  <Rpt_UI_CourtTipSpy>Maître-espion (Intellectuel)\n\nRisque de détection des espions réduit de {0}%\nBonus d'assassinat, de sabotage et de corruption +{1}%p</Rpt_UI_CourtTipSpy>
+  <Rpt_UI_CourtEffectSpy>Risque de détection -{0}%</Rpt_UI_CourtEffectSpy>
+  <Rpt_Spy_NoChief>Aucun maître-espion nommé</Rpt_Spy_NoChief>
+  <Rpt_Spy_NeedLevel>Nécessite un bureau de niveau {0}</Rpt_Spy_NeedLevel>
+  <Rpt_Spy_OpBusyFaction>Cet espion mène déjà une opération</Rpt_Spy_OpBusyFaction>
+  <Rpt_Spy_CivilWarActive>Une autre guerre civile fait déjà rage</Rpt_Spy_CivilWarActive>
+  <Rpt_Spy_InciteNotRipe>La cible n'est pas assez instable (puissance inférieure à {0} et 2+ colonies requises)</Rpt_Spy_InciteNotRipe>
+  <Rpt_Act_TargetCivilWar>La cible est en guerre civile</Rpt_Act_TargetCivilWar>
+  <Rpt_Spy_OpTechConfirm>Voler une technologie à {0} ({1} unités d'argent, {2} jours).\n\nLa réussite est garantie, mais chaque jour d'opération comporte environ {3}% de risque d'être découvert. En cas de découverte, l'opération échoue et l'espion peut être exécuté ({4}% de risque de mort). En cas de réussite, une recherche non maîtrisée de l'époque de cette faction progresse considérablement — avec de la chance, elle est même achevée sur-le-champ.</Rpt_Spy_OpTechConfirm>
+  <Rpt_Spy_OpInciteConfirm>Attiser la dissidence au sein de {0} ({1} unités d'argent, {2} jours).\n\nLa réussite est garantie, mais chaque jour d'opération comporte environ {3}% de risque d'être découvert. En cas de découverte, l'opération échoue et l'espion peut être exécuté ({4}% de risque de mort). En cas de réussite, une guerre civile éclate au sein de cette faction.</Rpt_Spy_OpInciteConfirm>
+  <Rpt_MsgBureauDone>Le bureau du renseignement est désormais de niveau {0}.</Rpt_MsgBureauDone>
+  <Rpt_MsgSpyOpAborted>L'opération de l'espion {0} a été annulée en raison de la situation de la cible ; son coût a été récupéré.</Rpt_MsgSpyOpAborted>
+  <Rpt_MsgSpyInciteOk>L'étincelle semée au sein de {0} a embrasé la faction.</Rpt_MsgSpyInciteOk>
+  <Rpt_LetterSpyIntroLabel>Espionnage et renseignement</Rpt_LetterSpyIntroLabel>
+  <Rpt_LetterSpyIntro>Les rouages internes des autres factions — leur puissance nationale, la pression exercée pour les soumettre et autres informations similaires — ne sont désormais plus visibles de l'extérieur.\n\nFondez un bureau du renseignement depuis l'écran de votre propre colonie dans l'onglet Diplomatie, formez des espions et infiltrez-les dans d'autres factions. Tant qu'un espion y reste infiltré, les données secrètes de cette faction demeurent révélées.</Rpt_LetterSpyIntro>
+  <Rpt_LetterSpyTechOkLabel>Technologie volée : {0}</Rpt_LetterSpyTechOkLabel>
+  <Rpt_LetterSpyTechOk>Nous avons exfiltré des documents techniques de {0}. La recherche « {1} » a progressé de {2} points.</Rpt_LetterSpyTechOk>
+  <Rpt_LetterSpyExposedLabel>Espion découvert : {0}</Rpt_LetterSpyExposedLabel>
+  <Rpt_LetterSpyTechExposed>Notre agent a été surpris en train de voler une technologie à {0}. Les relations et la confiance en ont gravement souffert.</Rpt_LetterSpyTechExposed>
+  <Rpt_LetterSpyBreakSuffix>Furieux, ils ont déchiré {0} traités conclus avec nous.</Rpt_LetterSpyBreakSuffix>
+  <Rpt_LetterSpyInciteExposed>Notre agent a été surpris en train d'inciter à la rébellion au sein de {0}. La faction est furieuse et pourrait riposter.</Rpt_LetterSpyInciteExposed>
+  <Rpt_TrustReason_SpyExposed>Espion découvert</Rpt_TrustReason_SpyExposed>
+  <Rpt_CantSign_CivilWar>La diplomatie est impossible pendant leur guerre civile</Rpt_CantSign_CivilWar>
+  <Rpt_Hosp_Embargoed>Sous embargo</Rpt_Hosp_Embargoed>
+  <Rpt_UI_CivilWarTag>[Guerre civile]</Rpt_UI_CivilWarTag>
+  <Rpt_UI_CivilWarStatus>Guerre civile — aucune diplomatie · environ {0} jours restants</Rpt_UI_CivilWarStatus>
+  <Rpt_UI_CivilWarBlocked>Aucune action diplomatique n'est possible pendant une guerre civile.</Rpt_UI_CivilWarBlocked>
   <Rpt_UI_Unknown>?</Rpt_UI_Unknown>
-  <Rpt_UI_SpyStationed>Spy embedded</Rpt_UI_SpyStationed>
-  <Rpt_Spy_KindTech>Steal technology</Rpt_Spy_KindTech>
-  <Rpt_Spy_KindIncite>Incite rebellion</Rpt_Spy_KindIncite>
-  <Rpt_Spy_StartOp>Start operation…</Rpt_Spy_StartOp>
-  <Rpt_Spy_Recall>Recall</Rpt_Spy_Recall>
-  <Rpt_Spy_ActivityNone>No intelligence activity in progress.</Rpt_Spy_ActivityNone>
-  <Rpt_Spy_NoTargets>No target factions</Rpt_Spy_NoTargets>
-  <Rpt_Spy_AlreadyPlanted>A spy is already embedded there</Rpt_Spy_AlreadyPlanted>
-  <Rpt_Spy_ReinfilCooldown>Re-infiltration in {0} days</Rpt_Spy_ReinfilCooldown>
-  <Rpt_MsgSpyRecalled>Recalled spy {0} from {1}.</Rpt_MsgSpyRecalled>
-  <Rpt_LetterSpyStationExposed>Our spy embedded in {0} was discovered and pulled out. Relations have suffered, and you cannot re-infiltrate for {1} days.</Rpt_LetterSpyStationExposed>
-  <Rpt_UI_SubmitTipHidden>Submission pressure ? / {0}\n\nTheir inner workings are unknown. An intelligence bureau's gathering operation can reveal them.</Rpt_UI_SubmitTipHidden>
-  <Rpt_UI_DemandConfirmBlind>Demand tribute from {0}.\n\nYou are making this demand blind, without knowing their inner workings. If refused, relations suffer badly and you cannot demand again for a while.</Rpt_UI_DemandConfirmBlind>
-  <Rpt_TrustReason_CivilWarCoup>Coup (new regime wary)</Rpt_TrustReason_CivilWarCoup>
-  <Rpt_LetterCivilWarLabel>Civil war: {0}</Rpt_LetterCivilWarLabel>
-  <Rpt_LetterCivilWar>Civil war has broken out in {0}. Rebels have risen and the nation is split in two, fighting itself.\n\nUntil it ends, no diplomacy is possible with this faction and no traders will come.</Rpt_LetterCivilWar>
-  <Rpt_LetterCivilWarProgLabel>Civil war report: {0}</Rpt_LetterCivilWarProgLabel>
-  <Rpt_LetterCivilWarProg1Gov>News from the civil war in {0}. Government forces are holding the key strongholds and gaining the upper hand.</Rpt_LetterCivilWarProg1Gov>
-  <Rpt_LetterCivilWarProg1Reb>News from the civil war in {0}. The rebels' momentum is alarming — province after province is falling into their hands.</Rpt_LetterCivilWarProg1Reb>
-  <Rpt_LetterCivilWarProg2Gov>The civil war in {0} is nearing its end. Government forces are closing in on the rebel leadership; suppression seems imminent.</Rpt_LetterCivilWarProg2Gov>
-  <Rpt_LetterCivilWarProg2Reb>The civil war in {0} is nearing its end. The rebels have reached the gates of the capital. Rumor has it the regime will not hold.</Rpt_LetterCivilWarProg2Reb>
-  <Rpt_LetterCivilWarQuellLabel>Civil war over: {0}</Rpt_LetterCivilWarQuellLabel>
-  <Rpt_LetterCivilWarQuell>The civil war in {0} has ended. Government forces crushed the rebellion, and the nation is slowly regaining stability.</Rpt_LetterCivilWarQuell>
-  <Rpt_LetterCivilWarCoupLabel>Coup: {0}</Rpt_LetterCivilWarCoupLabel>
-  <Rpt_LetterCivilWarCoup>The civil war in {0} ended in a coup. The old leadership was driven out and the mantle has passed to {1}.\n\nThe court has been swept clean — diplomacy must be rebuilt.</Rpt_LetterCivilWarCoup>
-  <Rpt_LetterCivilWarSplitLabel>Faction fractured: {0}</Rpt_LetterCivilWarSplitLabel>
-  <Rpt_LetterCivilWarSplit>The civil war in {0} came to the worst possible end. The nation has been torn in two: the rebels declared independence as {1} and are now at war with their former homeland.</Rpt_LetterCivilWarSplit>
-  <Rpt_LetterAsylumLabel>Asylum request: {0}</Rpt_LetterAsylumLabel>
-  <Rpt_LetterAsylum>{0}, former {2} of {1}, was purged in the coup and now begs asylum at our settlement. Taking them in gains a colonist, but the new regime will resent it.\n\nNotable skills: {3}</Rpt_LetterAsylum>
-  <Rpt_Asylum_Accept>Grant asylum</Rpt_Asylum_Accept>
-  <Rpt_Asylum_Refuse>Refuse</Rpt_Asylum_Refuse>
-  <Rpt_MsgAsylumJoined>{0} has been granted asylum and joined the colony.</Rpt_MsgAsylumJoined>
-  <Rpt_TrustReason_Asylum>Granted asylum</Rpt_TrustReason_Asylum>
-  <Rpt_LetterRouteTollLabel>Trade route toll: {0}</Rpt_LetterRouteTollLabel>
-  <Rpt_LetterRouteToll>Highwaymen are demanding a toll on the trade route to {1}. Pay {2} silver and this quarter's income ({3} silver) arrives untouched. Refuse, and this quarter's income is lost. The route itself remains open either way.</Rpt_LetterRouteToll>
-  <Rpt_RouteToll_Pay>Pay the toll ({0} silver)</Rpt_RouteToll_Pay>
-  <Rpt_RouteToll_Refuse>Refuse (forfeit this quarter's income)</Rpt_RouteToll_Refuse>
-  <Rpt_MsgRouteTollRefused>The toll was refused — this quarter's income from the {0} trade route is lost.</Rpt_MsgRouteTollRefused>
-  <Rpt_LetterRouteBoomLabel>Trade route boom: {0}</Rpt_LetterRouteBoomLabel>
-  <Rpt_LetterRouteBoom>The markets of {1} are booming, and the trade route with {0} has brought in an unusually large income of {2} silver.</Rpt_LetterRouteBoom>
-  <Rpt_LetterRouteDisruptLabel>Trade route disruption: {0}</Rpt_LetterRouteDisruptLabel>
-  <Rpt_LetterRouteDisrupt>The trade route to {1} has been temporarily disrupted, and no income arrived this quarter. Business should return to normal next quarter.</Rpt_LetterRouteDisrupt>
-  <Rpt_LetterVisitOfferLabel>State visit proposed: {0}</Rpt_LetterVisitOfferLabel>
-  <Rpt_LetterVisitOffer>{1}, {2} of {0}, wishes to visit our settlement in person. If we accept, they will arrive shortly and stay for {3} day(s). How we host them will shape their personal favor and their faction's trust.</Rpt_LetterVisitOffer>
-  <Rpt_VisitOffer_Accept>Welcome the visit</Rpt_VisitOffer_Accept>
-  <Rpt_VisitOffer_Decline>Politely decline</Rpt_VisitOffer_Decline>
-  <Rpt_MsgVisitBusy>A state visit is already underway.</Rpt_MsgVisitBusy>
-  <Rpt_MsgVisitComing>{0} of {1} will arrive at the settlement soon.</Rpt_MsgVisitComing>
-  <Rpt_LetterVisitHostLabel>State guest arrived: {0}</Rpt_LetterVisitHostLabel>
-  <Rpt_LetterVisitHost>{0} of {1} has arrived at the settlement. While staying, they live as an honored guest — they follow orders but do no work — and depart after a day.\n\nHow shall we host them? A grand feast costs {2} silver.</Rpt_LetterVisitHost>
-  <Rpt_VisitQuestName>State visit: {0}</Rpt_VisitQuestName>
-  <Rpt_VisitQuestDesc>{0} of {1} is staying at our settlement as an honored guest. As a guest, they cannot be put to work. Sending them home safely will help relations.</Rpt_VisitQuestDesc>
-  <Rpt_Court_VisitTag>(visiting)</Rpt_Court_VisitTag>
-  <Rpt_VisitHost_Feast>Hold a grand feast ({0} silver)</Rpt_VisitHost_Feast>
-  <Rpt_VisitHost_Standard>Host with due courtesy</Rpt_VisitHost_Standard>
-  <Rpt_VisitHost_Cold>Snub them (they leave at once)</Rpt_VisitHost_Cold>
-  <Rpt_MsgVisitCold>{0} takes the cold reception as an insult and returns to {1}.</Rpt_MsgVisitCold>
-  <Rpt_LetterVisitEndLabel>State guest departed: {0}</Rpt_LetterVisitEndLabel>
-  <Rpt_LetterVisitEnd>{0} has concluded a pleasant visit and returned to {1}. The visit left a fine impression on relations between our peoples.</Rpt_LetterVisitEnd>
-  <Rpt_LetterVisitDeathLabel>State guest killed: {0}</Rpt_LetterVisitDeathLabel>
-  <Rpt_LetterVisitDeath>{0}, the state guest under our protection, has died at our settlement. {1} holds us responsible for their death.</Rpt_LetterVisitDeath>
-  <Rpt_LetterVisitMournLabel>State guest lost: {0}</Rpt_LetterVisitMournLabel>
-  <Rpt_LetterVisitMourn>{0}, our state guest, was killed in the chaos of the attack on our settlement. {1} understands the circumstances and casts little blame, but condolences are owed.</Rpt_LetterVisitMourn>
-  <Rpt_MsgVisitAborted>{0} cuts the visit short amid the sudden turn of events and returns to {1}.</Rpt_MsgVisitAborted>
-  <Rpt_MsgVisitStranded>{0} has nowhere left to return to and stays at the settlement.</Rpt_MsgVisitStranded>
-  <Rpt_TrustReason_Visit>State visit hosted</Rpt_TrustReason_Visit>
-  <Rpt_TrustReason_VisitCold>State guest snubbed</Rpt_TrustReason_VisitCold>
-  <Rpt_TrustReason_VisitDeath>State guest died</Rpt_TrustReason_VisitDeath>
-  <Rpt_LetterCourtEvent0Label>Diplomatic blunder: {0}</Rpt_LetterCourtEvent0Label>
-  <Rpt_LetterCourtEvent0>An envoy of {0} left deeply offended by a blunder on our side. Left alone, relations will sour.\n\nSend an envoy with apologies to smooth it over — or, if you have a chancellor, entrust them with mediation.</Rpt_LetterCourtEvent0>
-  <Rpt_CourtEvent0_Pay>Send apologies ({0} silver)</Rpt_CourtEvent0_Pay>
-  <Rpt_CourtEvent0_Ignore>Ignore it</Rpt_CourtEvent0_Ignore>
-  <Rpt_CourtEvent0_Role>Let the chancellor mediate ({0})</Rpt_CourtEvent0_Role>
-  <Rpt_LetterCourtEvent1Label>Border rumors: {0}</Rpt_LetterCourtEvent1Label>
-  <Rpt_LetterCourtEvent1>Rumors are spreading through the settlements of {0} that we speak ill of them behind their backs. Whoever started them, left alone they will harden into fact.\n\nSend an envoy to set the record straight — or, if you have a chancellor, let them talk the rumors down.</Rpt_LetterCourtEvent1>
-  <Rpt_CourtEvent1_Pay>Send an envoy to clarify ({0} silver)</Rpt_CourtEvent1_Pay>
-  <Rpt_CourtEvent1_Ignore>Let it be</Rpt_CourtEvent1_Ignore>
-  <Rpt_CourtEvent1_Role>The chancellor sets things straight ({0})</Rpt_CourtEvent1_Role>
-  <Rpt_LetterCourtEvent2Label>Visiting delegation: {0}</Rpt_LetterCourtEvent2Label>
-  <Rpt_LetterCourtEvent2>A delegation of {0} has arrived unannounced, expecting a reception befitting their standing. How we receive them will travel far.\n\nHost them generously — or, if you have a chancellor, receive them with grace at no cost.</Rpt_LetterCourtEvent2>
-  <Rpt_CourtEvent2_Pay>Host them generously ({0} silver)</Rpt_CourtEvent2_Pay>
-  <Rpt_CourtEvent2_Ignore>Turn them away</Rpt_CourtEvent2_Ignore>
-  <Rpt_CourtEvent2_Role>The chancellor receives them ({0})</Rpt_CourtEvent2_Role>
-  <Rpt_LetterCourtEvent3Label>Treaty wording dispute: {0}</Rpt_LetterCourtEvent3Label>
-  <Rpt_LetterCourtEvent3>{0} is picking at the wording of an old agreement, pressing an interpretation that favors them.\n\nPay for a renegotiation to settle it — or, if you have a chancellor, refute them point by point.</Rpt_LetterCourtEvent3>
-  <Rpt_CourtEvent3_Pay>Pay for renegotiation ({0} silver)</Rpt_CourtEvent3_Pay>
-  <Rpt_CourtEvent3_Ignore>Ignore it</Rpt_CourtEvent3_Ignore>
-  <Rpt_CourtEvent3_Role>The chancellor argues the letter of the law ({0})</Rpt_CourtEvent3_Role>
-  <Rpt_LetterCourtEvent4Label>Show of force: {0}</Rpt_LetterCourtEvent4Label>
-  <Rpt_LetterCourtEvent4>An armed band from {0} is flexing its muscle near the settlement and demanding tribute.\n\nPay them off — or, if you have a marshal, answer strength with strength. Ignore them at your own risk.</Rpt_LetterCourtEvent4>
-  <Rpt_CourtEvent4_Pay>Pay the tribute ({0} silver)</Rpt_CourtEvent4_Pay>
-  <Rpt_CourtEvent4_Ignore>Ignore the demand</Rpt_CourtEvent4_Ignore>
-  <Rpt_CourtEvent4_Role>The marshal faces them down ({0})</Rpt_CourtEvent4_Role>
-  <Rpt_LetterCourtEvent5Label>Deserter raiders: {0}</Rpt_LetterCourtEvent5Label>
-  <Rpt_LetterCourtEvent5>An armed band of deserters from {0} is prowling the edge of our territory. Sooner or later they will eye our stores.\n\nHire mercenaries to drive them off — or, if you have a marshal, mount a punitive show of force.</Rpt_LetterCourtEvent5>
-  <Rpt_CourtEvent5_Pay>Hire mercenaries ({0} silver)</Rpt_CourtEvent5_Pay>
-  <Rpt_CourtEvent5_Ignore>Let them prowl</Rpt_CourtEvent5_Ignore>
-  <Rpt_CourtEvent5_Role>The marshal leads the sweep ({0})</Rpt_CourtEvent5_Role>
-  <Rpt_LetterCourtEvent6Label>Joint exercise: {0}</Rpt_LetterCourtEvent6Label>
-  <Rpt_LetterCourtEvent6>{0} proposes a joint military exercise — and clearly expects a show of good faith in supplies.\n\nContribute supplies — or, if you have a marshal, show good faith in person. Refusing will disappoint them.</Rpt_LetterCourtEvent6>
-  <Rpt_CourtEvent6_Pay>Contribute supplies ({0} silver)</Rpt_CourtEvent6_Pay>
-  <Rpt_CourtEvent6_Ignore>Decline</Rpt_CourtEvent6_Ignore>
-  <Rpt_CourtEvent6_Role>The marshal joins the exercise ({0})</Rpt_CourtEvent6_Role>
-  <Rpt_LetterCourtEvent7Label>Smuggled arms: {0}</Rpt_LetterCourtEvent7Label>
-  <Rpt_LetterCourtEvent7>{0} protests that weapons traced back to us were used in crimes on their territory.\n\nPay compensation to settle it — or, if you have a marshal, trace the weapons and clear our name. Stonewalling will sour relations.</Rpt_LetterCourtEvent7>
-  <Rpt_CourtEvent7_Pay>Pay compensation ({0} silver)</Rpt_CourtEvent7_Pay>
-  <Rpt_CourtEvent7_Ignore>Stonewall</Rpt_CourtEvent7_Ignore>
-  <Rpt_CourtEvent7_Role>The marshal traces the weapons ({0})</Rpt_CourtEvent7_Role>
-  <Rpt_LetterCourtEvent8Label>Trade dispute: {0}</Rpt_LetterCourtEvent8Label>
-  <Rpt_LetterCourtEvent8>A caravan of {0} is demanding compensation over damaged cargo and unpaid dues.\n\nPay the compensation — or, if you have a steward, entrust them with mediation. Refusing will sour relations.</Rpt_LetterCourtEvent8>
-  <Rpt_CourtEvent8_Pay>Pay compensation ({0} silver)</Rpt_CourtEvent8_Pay>
-  <Rpt_CourtEvent8_Ignore>Refuse</Rpt_CourtEvent8_Ignore>
-  <Rpt_CourtEvent8_Role>Let the steward mediate ({0})</Rpt_CourtEvent8_Role>
-  <Rpt_LetterCourtEvent9Label>Rigged scales: {0}</Rpt_LetterCourtEvent9Label>
-  <Rpt_LetterCourtEvent9>A caravan of {0} claims our scales are rigged. If the story spreads, other traders will turn away too.\n\nPay for a certified re-weighing — or, if you have a steward, prove our honesty with a public inspection.</Rpt_LetterCourtEvent9>
-  <Rpt_CourtEvent9_Pay>Pay for re-weighing ({0} silver)</Rpt_CourtEvent9_Pay>
-  <Rpt_CourtEvent9_Ignore>Ignore it</Rpt_CourtEvent9_Ignore>
-  <Rpt_CourtEvent9_Role>The steward holds a public inspection ({0})</Rpt_CourtEvent9_Role>
-  <Rpt_LetterCourtEvent10Label>Warehouse fire liability: {0}</Rpt_LetterCourtEvent10Label>
-  <Rpt_LetterCourtEvent10>Consigned cargo belonging to {0} was lost in an accident at our warehouse, and they are holding us liable.\n\nPay full compensation — or, if you have a steward, salvage and restore to limit the damage. Refusing outright will badly sour relations.</Rpt_LetterCourtEvent10>
-  <Rpt_CourtEvent10_Pay>Pay in full ({0} silver)</Rpt_CourtEvent10_Pay>
-  <Rpt_CourtEvent10_Ignore>Refuse liability</Rpt_CourtEvent10_Ignore>
-  <Rpt_CourtEvent10_Role>The steward handles the salvage ({0})</Rpt_CourtEvent10_Role>
-  <Rpt_LetterCourtEvent11Label>Toll increase: {0}</Rpt_LetterCourtEvent11Label>
-  <Rpt_LetterCourtEvent11>{0} has announced a toll increase on our merchants passing through their territory.\n\nAccept and pay — or, if you have a steward, negotiate the increase away. Mere protest will sour relations.</Rpt_LetterCourtEvent11>
-  <Rpt_CourtEvent11_Pay>Accept the increase ({0} silver)</Rpt_CourtEvent11_Pay>
-  <Rpt_CourtEvent11_Ignore>Protest</Rpt_CourtEvent11_Ignore>
-  <Rpt_CourtEvent11_Role>The steward negotiates ({0})</Rpt_CourtEvent11_Role>
-  <Rpt_CourtEvent_NeedRole>Requires a colonist appointed as {0}</Rpt_CourtEvent_NeedRole>
-  <Rpt_MsgCourtEventPaid>The matter with {0} was quietly settled.</Rpt_MsgCourtEventPaid>
-  <Rpt_MsgCourtEventRaidIgnored>The demand from {0} was ignored. Time will tell how they respond.</Rpt_MsgCourtEventRaidIgnored>
-  <Rpt_MsgCourtEventRoleOk0>{0}'s words carried the day — the matter with {1} became a chance to build trust.</Rpt_MsgCourtEventRoleOk0>
-  <Rpt_MsgCourtEventRoleOk1>{0} settled the matter by strength — {1} won't press the issue again.</Rpt_MsgCourtEventRoleOk1>
-  <Rpt_MsgCourtEventRoleOk2>{0} squared the accounts cleanly and earned the trust of {1}.</Rpt_MsgCourtEventRoleOk2>
-  <Rpt_CourtEvent_RiskyTag>— unskilled (needs {0}; failure makes things worse)</Rpt_CourtEvent_RiskyTag>
-  <Rpt_MsgCourtEventBotched>{0}'s clumsy handling only made things worse — {1} is angrier than before.</Rpt_MsgCourtEventBotched>
-  <Rpt_MsgCourtEventRoleFail>{0}'s attempt did not get through.</Rpt_MsgCourtEventRoleFail>
-  <Rpt_TrustReason_CourtEvent>Court event</Rpt_TrustReason_CourtEvent>
-  <Rpt_LetterVisitMarryLabel>Marriage proposal: {0}</Rpt_LetterVisitMarryLabel>
-  <Rpt_LetterVisitMarry>During the stay, {0} of {2} has fallen for our colonist {1}. If the marriage is blessed, {0} will remain at the settlement as {1}'s spouse, tying our colony to {2} by blood.\n\nAs the heart chose freely, no dowry is asked.</Rpt_LetterVisitMarry>
-  <Rpt_MarryOffer_AcceptFree>Bless the marriage</Rpt_MarryOffer_AcceptFree>
-  <Rpt_UI_EcoLine>World economy: {0}</Rpt_UI_EcoLine>
-  <Rpt_Eco_Boom>boom</Rpt_Eco_Boom>
-  <Rpt_Eco_Normal>steady</Rpt_Eco_Normal>
-  <Rpt_Eco_Recession>recession</Rpt_Eco_Recession>
-  <Rpt_Eco_BoomTip>Effects while the boom lasts:\n\n- Market prices +{0}\n- Trader silver ×{1}\n- Trade route income ×{2}\n- Extra trader frequency ×{3}\n- Tribute income ×{4}</Rpt_Eco_BoomTip>
-  <Rpt_Eco_RecessionTip>Effects while the recession lasts:\n\n- Market prices −{0}\n- Trader silver ×{1}\n- Trade route income ×{2}\n- Extra trader frequency ×{3}\n- Tribute income ×{4}\n- Trade route incident chance ×{5}\n- Court event chance ×{6}\n- Trade company effective level −1 (one trade route suspended)</Rpt_Eco_RecessionTip>
-  <Rpt_LetterEcoBoomLabel>World economy: boom</Rpt_LetterEcoBoomLabel>
-  <Rpt_LetterEcoBoom>The world market has entered a boom. Traders arrive more often with heavier purses, and trade route and tribute income rise.</Rpt_LetterEcoBoom>
-  <Rpt_LetterEcoRecessionLabel>World economy: recession</Rpt_LetterEcoRecessionLabel>
-  <Rpt_LetterEcoRecession>The world market has fallen into recession. Traders come less often, trade route income shrinks, and mishaps grow more frequent.</Rpt_LetterEcoRecession>
-  <Rpt_LetterEcoRecoverLabel>World economy: recovery</Rpt_LetterEcoRecoverLabel>
-  <Rpt_LetterEcoRecover>The world market has returned to normal.</Rpt_LetterEcoRecover>
-  <Rpt_UI_Expo>Host a trade expo…</Rpt_UI_Expo>
-  <Rpt_UI_ExpoPrepDays>Expo in preparation — opens in {0} days</Rpt_UI_ExpoPrepDays>
-  <Rpt_UI_ExpoOpenDays>Expo underway — {0} days left</Rpt_UI_ExpoOpenDays>
-  <Rpt_Expo_SummitBusy>An international summit is in progress.</Rpt_Expo_SummitBusy>
-  <Rpt_Expo_NeedCompany>Requires a trade company of level {0} or higher.</Rpt_Expo_NeedCompany>
-  <Rpt_Expo_Confirm>Host an international trade expo for {0} silver? After preparations it will open; while it lasts you can request goods from participants without the usual markup, and trading with their traders becomes favorable.\n\nExpected participation:\n{1}</Rpt_Expo_Confirm>
-  <Rpt_LetterExpoOpenLabel>Expo opened</Rpt_LetterExpoOpenLabel>
-  <Rpt_LetterExpoOpen>The international trade expo has opened. {0} factions are participating: {1}\n\nWhile it lasts you can request goods from participants without the usual markup, and buy from their traders at a discount.</Rpt_LetterExpoOpen>
-  <Rpt_LetterExpoFailLabel>Expo cancelled</Rpt_LetterExpoFailLabel>
-  <Rpt_LetterExpoFail>No faction agreed to attend, and the expo fell through. Part of the cost ({0} silver) was refunded.</Rpt_LetterExpoFail>
-  <Rpt_LetterExpoEndLabel>Expo closed</Rpt_LetterExpoEndLabel>
-  <Rpt_LetterExpoEnd>The international trade expo has closed successfully. Trust with the {0} participating factions has deepened.</Rpt_LetterExpoEnd>
-  <Rpt_TrustReason_Expo>Trade expo</Rpt_TrustReason_Expo>
-  <Rpt_LetterExpoInviteLabel>Expo invitation — {0}</Rpt_LetterExpoInviteLabel>
-  <Rpt_LetterExpoInvite>{0} is hosting an international trade expo and has invited us. It runs for {1} days.
+  <Rpt_UI_SpyStationed>Espion infiltré</Rpt_UI_SpyStationed>
+  <Rpt_Spy_KindTech>Voler une technologie</Rpt_Spy_KindTech>
+  <Rpt_Spy_KindIncite>Inciter à la rébellion</Rpt_Spy_KindIncite>
+  <Rpt_Spy_StartOp>Lancer une opération…</Rpt_Spy_StartOp>
+  <Rpt_Spy_Recall>Rappeler</Rpt_Spy_Recall>
+  <Rpt_Spy_ActivityNone>Aucune activité de renseignement en cours.</Rpt_Spy_ActivityNone>
+  <Rpt_Spy_NoTargets>Aucune faction cible</Rpt_Spy_NoTargets>
+  <Rpt_Spy_AlreadyPlanted>Un espion y est déjà infiltré</Rpt_Spy_AlreadyPlanted>
+  <Rpt_Spy_ReinfilCooldown>Nouvelle infiltration dans {0} jours</Rpt_Spy_ReinfilCooldown>
+  <Rpt_MsgSpyRecalled>L'espion {0} a été rappelé de {1}.</Rpt_MsgSpyRecalled>
+  <Rpt_LetterSpyStationExposed>Notre espion infiltré chez {0} a été découvert et exfiltré. Les relations en ont souffert et aucune nouvelle infiltration ne sera possible pendant {1} jours.</Rpt_LetterSpyStationExposed>
+  <Rpt_UI_SubmitTipHidden>Pression de soumission ? / {0}\n\nLeurs rouages internes nous sont inconnus. Une opération de collecte menée par un bureau du renseignement peut les révéler.</Rpt_UI_SubmitTipHidden>
+  <Rpt_UI_DemandConfirmBlind>Exiger un tribut de {0}.\n\nVous formulez cette exigence à l'aveugle, sans connaître leurs rouages internes. En cas de refus, les relations se dégraderont fortement et vous ne pourrez pas réitérer votre exigence pendant un certain temps.</Rpt_UI_DemandConfirmBlind>
+  <Rpt_TrustReason_CivilWarCoup>Coup d'État (méfiance du nouveau régime)</Rpt_TrustReason_CivilWarCoup>
+  <Rpt_LetterCivilWarLabel>Guerre civile : {0}</Rpt_LetterCivilWarLabel>
+  <Rpt_LetterCivilWar>Une guerre civile a éclaté au sein de {0}. Les rebelles se sont soulevés, scindant le pays en deux camps qui s'affrontent.\n\nJusqu'à la fin du conflit, aucune diplomatie n'est possible avec cette faction et aucun marchand n'en viendra.</Rpt_LetterCivilWar>
+  <Rpt_LetterCivilWarProgLabel>Rapport sur la guerre civile : {0}</Rpt_LetterCivilWarProgLabel>
+  <Rpt_LetterCivilWarProg1Gov>Des nouvelles de la guerre civile au sein de {0}. Les forces gouvernementales tiennent les principales places fortes et prennent l'avantage.</Rpt_LetterCivilWarProg1Gov>
+  <Rpt_LetterCivilWarProg1Reb>Des nouvelles de la guerre civile au sein de {0}. L'élan des rebelles est alarmant — les provinces tombent l'une après l'autre entre leurs mains.</Rpt_LetterCivilWarProg1Reb>
+  <Rpt_LetterCivilWarProg2Gov>La guerre civile au sein de {0} touche à sa fin. Les forces gouvernementales se rapprochent des chefs rebelles ; leur écrasement semble imminent.</Rpt_LetterCivilWarProg2Gov>
+  <Rpt_LetterCivilWarProg2Reb>La guerre civile au sein de {0} touche à sa fin. Les rebelles ont atteint les portes de la capitale. La rumeur prétend que le régime ne tiendra pas.</Rpt_LetterCivilWarProg2Reb>
+  <Rpt_LetterCivilWarQuellLabel>Fin de la guerre civile : {0}</Rpt_LetterCivilWarQuellLabel>
+  <Rpt_LetterCivilWarQuell>La guerre civile au sein de {0} a pris fin. Les forces gouvernementales ont écrasé la rébellion et le pays retrouve lentement sa stabilité.</Rpt_LetterCivilWarQuell>
+  <Rpt_LetterCivilWarCoupLabel>Coup d'État : {0}</Rpt_LetterCivilWarCoupLabel>
+  <Rpt_LetterCivilWarCoup>La guerre civile au sein de {0} s'est achevée par un coup d'État. Les anciens dirigeants ont été chassés et {1} a repris le flambeau.\n\nLa cour a été entièrement purgée — les relations diplomatiques doivent être rebâties.</Rpt_LetterCivilWarCoup>
+  <Rpt_LetterCivilWarSplitLabel>Faction fracturée : {0}</Rpt_LetterCivilWarSplitLabel>
+  <Rpt_LetterCivilWarSplit>La guerre civile au sein de {0} a connu la pire issue possible. Le pays a été déchiré en deux : les rebelles ont proclamé leur indépendance sous le nom de {1} et sont désormais en guerre contre leur ancienne patrie.</Rpt_LetterCivilWarSplit>
+  <Rpt_LetterAsylumLabel>Demande d'asile : {0}</Rpt_LetterAsylumLabel>
+  <Rpt_LetterAsylum>{0}, ancien {2} de {1}, a été victime de la purge qui a suivi le coup d'État et demande désormais l'asile dans notre colonie. L'accueillir nous apportera un colon, mais le nouveau régime nous en tiendra rigueur.\n\nCompétences notables : {3}</Rpt_LetterAsylum>
+  <Rpt_Asylum_Accept>Accorder l'asile</Rpt_Asylum_Accept>
+  <Rpt_Asylum_Refuse>Refuser</Rpt_Asylum_Refuse>
+  <Rpt_MsgAsylumJoined>{0} a obtenu l'asile et rejoint la colonie.</Rpt_MsgAsylumJoined>
+  <Rpt_TrustReason_Asylum>Asile accordé</Rpt_TrustReason_Asylum>
+  <Rpt_LetterRouteTollLabel>Péage sur la route commerciale : {0}</Rpt_LetterRouteTollLabel>
+  <Rpt_LetterRouteToll>Des bandits de grand chemin exigent un péage sur la route commerciale menant à {1}. Payez {2} unités d'argent pour recevoir sans perte les revenus de ce trimestre ({3} unités d'argent). Si vous refusez, les revenus de ce trimestre seront perdus. Dans les deux cas, la route restera ouverte.</Rpt_LetterRouteToll>
+  <Rpt_RouteToll_Pay>Payer le péage ({0} unités d'argent)</Rpt_RouteToll_Pay>
+  <Rpt_RouteToll_Refuse>Refuser (renoncer aux revenus de ce trimestre)</Rpt_RouteToll_Refuse>
+  <Rpt_MsgRouteTollRefused>Le péage a été refusé — les revenus de ce trimestre issus de la route commerciale {0} sont perdus.</Rpt_MsgRouteTollRefused>
+  <Rpt_LetterRouteBoomLabel>Essor de la route commerciale : {0}</Rpt_LetterRouteBoomLabel>
+  <Rpt_LetterRouteBoom>Les marchés de {1} sont en plein essor et la route commerciale avec {0} a rapporté la somme exceptionnellement élevée de {2} unités d'argent.</Rpt_LetterRouteBoom>
+  <Rpt_LetterRouteDisruptLabel>Perturbation de la route commerciale : {0}</Rpt_LetterRouteDisruptLabel>
+  <Rpt_LetterRouteDisrupt>La route commerciale menant à {1} a été temporairement perturbée et n'a généré aucun revenu ce trimestre. Les affaires devraient revenir à la normale au prochain trimestre.</Rpt_LetterRouteDisrupt>
+  <Rpt_LetterVisitOfferLabel>Visite d'État proposée : {0}</Rpt_LetterVisitOfferLabel>
+  <Rpt_LetterVisitOffer>{1}, {2} de {0}, souhaite visiter notre colonie en personne. Si nous acceptons, cette personne arrivera sous peu et restera {3} jour(s). La qualité de notre accueil influencera sa faveur personnelle et la confiance de sa faction.</Rpt_LetterVisitOffer>
+  <Rpt_VisitOffer_Accept>Accueillir la visite</Rpt_VisitOffer_Accept>
+  <Rpt_VisitOffer_Decline>Décliner poliment</Rpt_VisitOffer_Decline>
+  <Rpt_MsgVisitBusy>Une visite d'État est déjà en cours.</Rpt_MsgVisitBusy>
+  <Rpt_MsgVisitComing>{0} de {1} arrivera bientôt à la colonie.</Rpt_MsgVisitComing>
+  <Rpt_LetterVisitHostLabel>Arrivée d'un hôte d'État : {0}</Rpt_LetterVisitHostLabel>
+  <Rpt_LetterVisitHost>{0} de {1} est arrivé à la colonie. Pendant son séjour, cet hôte de marque vit parmi nous — il obéit aux ordres, mais ne travaille pas — puis repart au bout d'une journée.\n\nComment devons-nous l'accueillir ? Un grand festin coûte {2} unités d'argent.</Rpt_LetterVisitHost>
+  <Rpt_VisitQuestName>Visite d'État : {0}</Rpt_VisitQuestName>
+  <Rpt_VisitQuestDesc>{0} de {1} séjourne dans notre colonie en tant qu'hôte de marque. Cette personne ne peut pas être mise au travail. Assurer son retour en toute sécurité améliorera nos relations.</Rpt_VisitQuestDesc>
+  <Rpt_Court_VisitTag>(en visite)</Rpt_Court_VisitTag>
+  <Rpt_VisitHost_Feast>Organiser un grand festin ({0} unités d'argent)</Rpt_VisitHost_Feast>
+  <Rpt_VisitHost_Standard>Accueillir avec les égards qui s'imposent</Rpt_VisitHost_Standard>
+  <Rpt_VisitHost_Cold>Traiter avec mépris (départ immédiat)</Rpt_VisitHost_Cold>
+  <Rpt_MsgVisitCold>{0} considère cet accueil glacial comme une insulte et retourne à {1}.</Rpt_MsgVisitCold>
+  <Rpt_LetterVisitEndLabel>Départ de l'hôte d'État : {0}</Rpt_LetterVisitEndLabel>
+  <Rpt_LetterVisitEnd>{0} a achevé un séjour agréable et est retourné à {1}. Cette visite a laissé une excellente impression sur les relations entre nos peuples.</Rpt_LetterVisitEnd>
+  <Rpt_LetterVisitDeathLabel>Hôte d'État tué : {0}</Rpt_LetterVisitDeathLabel>
+  <Rpt_LetterVisitDeath>{0}, l'hôte d'État placé sous notre protection, est mort dans notre colonie. {1} nous tient pour responsables de sa mort.</Rpt_LetterVisitDeath>
+  <Rpt_LetterVisitMournLabel>Hôte d'État perdu : {0}</Rpt_LetterVisitMournLabel>
+  <Rpt_LetterVisitMourn>{0}, notre hôte d'État, a été tué dans le chaos de l'attaque contre notre colonie. {1} comprend les circonstances et ne nous en tient guère rigueur, mais nous lui devons des condoléances.</Rpt_LetterVisitMourn>
+  <Rpt_MsgVisitAborted>{0} écourte sa visite face à ce soudain retournement de situation et retourne à {1}.</Rpt_MsgVisitAborted>
+  <Rpt_MsgVisitStranded>{0} n'a plus aucun endroit où retourner et reste dans la colonie.</Rpt_MsgVisitStranded>
+  <Rpt_TrustReason_Visit>Visite d'État accueillie</Rpt_TrustReason_Visit>
+  <Rpt_TrustReason_VisitCold>Hôte d'État traité avec mépris</Rpt_TrustReason_VisitCold>
+  <Rpt_TrustReason_VisitDeath>Hôte d'État décédé</Rpt_TrustReason_VisitDeath>
+  <Rpt_LetterCourtEvent0Label>Impair diplomatique : {0}</Rpt_LetterCourtEvent0Label>
+  <Rpt_LetterCourtEvent0>Un émissaire de {0} est reparti profondément offensé par un impair de notre part. Sans intervention, nos relations se détérioreront.\n\nEnvoyez un émissaire présenter nos excuses pour apaiser la situation — ou, si vous avez un chancelier, confiez-lui la médiation.</Rpt_LetterCourtEvent0>
+  <Rpt_CourtEvent0_Pay>Envoyer des excuses ({0} unités d'argent)</Rpt_CourtEvent0_Pay>
+  <Rpt_CourtEvent0_Ignore>Ignorer l'incident</Rpt_CourtEvent0_Ignore>
+  <Rpt_CourtEvent0_Role>Laisser le chancelier servir de médiateur ({0})</Rpt_CourtEvent0_Role>
+  <Rpt_LetterCourtEvent1Label>Rumeurs frontalières : {0}</Rpt_LetterCourtEvent1Label>
+  <Rpt_LetterCourtEvent1>Des rumeurs se répandent dans les colonies de {0}, affirmant que nous les dénigrons dans leur dos. Quelle qu'en soit l'origine, elles finiront par passer pour des faits si nous ne réagissons pas.\n\nEnvoyez un émissaire rétablir la vérité — ou, si vous avez un chancelier, laissez-le faire taire les rumeurs.</Rpt_LetterCourtEvent1>
+  <Rpt_CourtEvent1_Pay>Envoyer un émissaire clarifier la situation ({0} unités d'argent)</Rpt_CourtEvent1_Pay>
+  <Rpt_CourtEvent1_Ignore>Laisser courir</Rpt_CourtEvent1_Ignore>
+  <Rpt_CourtEvent1_Role>Le chancelier rétablit la vérité ({0})</Rpt_CourtEvent1_Role>
+  <Rpt_LetterCourtEvent2Label>Délégation en visite : {0}</Rpt_LetterCourtEvent2Label>
+  <Rpt_LetterCourtEvent2>Une délégation de {0} est arrivée sans prévenir et s'attend à un accueil digne de son rang. La nouvelle de notre réception se répandra au loin.\n\nAccueillez-la généreusement — ou, si vous avez un chancelier, laissez-le la recevoir avec élégance sans rien dépenser.</Rpt_LetterCourtEvent2>
+  <Rpt_CourtEvent2_Pay>Accueillir généreusement ({0} unités d'argent)</Rpt_CourtEvent2_Pay>
+  <Rpt_CourtEvent2_Ignore>Les renvoyer</Rpt_CourtEvent2_Ignore>
+  <Rpt_CourtEvent2_Role>Le chancelier les reçoit ({0})</Rpt_CourtEvent2_Role>
+  <Rpt_LetterCourtEvent3Label>Litige sur les termes d'un traité : {0}</Rpt_LetterCourtEvent3Label>
+  <Rpt_LetterCourtEvent3>{0} ergote sur les termes d'un ancien accord et défend une interprétation qui l'avantage.\n\nPayez pour renégocier et régler le différend — ou, si vous avez un chancelier, laissez-le réfuter chaque argument.</Rpt_LetterCourtEvent3>
+  <Rpt_CourtEvent3_Pay>Payer la renégociation ({0} unités d'argent)</Rpt_CourtEvent3_Pay>
+  <Rpt_CourtEvent3_Ignore>Ignorer le différend</Rpt_CourtEvent3_Ignore>
+  <Rpt_CourtEvent3_Role>Le chancelier invoque la lettre de la loi ({0})</Rpt_CourtEvent3_Role>
+  <Rpt_LetterCourtEvent4Label>Démonstration de force : {0}</Rpt_LetterCourtEvent4Label>
+  <Rpt_LetterCourtEvent4>Une bande armée de {0} parade près de la colonie et exige un tribut.\n\nPayez-la — ou, si vous avez un maréchal, opposez la force à la force. Ignorez-la à vos risques et périls.</Rpt_LetterCourtEvent4>
+  <Rpt_CourtEvent4_Pay>Payer le tribut ({0} unités d'argent)</Rpt_CourtEvent4_Pay>
+  <Rpt_CourtEvent4_Ignore>Ignorer l'exigence</Rpt_CourtEvent4_Ignore>
+  <Rpt_CourtEvent4_Role>Le maréchal leur tient tête ({0})</Rpt_CourtEvent4_Role>
+  <Rpt_LetterCourtEvent5Label>Pillards déserteurs : {0}</Rpt_LetterCourtEvent5Label>
+  <Rpt_LetterCourtEvent5>Une bande armée de déserteurs de {0} rôde aux confins de notre territoire. Tôt ou tard, elle convoitera nos réserves.\n\nEngagez des mercenaires pour la chasser — ou, si vous avez un maréchal, organisez une démonstration de force punitive.</Rpt_LetterCourtEvent5>
+  <Rpt_CourtEvent5_Pay>Engager des mercenaires ({0} unités d'argent)</Rpt_CourtEvent5_Pay>
+  <Rpt_CourtEvent5_Ignore>Les laisser rôder</Rpt_CourtEvent5_Ignore>
+  <Rpt_CourtEvent5_Role>Le maréchal mène le ratissage ({0})</Rpt_CourtEvent5_Role>
+  <Rpt_LetterCourtEvent6Label>Exercice conjoint : {0}</Rpt_LetterCourtEvent6Label>
+  <Rpt_LetterCourtEvent6>{0} propose un exercice militaire conjoint — et attend manifestement que nous lui fournissions du ravitaillement en signe de bonne foi.\n\nFournissez du ravitaillement — ou, si vous avez un maréchal, laissez-le témoigner de notre bonne foi en personne. Un refus les décevra.</Rpt_LetterCourtEvent6>
+  <Rpt_CourtEvent6_Pay>Fournir du ravitaillement ({0} unités d'argent)</Rpt_CourtEvent6_Pay>
+  <Rpt_CourtEvent6_Ignore>Décliner</Rpt_CourtEvent6_Ignore>
+  <Rpt_CourtEvent6_Role>Le maréchal participe à l'exercice ({0})</Rpt_CourtEvent6_Role>
+  <Rpt_LetterCourtEvent7Label>Armes de contrebande : {0}</Rpt_LetterCourtEvent7Label>
+  <Rpt_LetterCourtEvent7>{0} proteste : des armes remontant jusqu'à nous ont servi à commettre des crimes sur son territoire.\n\nVersez une indemnité pour régler l'affaire — ou, si vous avez un maréchal, laissez-le remonter la piste des armes et laver notre honneur. Refuser de coopérer détériorera nos relations.</Rpt_LetterCourtEvent7>
+  <Rpt_CourtEvent7_Pay>Verser une indemnité ({0} unités d'argent)</Rpt_CourtEvent7_Pay>
+  <Rpt_CourtEvent7_Ignore>Refuser de coopérer</Rpt_CourtEvent7_Ignore>
+  <Rpt_CourtEvent7_Role>Le maréchal remonte la piste des armes ({0})</Rpt_CourtEvent7_Role>
+  <Rpt_LetterCourtEvent8Label>Litige commercial : {0}</Rpt_LetterCourtEvent8Label>
+  <Rpt_LetterCourtEvent8>Une caravane de {0} exige une indemnité pour des marchandises endommagées et des droits impayés.\n\nVersez l'indemnité — ou, si vous avez un intendant, confiez-lui la médiation. Un refus détériorera nos relations.</Rpt_LetterCourtEvent8>
+  <Rpt_CourtEvent8_Pay>Verser une indemnité ({0} unités d'argent)</Rpt_CourtEvent8_Pay>
+  <Rpt_CourtEvent8_Ignore>Refuser</Rpt_CourtEvent8_Ignore>
+  <Rpt_CourtEvent8_Role>Laisser l'intendant servir de médiateur ({0})</Rpt_CourtEvent8_Role>
+  <Rpt_LetterCourtEvent9Label>Balances truquées : {0}</Rpt_LetterCourtEvent9Label>
+  <Rpt_LetterCourtEvent9>Une caravane de {0} affirme que nos balances sont truquées. Si cette histoire se répand, les autres marchands nous éviteront eux aussi.\n\nPayez une nouvelle pesée certifiée — ou, si vous avez un intendant, laissez-le prouver notre honnêteté lors d'une inspection publique.</Rpt_LetterCourtEvent9>
+  <Rpt_CourtEvent9_Pay>Payer une nouvelle pesée ({0} unités d'argent)</Rpt_CourtEvent9_Pay>
+  <Rpt_CourtEvent9_Ignore>Ignorer l'accusation</Rpt_CourtEvent9_Ignore>
+  <Rpt_CourtEvent9_Role>L'intendant organise une inspection publique ({0})</Rpt_CourtEvent9_Role>
+  <Rpt_LetterCourtEvent10Label>Responsabilité dans l'incendie d'un entrepôt : {0}</Rpt_LetterCourtEvent10Label>
+  <Rpt_LetterCourtEvent10>Des marchandises en dépôt appartenant à {0} ont été perdues lors d'un accident dans notre entrepôt, et la faction nous en tient pour responsables.\n\nVersez une indemnité complète — ou, si vous avez un intendant, laissez-le récupérer et restaurer les marchandises pour limiter les dégâts. Un refus catégorique détériorera gravement nos relations.</Rpt_LetterCourtEvent10>
+  <Rpt_CourtEvent10_Pay>Tout rembourser ({0} unités d'argent)</Rpt_CourtEvent10_Pay>
+  <Rpt_CourtEvent10_Ignore>Refuser toute responsabilité</Rpt_CourtEvent10_Ignore>
+  <Rpt_CourtEvent10_Role>L'intendant s'occupe de la récupération ({0})</Rpt_CourtEvent10_Role>
+  <Rpt_LetterCourtEvent11Label>Hausse des droits de péage : {0}</Rpt_LetterCourtEvent11Label>
+  <Rpt_LetterCourtEvent11>{0} a annoncé une hausse des droits imposés à nos marchands qui traversent son territoire.\n\nAcceptez et payez — ou, si vous avez un intendant, laissez-le négocier l'annulation de la hausse. Une simple protestation détériorera nos relations.</Rpt_LetterCourtEvent11>
+  <Rpt_CourtEvent11_Pay>Accepter la hausse ({0} unités d'argent)</Rpt_CourtEvent11_Pay>
+  <Rpt_CourtEvent11_Ignore>Protester</Rpt_CourtEvent11_Ignore>
+  <Rpt_CourtEvent11_Role>L'intendant négocie ({0})</Rpt_CourtEvent11_Role>
+  <Rpt_CourtEvent_NeedRole>Nécessite un colon nommé au poste de {0}</Rpt_CourtEvent_NeedRole>
+  <Rpt_MsgCourtEventPaid>L'affaire avec {0} a été réglée discrètement.</Rpt_MsgCourtEventPaid>
+  <Rpt_MsgCourtEventRaidIgnored>L'exigence de {0} a été ignorée. Seul le temps dira comment la faction réagira.</Rpt_MsgCourtEventRaidIgnored>
+  <Rpt_MsgCourtEventRoleOk0>Les paroles de {0} l'ont emporté — l'affaire avec {1} est devenue une occasion de renforcer la confiance.</Rpt_MsgCourtEventRoleOk0>
+  <Rpt_MsgCourtEventRoleOk1>{0} a réglé l'affaire par la force — {1} ne soulèvera plus la question.</Rpt_MsgCourtEventRoleOk1>
+  <Rpt_MsgCourtEventRoleOk2>{0} a réglé les comptes avec précision et gagné la confiance de {1}.</Rpt_MsgCourtEventRoleOk2>
+  <Rpt_CourtEvent_RiskyTag>— inexpérimenté (nécessite {0} ; un échec aggravera la situation)</Rpt_CourtEvent_RiskyTag>
+  <Rpt_MsgCourtEventBotched>La maladresse de {0} n'a fait qu'empirer la situation — {1} est encore plus en colère qu'avant.</Rpt_MsgCourtEventBotched>
+  <Rpt_MsgCourtEventRoleFail>La tentative de {0} n'a pas abouti.</Rpt_MsgCourtEventRoleFail>
+  <Rpt_TrustReason_CourtEvent>Événement de cour</Rpt_TrustReason_CourtEvent>
+  <Rpt_LetterVisitMarryLabel>Demande en mariage : {0}</Rpt_LetterVisitMarryLabel>
+  <Rpt_LetterVisitMarry>Pendant son séjour, {0} de {2} est tombé sous le charme de notre colon {1}. Si le mariage est béni, {0} restera dans la colonie aux côtés de {1}, son conjoint, unissant ainsi notre colonie à {2} par les liens du sang.\n\nPuisque les cœurs se sont choisis librement, aucune dot n'est demandée.</Rpt_LetterVisitMarry>
+  <Rpt_MarryOffer_AcceptFree>Bénir le mariage</Rpt_MarryOffer_AcceptFree>
+  <Rpt_UI_EcoLine>Économie mondiale : {0}</Rpt_UI_EcoLine>
+  <Rpt_Eco_Boom>essor</Rpt_Eco_Boom>
+  <Rpt_Eco_Normal>stable</Rpt_Eco_Normal>
+  <Rpt_Eco_Recession>récession</Rpt_Eco_Recession>
+  <Rpt_Eco_BoomTip>Effets pendant toute la durée de l'essor :\n\n- Prix du marché +{0}\n- Argent des marchands ×{1}\n- Revenus des routes commerciales ×{2}\n- Fréquence des marchands supplémentaires ×{3}\n- Revenus des tributs ×{4}</Rpt_Eco_BoomTip>
+  <Rpt_Eco_RecessionTip>Effets pendant toute la durée de la récession :\n\n- Prix du marché −{0}\n- Argent des marchands ×{1}\n- Revenus des routes commerciales ×{2}\n- Fréquence des marchands supplémentaires ×{3}\n- Revenus des tributs ×{4}\n- Risque d'incident sur les routes commerciales ×{5}\n- Risque d'événement de cour ×{6}\n- Niveau effectif de la compagnie commerciale −1 (une route commerciale suspendue)</Rpt_Eco_RecessionTip>
+  <Rpt_LetterEcoBoomLabel>Économie mondiale : essor</Rpt_LetterEcoBoomLabel>
+  <Rpt_LetterEcoBoom>Le marché mondial est entré dans une période d'essor. Les marchands arrivent plus souvent avec des bourses mieux garnies, tandis que les revenus des routes commerciales et des tributs augmentent.</Rpt_LetterEcoBoom>
+  <Rpt_LetterEcoRecessionLabel>Économie mondiale : récession</Rpt_LetterEcoRecessionLabel>
+  <Rpt_LetterEcoRecession>Le marché mondial est tombé en récession. Les marchands viennent moins souvent, les revenus des routes commerciales diminuent et les incidents se multiplient.</Rpt_LetterEcoRecession>
+  <Rpt_LetterEcoRecoverLabel>Économie mondiale : reprise</Rpt_LetterEcoRecoverLabel>
+  <Rpt_LetterEcoRecover>Le marché mondial est revenu à la normale.</Rpt_LetterEcoRecover>
+  <Rpt_UI_Expo>Organiser une foire commerciale…</Rpt_UI_Expo>
+  <Rpt_UI_ExpoPrepDays>Foire en préparation — ouverture dans {0} jours</Rpt_UI_ExpoPrepDays>
+  <Rpt_UI_ExpoOpenDays>Foire en cours — {0} jours restants</Rpt_UI_ExpoOpenDays>
+  <Rpt_Expo_SummitBusy>Un sommet international est en cours.</Rpt_Expo_SummitBusy>
+  <Rpt_Expo_NeedCompany>Nécessite une compagnie commerciale de niveau {0} ou plus.</Rpt_Expo_NeedCompany>
+  <Rpt_Expo_Confirm>Organiser une foire commerciale internationale pour {0} unités d'argent ? Elle ouvrira après les préparatifs ; pendant toute sa durée, vous pourrez demander des marchandises aux participants sans la majoration habituelle et bénéficierez de conditions avantageuses auprès de leurs marchands.\n\nParticipation attendue :\n{1}</Rpt_Expo_Confirm>
+  <Rpt_LetterExpoOpenLabel>Foire ouverte</Rpt_LetterExpoOpenLabel>
+  <Rpt_LetterExpoOpen>La foire commerciale internationale a ouvert ses portes. {0} factions y participent : {1}\n\nPendant toute sa durée, vous pourrez demander des marchandises aux participants sans la majoration habituelle et acheter à prix réduit auprès de leurs marchands.</Rpt_LetterExpoOpen>
+  <Rpt_LetterExpoFailLabel>Foire annulée</Rpt_LetterExpoFailLabel>
+  <Rpt_LetterExpoFail>Aucune faction n'a accepté de participer et la foire a été annulée. Une partie du coût ({0} unités d'argent) a été remboursée.</Rpt_LetterExpoFail>
+  <Rpt_LetterExpoEndLabel>Foire terminée</Rpt_LetterExpoEndLabel>
+  <Rpt_LetterExpoEnd>La foire commerciale internationale s'est achevée avec succès. La confiance des {0} factions participantes s'est renforcée.</Rpt_LetterExpoEnd>
+  <Rpt_TrustReason_Expo>Foire commerciale</Rpt_TrustReason_Expo>
+  <Rpt_LetterExpoInviteLabel>Invitation à une foire — {0}</Rpt_LetterExpoInviteLabel>
+  <Rpt_LetterExpoInvite>{0} organise une foire commerciale internationale et nous y a invités. Elle durera {1} jours.
 
-Joining lets us request goods from the host and participants and trade on favorable terms for the duration of the expo. Decide within 24 hours.</Rpt_LetterExpoInvite>
-  <Rpt_LetterExpoJoinedLabel>Joined the expo</Rpt_LetterExpoJoinedLabel>
-  <Rpt_LetterExpoJoined>You took part in {0}'s expo. For its duration you can request goods from the host and participants and trade on favorable terms.</Rpt_LetterExpoJoined>
-  <Rpt_Expo_OtherHosting>{0} is hosting an expo — {1} days left</Rpt_Expo_OtherHosting>
-  <Rpt_Expo_Join>Join the expo</Rpt_Expo_Join>
-  <Rpt_Expo_Decline>Do not attend</Rpt_Expo_Decline>
-  <Rpt_Expo_Visit>Send a visitor…</Rpt_Expo_Visit>
-  <Rpt_Expo_VisitBusy>A visitor is already away.</Rpt_Expo_VisitBusy>
-  <Rpt_Msg_ExpoVisitSent>Sent {0} to visit {1}'s expo.</Rpt_Msg_ExpoVisitSent>
-  <Rpt_Msg_ExpoVisitBack>{0} has returned from the trade expo.</Rpt_Msg_ExpoVisitBack>
-  <Rpt_LetterExpoBetrayLabel>Expo bloodbath</Rpt_LetterExpoBetrayLabel>
-  <Rpt_LetterExpoBetray>Our colonists attacked or arrested a guest at the trade expo. The expo collapsed at once, and every participating faction turned hostile. Word of this atrocity spread across the world, and trust and goodwill with all factions plummeted.</Rpt_LetterExpoBetray>
-  <Rpt_TrustReason_ExpoAttack>Attacked an expo guest</Rpt_TrustReason_ExpoAttack>
-  <Rpt_TT_Recession>Recession — actually Lv.{0}, but treated one tier lower (one route halted, income reduced). It reverts once the economy recovers.</Rpt_TT_Recession>
-  <Rpt_TT_RecessionNoUpgrade>Cannot upgrade during a recession.</Rpt_TT_RecessionNoUpgrade>
-  <Rpt_Msg_ExpoParty>{1} party guests from {0} have arrived at the expo.</Rpt_Msg_ExpoParty>
-  <Rpt_Msg_ExpoPartyStart>An expo party has begun. Colonists gather to mingle with the guests.</Rpt_Msg_ExpoPartyStart>
-  <Rpt_Msg_ExpoVisitCancel>{0} did not board the shuttle, so the expo visit was cancelled.</Rpt_Msg_ExpoVisitCancel>
-  <Rpt_UI_PickupBusy>A shuttle dispatch is already underway. Try again once it finishes.</Rpt_UI_PickupBusy>
-  <Rpt_UI_DispatchedTag>(dispatched)</Rpt_UI_DispatchedTag>
-  <Rpt_Expo_OtherBusy>Another faction is hosting an expo. You can host one after it ends.</Rpt_Expo_OtherBusy>
+En y participant, nous pourrons demander des marchandises à l'hôte et aux participants, et bénéficier de conditions commerciales avantageuses pendant toute la durée de la foire. Nous avons 24 heures pour décider.</Rpt_LetterExpoInvite>
+  <Rpt_LetterExpoJoinedLabel>Participation à la foire</Rpt_LetterExpoJoinedLabel>
+  <Rpt_LetterExpoJoined>Vous avez participé à la foire de {0}. Pendant toute sa durée, vous pouvez demander des marchandises à l'hôte et aux participants, et bénéficier de conditions commerciales avantageuses.</Rpt_LetterExpoJoined>
+  <Rpt_Expo_OtherHosting>{0} organise une foire — {1} jours restants</Rpt_Expo_OtherHosting>
+  <Rpt_Expo_Join>Participer à la foire</Rpt_Expo_Join>
+  <Rpt_Expo_Decline>Ne pas participer</Rpt_Expo_Decline>
+  <Rpt_Expo_Visit>Envoyer un visiteur…</Rpt_Expo_Visit>
+  <Rpt_Expo_VisitBusy>Un visiteur est déjà parti.</Rpt_Expo_VisitBusy>
+  <Rpt_Msg_ExpoVisitSent>{0} a été envoyé à la foire de {1}.</Rpt_Msg_ExpoVisitSent>
+  <Rpt_Msg_ExpoVisitBack>{0} est revenu de la foire commerciale.</Rpt_Msg_ExpoVisitBack>
+  <Rpt_LetterExpoBetrayLabel>Carnage à la foire</Rpt_LetterExpoBetrayLabel>
+  <Rpt_LetterExpoBetray>Nos colons ont attaqué ou arrêté un invité de la foire commerciale. La foire a aussitôt été interrompue et toutes les factions participantes sont devenues hostiles. La nouvelle de cette atrocité s'est répandue dans le monde entier, faisant chuter la confiance et la bienveillance de toutes les factions.</Rpt_LetterExpoBetray>
+  <Rpt_TrustReason_ExpoAttack>Invité de la foire attaqué</Rpt_TrustReason_ExpoAttack>
+  <Rpt_TT_Recession>Récession — niveau réel {0}, mais considéré comme inférieur d'un niveau (une route interrompue, revenus réduits). Le niveau réel sera rétabli une fois l'économie redressée.</Rpt_TT_Recession>
+  <Rpt_TT_RecessionNoUpgrade>Impossible d'effectuer une amélioration pendant une récession.</Rpt_TT_RecessionNoUpgrade>
+  <Rpt_Msg_ExpoParty>{1} invités de {0} sont arrivés pour les festivités de la foire.</Rpt_Msg_ExpoParty>
+  <Rpt_Msg_ExpoPartyStart>Les festivités de la foire ont commencé. Les colons se réunissent pour échanger avec les invités.</Rpt_Msg_ExpoPartyStart>
+  <Rpt_Msg_ExpoVisitCancel>{0} n'est pas monté à bord de la navette ; la visite de la foire a donc été annulée.</Rpt_Msg_ExpoVisitCancel>
+  <Rpt_UI_PickupBusy>Une navette est déjà en cours d'envoi. Réessayez une fois l'opération terminée.</Rpt_UI_PickupBusy>
+  <Rpt_UI_DispatchedTag>(envoyé)</Rpt_UI_DispatchedTag>
+  <Rpt_Expo_OtherBusy>Une autre faction organise une foire. Vous pourrez en organiser une après la fin de celle-ci.</Rpt_Expo_OtherBusy>
 </LanguageData>
