@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Rpt_War_BackAllyWarn>※ Warning: backing this side turns your ally {0} hostile and breaks your treaties with them.</Rpt_War_BackAllyWarn>
+  <Rpt_War_BackTreatyWarn>※ Warning: backing this side turns {0} hostile and breaks your treaties with them.</Rpt_War_BackTreatyWarn>
+  <Rpt_War_CantBackPermanent>Cannot back a permanently hostile faction.</Rpt_War_CantBackPermanent>
+  <Rpt_War_CantBackFoe>Cannot back a faction at war with your colony.</Rpt_War_CantBackFoe>
+  <Rpt_MsgWarBackedNeutral>You declared support for {0}, ending your hostility with them. {1} is now hostile to you.</Rpt_MsgWarBackedNeutral>
+  <Rpt_World_DefendMarker>Defense battle target</Rpt_World_DefendMarker>
+  <Rpt_Act_WarIntel>Hand over intel ({0} sites)</Rpt_Act_WarIntel>
+  <Rpt_Act_WarIntelNone>No new intel to hand over. Scout or infiltrate the enemy's outposts.</Rpt_Act_WarIntelNone>
+  <Rpt_MsgWarIntelHanded>Handed {0} intel on {1} enemy outposts. (trust +{2}, {3} silver reward)</Rpt_MsgWarIntelHanded>
+  <Rpt_TrustReason_WarIntel>War intelligence</Rpt_TrustReason_WarIntel>
+  <Rpt_TrustReason_WarBacked>War support</Rpt_TrustReason_WarBacked>
+  <Rpt_MsgCoalitionSiege>{0} coalition factions are on their way to the battlefield.</Rpt_MsgCoalitionSiege>
+  <Rpt_LetterPeaceLabel>Peace</Rpt_LetterPeaceLabel>
+  <Rpt_LetterPeace>{0} and {1} have made peace.</Rpt_LetterPeace>
+  <Rpt_Act_Mediate>Mediate peace ({1} silver)</Rpt_Act_Mediate>
+  <Rpt_MsgMediateOk>You brokered peace between {0} and {1}. Both sides are grateful.</Rpt_MsgMediateOk>
+  <Rpt_MsgMediateFail>The mediation collapsed. Your envoys returned empty-handed.</Rpt_MsgMediateFail>
+  <Rpt_TrustReason_Mediate>Peace mediation</Rpt_TrustReason_Mediate>
+  <Rpt_Set_Dynamics>Faction dynamics</Rpt_Set_Dynamics>
+  <Rpt_Set_DynamicsTip>Factions actually go to war and make peace, feeding markets and trade routes.</Rpt_Set_DynamicsTip>
+  <Rpt_Set_DynamicsRival>Dynamic Diplomacy / Rim War / World Domination / RimChat detected — faction dynamics are automatically disabled (those mods take over).</Rpt_Set_DynamicsRival>
+  <Rpt_Act_Envoy>Send envoy…</Rpt_Act_Envoy>
+  <Rpt_Act_EnvoyBusy>An envoy is already abroad.</Rpt_Act_EnvoyBusy>
+  <Rpt_Act_PersonCooldown>Too soon. (available in {0} days)</Rpt_Act_PersonCooldown>
+  <Rpt_MsgEnvoySent>{0} left as an envoy to {1}. ({2} days)</Rpt_MsgEnvoySent>
+  <Rpt_MsgEnvoyAbort>{1} turned hostile — envoy {0} rushed home.</Rpt_MsgEnvoyAbort>
+  <Rpt_LetterEnvoyReturnLabel>Envoy returned: {0}</Rpt_LetterEnvoyReturnLabel>
+  <Rpt_LetterEnvoyReturn>{0} returned from the envoy mission. {1}'s favor {2}.</Rpt_LetterEnvoyReturn>
+  <Rpt_Act_Gift>Gift…</Rpt_Act_Gift>
+  <Rpt_Act_GiftTier>Gift {0} silver (favor +{1})</Rpt_Act_GiftTier>
+  <Rpt_MsgGift>Sent a gift to {0}. (favor +{1})</Rpt_MsgGift>
+  <Rpt_Act_Bribe>Bribe ({0} silver)…</Rpt_Act_Bribe>
+  <Rpt_MsgBribeOk>{0} quietly took the silver.</Rpt_MsgBribeOk>
+  <Rpt_LetterBribeExposedLabel>Bribe exposed: {0}</Rpt_LetterBribeExposedLabel>
+  <Rpt_LetterBribeExposed>The attempt to bribe {0} came to light. {1} is displeased.</Rpt_LetterBribeExposed>
+  <Rpt_Act_Marriage>Arrange marriage…</Rpt_Act_Marriage>
+  <Rpt_Marry_In>Marry in: {0} joins the colony (dowry {1} silver)</Rpt_Marry_In>
+  <Rpt_Marry_Out>Marry out: send a colonist to the court (permanent)</Rpt_Marry_Out>
+  <Rpt_Marry_OutConfirm>Marry {0} into the court of {1}?\n\nThey leave the colony forever. In return, the faction becomes your ally at once, blood ties are formed, and they become your voice inside the court. While the blood ties hold, relations will not collapse below a certain point — but attack them or keep provoking, and the marriage's protection ends.</Rpt_Marry_OutConfirm>
+  <Rpt_LetterMarryOfferLabel>Marriage offer — {0}</Rpt_LetterMarryOfferLabel>
+  <Rpt_LetterMarryOffer>{0} offers to marry their courtier {1} to one of our colonists, forging a marriage alliance. If accepted, {1} marries one of our unmarried adult colonists and joins the colony, blood ties are formed, and {1} still appears in {0}'s court as our ally.\n\nA dowry of {2} silver is required.</Rpt_LetterMarryOffer>
+  <Rpt_MarryOffer_Accept>Accept (dowry {0} silver)</Rpt_MarryOffer_Accept>
+  <Rpt_MarryOffer_Refuse>Decline</Rpt_MarryOffer_Refuse>
+  <Rpt_LetterMarryOutLabel>Married out</Rpt_LetterMarryOutLabel>
+  <Rpt_LetterMarryOut>{0} has married into the court of {1}. The faction becomes your ally at once, blood ties are formed, and {0} is now your voice inside the court.</Rpt_LetterMarryOut>
+  <Rpt_Marry_NoCandidates>(no eligible unmarried person)</Rpt_Marry_NoCandidates>
+  <Rpt_Marry_NoCompatible>No unmarried adult colonist of a compatible gender is available.</Rpt_Marry_NoCompatible>
+  <Rpt_MsgMarriedIn>{0} married our colonist {1} and joined the colony. Blood ties are formed with {2}, and {0} still appears in its court as our ally.</Rpt_MsgMarriedIn>
+  <Rpt_MsgMarriedOut>{0} married into the court of {1}. Blood ties formed.</Rpt_MsgMarriedOut>
+  <Rpt_UI_BloodTies>Blood ties — trust will not easily collapse.</Rpt_UI_BloodTies>
+  <Rpt_TrustReason_Marriage>Marriage alliance</Rpt_TrustReason_Marriage>
+  <Rpt_Court_RoleTribal_0>Elder</Rpt_Court_RoleTribal_0>
+  <Rpt_Court_RoleTribal_1>War chief</Rpt_Court_RoleTribal_1>
+  <Rpt_Court_RoleTribal_2>Barterer</Rpt_Court_RoleTribal_2>
+  <Rpt_Court_RoleInd_0>Premier</Rpt_Court_RoleInd_0>
+  <Rpt_Court_RoleInd_1>Commander-in-chief</Rpt_Court_RoleInd_1>
+  <Rpt_Court_RoleInd_2>Trade minister</Rpt_Court_RoleInd_2>
+  <Rpt_Court_Role_3>Kin</Rpt_Court_Role_3>
+  <Rpt_Court_RoleTip_3>One of your own, married into the court — your voice inside.</Rpt_Court_RoleTip_3>
+  <Rpt_Court_HostageTag>(hostage)</Rpt_Court_HostageTag>
+  <Rpt_Court_MarriedTag>(in-law)</Rpt_Court_MarriedTag>
+  <Rpt_Act_Hostage>Demand hostage</Rpt_Act_Hostage>
+  <Rpt_Act_HostageRelease>Release hostage</Rpt_Act_HostageRelease>
+  <Rpt_Act_HostageNeed>Requires a defense pact or tributary pact.</Rpt_Act_HostageNeed>
+  <Rpt_MsgHostageTaken>{0} of {1} arrived as a hostage. They will not act rashly.</Rpt_MsgHostageTaken>
+  <Rpt_MsgHostageReleased>Returned {0} to {1}. Good faith deepened.</Rpt_MsgHostageReleased>
+  <Rpt_TrustReason_HostageReleased>Hostage released</Rpt_TrustReason_HostageReleased>
+  <Rpt_Act_Assassinate>Hire assassins…</Rpt_Act_Assassinate>
+  <Rpt_Act_NoLeader>This faction has no leader.</Rpt_Act_NoLeader>
+  <Rpt_Act_AssassinateConfirm>Hire assassins against the leader of {0}?\n\nCost {1} silver, {2} days of preparation. {3}% success — if it fails, your involvement is exposed, trust collapses across the rim and war begins with that faction.</Rpt_Act_AssassinateConfirm>
+  <Rpt_LetterAssassinOkLabel>Assassination: {0}</Rpt_LetterAssassinOkLabel>
+  <Rpt_LetterAssassinOk>{0}, leader of {1}, was quietly removed. The faction falls into turmoil for {2} days. No one traced it back to you.</Rpt_LetterAssassinOk>
+  <Rpt_LetterAssassinExposedLabel>Assassination exposed: {0}</Rpt_LetterAssassinExposedLabel>
+  <Rpt_LetterAssassinExposed>The attempt on the leader of {0} was exposed! You were named as the instigator — trust has collapsed across the rim, and retaliation is coming.</Rpt_LetterAssassinExposed>
+  <Rpt_TrustReason_AssassinExposed>Assassination exposed</Rpt_TrustReason_AssassinExposed>
+  <Rpt_Act_Sabotage>Sabotage…</Rpt_Act_Sabotage>
+  <Rpt_Act_SabotageNeedCause>Requires hostility or a just cause.</Rpt_Act_SabotageNeedCause>
+  <Rpt_Act_SabotageConfirm>Send agents to sabotage {0}'s internal affairs (silver {1}, {2} days of preparation).\n\nSuccess chance is about {3}%. On success their national power is weakened and they fall into turmoil for {4} days, weakening their raids. On failure the agents may be caught, souring relations badly and inviting retaliation.</Rpt_Act_SabotageConfirm>
+  <Rpt_LetterSabotageOkLabel>Sabotage succeeded: {0}</Rpt_LetterSabotageOkLabel>
+  <Rpt_LetterSabotageOk>The operation planted inside {0} has borne fruit. Their national power is weakened and they fall into turmoil for {1} days. Nothing was traced back to us.</Rpt_LetterSabotageOk>
+  <Rpt_LetterSabotageExposedLabel>Agents exposed: {0}</Rpt_LetterSabotageExposedLabel>
+  <Rpt_LetterSabotageExposed>The agents sent to {0} were caught. Our involvement is known — relations have soured badly, and other factions now watch us with suspicion.</Rpt_LetterSabotageExposed>
+  <Rpt_MsgSabotageFail>The operation against {0} came to nothing. At least no one traced it back to us.</Rpt_MsgSabotageFail>
+  <Rpt_TrustReason_SabotageExposed>Sabotage exposed</Rpt_TrustReason_SabotageExposed>
+  <Rpt_UI_Summit>Host a summit…</Rpt_UI_Summit>
+  <Rpt_Act_SummitChanceHeader>Expected attendance:</Rpt_Act_SummitChanceHeader>
+  <Rpt_UI_SummitPending>Summit in preparation (opens in {0} days)</Rpt_UI_SummitPending>
+  <Rpt_UI_SummitHunted>No one will attend while the factions are hunting us.</Rpt_UI_SummitHunted>
+  <Rpt_Summit_Peace>Peace summit</Rpt_Summit_Peace>
+  <Rpt_Summit_Trade>Trade summit</Rpt_Summit_Trade>
+  <Rpt_Summit_Pact>Mutual non-aggression accord</Rpt_Summit_Pact>
+  <Rpt_UI_SummitNoWars>no ongoing wars</Rpt_UI_SummitNoWars>
+  <Rpt_UI_SummitNeedComms>Requires a powered comms console.</Rpt_UI_SummitNeedComms>
+  <Rpt_Act_SummitDelegate>Delegate: {0} (Social {1}) — higher social skill improves attendance.</Rpt_Act_SummitDelegate>
+  <Rpt_LetterSummitDelegateLost>Delegate {0} was lost and the summit fell through. Part of the hosting cost (silver {1}) was refunded.</Rpt_LetterSummitDelegateLost>
+  <Rpt_Act_SummitConfirmPeace>Invite the belligerents to a peace summit (silver {0}, {1} days of preparation).\n\nOnly wars where both sides attend can end in peace, and success also improves relations and trust with the belligerents. Wars will not end on their own while the summit is being prepared. If no war can be negotiated, the summit falls through and half the cost is refunded.</Rpt_Act_SummitConfirmPeace>
+  <Rpt_Act_SummitConfirmTrade>Invite delegates to a trade summit (silver {0}, {1} days of preparation).\n\nIf held, trade prices with attendees improve for {2} days. Fewer than two attendees means the summit falls through and half the cost is refunded.</Rpt_Act_SummitConfirmTrade>
+  <Rpt_Act_SummitConfirmPact>Invite delegates to a mutual non-aggression accord (silver {0}, {1} days of preparation).\n\nIf held, non-aggression pacts are signed with attendees free of charge, and relations between attendees improve. Hostile factions are invited too — if they attend, a truce is signed. Fewer than two attendees means the summit falls through and half the cost is refunded.</Rpt_Act_SummitConfirmPact>
+  <Rpt_MsgSummitStart>{2} has left to prepare the {0}. It opens in {1} days.</Rpt_MsgSummitStart>
+  <Rpt_LetterSummitOkLabel>{0} held</Rpt_LetterSummitOkLabel>
+  <Rpt_LetterSummitOk>The summit was held.\n\nAttendees: {0}\n\n{1}</Rpt_LetterSummitOk>
+  <Rpt_LetterSummitFailLabel>Summit fell through</Rpt_LetterSummitFailLabel>
+  <Rpt_LetterSummitNoPeaceLabel>Summit broke down</Rpt_LetterSummitNoPeaceLabel>
+  <Rpt_LetterSummitNoPeace>The summit convened, but no war could be brought to peace. The negotiations ended with nothing.</Rpt_LetterSummitNoPeace>
+  <Rpt_LetterSummitFail>Too few factions agreed to attend, and the summit fell through. Part of the hosting cost (silver {0}) was refunded.</Rpt_LetterSummitFail>
+  <Rpt_Summit_PeaceResult>{0} war(s) ended in peace.</Rpt_Summit_PeaceResult>
+  <Rpt_Summit_TradeResult>Trade prices with attendees improve for {0} days.</Rpt_Summit_TradeResult>
+  <Rpt_Summit_PactResult>{0} new non-aggression pact(s) were signed.</Rpt_Summit_PactResult>
+  <Rpt_TrustReason_Summit>International summit</Rpt_TrustReason_Summit>
+  <Rpt_Court_Section>Court</Rpt_Court_Section>
+  <Rpt_Court_Leader>Leader</Rpt_Court_Leader>
+  <Rpt_Court_LeaderTip>High favor eases treaty signing conditions.</Rpt_Court_LeaderTip>
+  <Rpt_Court_Role_0>Chancellor</Rpt_Court_Role_0>
+  <Rpt_Court_RoleTip_0>High favor increases the trust you gain with this faction.</Rpt_Court_RoleTip_0>
+  <Rpt_Court_Role_1>Marshal</Rpt_Court_Role_1>
+  <Rpt_Court_RoleTip_1>High favor increases the size of defense pact reinforcements.</Rpt_Court_RoleTip_1>
+  <Rpt_Court_Role_2>Trade minister</Rpt_Court_Role_2>
+  <Rpt_Court_RoleTip_2>High favor improves trade prices with this faction.</Rpt_Court_RoleTip_2>
+  <Rpt_Court_Favor>Favor {0}</Rpt_Court_Favor>
+  <Rpt_LetterSuccessionLabel>New leader: {0}</Rpt_LetterSuccessionLabel>
+  <Rpt_LetterSuccession>The leader of {0} has died and a new one has taken over. The personal rapport you built starts from scratch.</Rpt_LetterSuccession>
+  <Rpt_LetterSuccessionBreak>{0} treaties were torn up in the succession turmoil.</Rpt_LetterSuccessionBreak>
+  <Rpt_TrustReason_Completed>Treaty completed</Rpt_TrustReason_Completed>
+  <Rpt_TrustReason_Renewed>Treaty renewed</Rpt_TrustReason_Renewed>
+  <Rpt_TrustReason_Upkeep>Treaty upkeep</Rpt_TrustReason_Upkeep>
+  <Rpt_TrustReason_BrokenByPlayer>Treaty broken</Rpt_TrustReason_BrokenByPlayer>
+  <Rpt_TrustReason_BreakSpread>Word of betrayal</Rpt_TrustReason_BreakSpread>
+  <Rpt_TrustReason_Decay>Drifting apart</Rpt_TrustReason_Decay>
+  <Rpt_LetterHegemonLabel>A hegemon rises</Rpt_LetterHegemonLabel>
+  <Rpt_LetterHegemon>{0} now holds hegemony over the region. Unease is spreading among the neighboring factions.\n\nYou can form a coalition against this faction from the diplomacy tab.</Rpt_LetterHegemon>
+  <Rpt_LetterHegemonEndLabel>Hegemony broken</Rpt_LetterHegemonEndLabel>
+  <Rpt_LetterHegemonEnd>The might of {0} has waned. They are no longer the regional hegemon.</Rpt_LetterHegemonEnd>
+  <Rpt_UI_HegemonBadge>[Hegemon]</Rpt_UI_HegemonBadge>
+  <Rpt_UI_PermanentEnemy>Permanently hostile — only ceasefires (at a premium), assassinations, and coalitions are possible.</Rpt_UI_PermanentEnemy>
+  <Rpt_UI_PermanentHostileTag>Permanently hostile</Rpt_UI_PermanentHostileTag>
+  <Rpt_Act_CoalitionPlayerHegemon>We are branded the hegemon ourselves and cannot lead a coalition.</Rpt_Act_CoalitionPlayerHegemon>
+  <Rpt_LetterPlayerHegemonLabel>We have become the hegemon</Rpt_LetterPlayerHegemonLabel>
+  <Rpt_LetterPlayerHegemon>Having destroyed so many settlements, our colony is now branded the hegemon of the rim. The factions are discussing a coalition against us.\n\nStop destroying settlements now and our notoriety will fade before they act — but keep going and the coalition forms at once.</Rpt_LetterPlayerHegemon>
+  <Rpt_LetterAntiPlayerLabel>Coalition — the hunt begins</Rpt_LetterAntiPlayerLabel>
+  <Rpt_LetterAntiPlayer>The factions have formed a coalition against us: {0}\n\nThe coalition will send joint raids periodically until our notoriety fades.</Rpt_LetterAntiPlayer>
+  <Rpt_LetterAntiPlayerDisbandLabel>The hunt is over</Rpt_LetterAntiPlayerDisbandLabel>
+  <Rpt_LetterAntiPlayerDisband>Our notoriety has faded and the coalition against us has disbanded.</Rpt_LetterAntiPlayerDisband>
+  <Rpt_UI_Notoriety>Notoriety {0} / 100</Rpt_UI_Notoriety>
+  <Rpt_UI_NotorietyHunted>Notoriety {0} / 100 — being hunted</Rpt_UI_NotorietyHunted>
+  <Rpt_UI_NotorietyTip>Destroying settlements raises notoriety; it slowly fades over time.\n\nAt {0} or higher, the factions form a coalition to hunt us. The hunt stops once it drops below {1}.</Rpt_UI_NotorietyTip>
+  <Rpt_MsgHuntRaid>A coalition hunting party descends upon us — {0}</Rpt_MsgHuntRaid>
+  <Rpt_Act_CoalitionEmpireNeedCause>Moving against the Empire requires a just cause or open hostility.</Rpt_Act_CoalitionEmpireNeedCause>
+  <Rpt_CantSign_EmpirePower>The Empire still stands firm. Break their power below {0} first.</Rpt_CantSign_EmpirePower>
+  <Rpt_UI_AtWarWith>(at war with {0})</Rpt_UI_AtWarWith>
+  <Rpt_GR_MaxCount>Max {0} per item</Rpt_GR_MaxCount>
+  <Rpt_LetterShuttleComingLabel>Shuttle arriving</Rpt_LetterShuttleComingLabel>
+  <Rpt_LetterShuttleComing>A shuttle is landing to carry {0} to {1}.\n\nIf they do not board within {2} days, the shuttle leaves and the mission is canceled.</Rpt_LetterShuttleComing>
+  <Rpt_MsgShuttleCanceled>The mission of {0} was canceled and the shuttle has left ({1} silver refunded).</Rpt_MsgShuttleCanceled>
+  <Rpt_UI_SignConfirm>Sign the '{1}' treaty with {0} ({2} silver).\n\n{3}</Rpt_UI_SignConfirm>
+  <Rpt_UI_RenewConfirm>Extend the '{0}' treaty by {1} days ({2} silver).</Rpt_UI_RenewConfirm>
+  <Rpt_Act_HostageConfirm>Demand a hostage from {0}'s court. Current acceptance chance is about {1}%; if refused, relations sour and you cannot demand again for 30 days.\n\nIf granted, relations dip and the hostage arrives by drop pod (needs a cell). While alive in your custody they suppress revolts and succession breaks, but resentment builds each quarter — and letting them die costs dearly.</Rpt_Act_HostageConfirm>
+  <Rpt_Act_GuaranteeConfirm>Guarantee the independence of {0}. Trust will grow, but any hostile move against them counts as betrayal.</Rpt_Act_GuaranteeConfirm>
+  <Rpt_Act_MissionaryConfirm>Send {0} to {1} as a missionary ({2} silver, away for {3} days).\n\nOn success the faction adopts our ideoligion and relations and trust improve greatly; failure sours relations.</Rpt_Act_MissionaryConfirm>
+  <Rpt_Act_EnvoyConfirm>Send {0} to {1} as an envoy (away for {2} days).\n\nOn return, the target's favor rises with the envoy's social skill. High-favor courtiers grant diplomatic bonuses to trust, reinforcements and prices.</Rpt_Act_EnvoyConfirm>
+  <Rpt_Act_BribeConfirm>Send a bribe to {0} ({1} silver). Getting caught badly sours relations.</Rpt_Act_BribeConfirm>
+  <Rpt_Act_MediateConfirm>Mediate the war between {0} and {1} ({2} silver). The silver is spent even on failure.</Rpt_Act_MediateConfirm>
+  <Rpt_Act_CoalitionConfirm>Propose a coalition against {0} ({1} silver).\n\nOnce formed, coalition members send reinforcements when the hegemon raids us, and fight alongside us when we assault their settlements.</Rpt_Act_CoalitionConfirm>
+  <Rpt_Act_WarIntelConfirm>Hand over intel on {0} outposts to {1}. This cannot be undone.</Rpt_Act_WarIntelConfirm>
+  <Rpt_Marry_InConfirm>Arrange the marriage of {0} and {1} (dowry {2} silver). The courtier joins our colony.</Rpt_Marry_InConfirm>
+  <Rpt_Act_MonopolyConfirm>Buy a monopoly on '{0}' goods ({1} silver, {2} days).\n\nWhile it lasts, buying that category from this faction is cheaper and order premiums are waived.</Rpt_Act_MonopolyConfirm>
+  <Rpt_TT_FoundConfirm>Found a trading company ({0} silver, {1} days of work).\n\nLets you open trade routes to settlements of trade-treaty factions for quarterly silver income. One route per settlement, as many routes as the company's level.</Rpt_TT_FoundConfirm>
+  <Rpt_TT_UpgradeConfirm>Upgrade the trading company ({0} silver, {1} days of work).\n\nAdds one route slot (level = slots) so you can open routes to more settlements, and raises the income of every route.</Rpt_TT_UpgradeConfirm>
+  <Rpt_TT_OpenConfirm>Open a trade route to this settlement of {0} ({1} silver, operational in {2} days).\n\nOnce running, silver income arrives by drop pod every quarter. The route closes if the treaty breaks, relations turn hostile or the settlement falls, and wartime brings accident risk.</Rpt_TT_OpenConfirm>
+  <Rpt_TT_RoadConfirm>Build a '{0}' road ({1} silver, {2} days of work).\n\nOnce finished, every caravan travelling along it moves faster. Building the same stretch again upgrades it to a better road.</Rpt_TT_RoadConfirm>
+  <Rpt_TT_Specialty>Specialty: {0}</Rpt_TT_Specialty>
+  <Rpt_TT_SpecialtyTip>This settlement's specialty. It sells cheap here, can always be ordered from this faction (half premium), and boosts any trade route running through this settlement.</Rpt_TT_SpecialtyTip>
+  <Rpt_GR_SpecialtyRow>{0} ★specialty</Rpt_GR_SpecialtyRow>
+  <Rpt_BuildTab>Buildings</Rpt_BuildTab>
+  <Rpt_Bld_SectionSettlement>Settlement buildings ({0}/{1})</Rpt_Bld_SectionSettlement>
+  <Rpt_Bld_SectionGravship>Gravship buildings ({0}/{1})</Rpt_Bld_SectionGravship>
+  <Rpt_Bld_Level>Lv.{0}</Rpt_Bld_Level>
+  <Rpt_Bld_Cost>{0} silver</Rpt_Bld_Cost>
+  <Rpt_Bld_Working>Building: {0}d</Rpt_Bld_Working>
+  <Rpt_Bld_MaxLevel>Max level</Rpt_Bld_MaxLevel>
+  <Rpt_Bld_Build>Build ({0} silver)</Rpt_Bld_Build>
+  <Rpt_Bld_Upgrade>Upgrade to Lv.{0} ({1} silver)</Rpt_Bld_Upgrade>
+  <Rpt_Bld_Demolish>Demolish</Rpt_Bld_Demolish>
+  <Rpt_Bld_NoSlots>All slots are in use ({0}/{1})</Rpt_Bld_NoSlots>
+  <Rpt_Bld_Confirm>Begin construction of '{0}' Lv.{1} ({2} silver, {3} days).\n\n{4}</Rpt_Bld_Confirm>
+  <Rpt_Bld_DemolishConfirm>Demolish '{0}'. There is no refund.</Rpt_Bld_DemolishConfirm>
+  <Rpt_LetterBuildingDoneLabel>Construction complete</Rpt_LetterBuildingDoneLabel>
+  <Rpt_LetterBuildingDone>'{0}' (Lv.{1}) is finished. Its effects are now active.</Rpt_LetterBuildingDone>
+  <Rpt_Bld_NeedResearch>Requires '{0}' research</Rpt_Bld_NeedResearch>
+  <Rpt_Bld_GravSuppressed>* While docked at a settlement, settlement buildings take priority — ship buffs are dormant.</Rpt_Bld_GravSuppressed>
+  <Rpt_MsgEmpireFavor>{0} received {1} honor for tribute rendered to the Empire.</Rpt_MsgEmpireFavor>
+  <Rpt_Set_TributaryStart>Start as an Empire tributary</Rpt_Set_TributaryStart>
+  <Rpt_Set_TributaryStartTip>New games begin with your colony as a tributary of the Empire. Pay silver each quarter, or grow strong and break the chains in a war of independence. Does not affect games in progress.</Rpt_Set_TributaryStartTip>
+  <Rpt_Set_SectionGeneral>General</Rpt_Set_SectionGeneral>
+  <Rpt_Set_SectionEconomy>Economy &amp; trade</Rpt_Set_SectionEconomy>
+  <Rpt_Set_SectionWar>War &amp; aid</Rpt_Set_SectionWar>
+  <Rpt_Set_SectionToggles>Feature toggles</Rpt_Set_SectionToggles>
+  <Rpt_Set_Reset>Reset to defaults</Rpt_Set_Reset>
+  <Rpt_Set_ResetConfirm>This resets all settings to their defaults, including custom court titles. Continue?</Rpt_Set_ResetConfirm>
+  <Rpt_Set_TraderSilverPerLevel>Trader silver bonus per company level: {0}</Rpt_Set_TraderSilverPerLevel>
+  <Rpt_Set_TraderSilverPerLevelTip>How much extra silver traders carry per trade company level.</Rpt_Set_TraderSilverPerLevelTip>
+  <Rpt_Set_TraderSilver>Trader silver bonus</Rpt_Set_TraderSilver>
+  <Rpt_Set_TraderSilverTip>All traders visiting your settlement carry more silver as your trade company levels up. No effect without a company.</Rpt_Set_TraderSilverTip>
+  <Rpt_UI_TraderSilver>Trader silver +{0}</Rpt_UI_TraderSilver>
+  <Rpt_Set_SubDisabled>Requires the parent setting to be enabled: {0}</Rpt_Set_SubDisabled>
+  <Rpt_Set_TributaryAnyEmpire>Tributary start: include modded empires</Rpt_Set_TributaryAnyEmpire>
+  <Rpt_Set_TributaryAnyEmpireTip>When enabled, empire factions added by mods are also candidates for the tributary start. If there are multiple candidates, one is chosen at random. When disabled, only the vanilla Empire is used.</Rpt_Set_TributaryAnyEmpireTip>
+  <Rpt_LetterTributaryStartLabel>Tributary of the Empire</Rpt_LetterTributaryStartLabel>
+  <Rpt_LetterTributaryStart>Our settlement begins its days as a tributary of {0}. As long as the silver flows, the Empire will not touch us.\n\nCollection is waived for the first {1} days. Afterwards a share of our wealth is due each quarter — and breaking the pact means a war of independence.</Rpt_LetterTributaryStart>
+  <Rpt_UI_IndepWarConfirm>Cut off tribute to {0} and declare independence.\n\nA war of independence rages for {1} days — raids intensify and punitive forces arrive periodically. Hold out to win freedom, or resign midway in humiliation.</Rpt_UI_IndepWarConfirm>
+  <Rpt_LetterIndepWarLabel>War of independence</Rpt_LetterIndepWarLabel>
+  <Rpt_LetterIndepWar>We have cut off tribute to {0}. Our overlord calls it treason.\n\nHold out for {1} days and independence is ours. Raids will intensify, and punitive forces will arrive periodically.</Rpt_LetterIndepWar>
+  <Rpt_MsgPunitiveRaid>A punitive force from {0} descends upon us!</Rpt_MsgPunitiveRaid>
+  <Rpt_LetterIndepWonLabel>Independence won</Rpt_LetterIndepWonLabel>
+  <Rpt_LetterIndepWon>We held. {0} may no longer call us a tributary.\n\nThe tale of the broken chains spreads across the rim, raising other factions' trust in us.</Rpt_LetterIndepWon>
+  <Rpt_TrustReason_IndepWon>Broke the chains</Rpt_TrustReason_IndepWon>
+  <Rpt_UI_IndepWarStatus>War of independence — {0} days left</Rpt_UI_IndepWarStatus>
+  <Rpt_Act_Resign>Resign</Rpt_Act_Resign>
+  <Rpt_Act_ResignConfirm>Kneel before {0} once more.\n\nThe war of independence ends and the tributary pact is restored. Humiliating rumors spread across the rim.</Rpt_Act_ResignConfirm>
+  <Rpt_MsgResigned>We resigned to {0}. The tributary pact is restored.</Rpt_MsgResigned>
+  <Rpt_LetterImperialDemandLabel>Imperial demand</Rpt_LetterImperialDemandLabel>
+  <Rpt_LetterImperialDemand>{0} demands a special tribute of {1} silver. Pay and honor will follow; refuse and the overlord's mood will sour.</Rpt_LetterImperialDemand>
+  <Rpt_ImperialDemand_Accept>Pay {0} silver</Rpt_ImperialDemand_Accept>
+  <Rpt_ImperialDemand_Refuse>Refuse</Rpt_ImperialDemand_Refuse>
+  <Rpt_Act_JointWar>Propose joint war… ({0} silver)</Rpt_Act_JointWar>
+  <Rpt_Act_JointWarBusy>A joint war is already underway.</Rpt_Act_JointWarBusy>
+  <Rpt_Act_JointWarNoTargets>(no valid targets — requires a mutual enemy or a just cause)</Rpt_Act_JointWarNoTargets>
+  <Rpt_Act_JointWarConfirm>Propose a joint war with {0} against {1} ({2} silver).\n\nIf accepted, for {3} days the partner goes to war with the target, their reinforcements fight beside us when we assault the target's settlements, and they send defensive aid when the target raids us. The silver is spent even if refused.</Rpt_Act_JointWarConfirm>
+  <Rpt_MsgJointWarAccepted>{0} joins the war. For {2} days we press {1} together.</Rpt_MsgJointWarAccepted>
+  <Rpt_MsgJointWarRejected>{0} refused the joint war proposal.</Rpt_MsgJointWarRejected>
+  <Rpt_UI_JointWarTarget>Joint war target — {0} days left</Rpt_UI_JointWarTarget>
+  <Rpt_UI_JointWarPartner>Joint war partner (target: {0}, {1} days left)</Rpt_UI_JointWarPartner>
+  <Rpt_MsgJointWarSiege>Reinforcements from our joint war partner {0} are inbound.</Rpt_MsgJointWarSiege>
+  <Rpt_TrustReason_JointWar>Joint war victory</Rpt_TrustReason_JointWar>
+  <Rpt_LetterJointWarWonLabel>Joint war won</Rpt_LetterJointWarWonLabel>
+  <Rpt_LetterJointWarWon>The might of {0} is broken. The joint war fought alongside {1} ends in victory.</Rpt_LetterJointWarWon>
+  <Rpt_LetterJointWarEndLabel>Joint war over</Rpt_LetterJointWarEndLabel>
+  <Rpt_LetterJointWarEnd>The joint war with {0} has run its course. Peace has been made with {1}.</Rpt_LetterJointWarEnd>
+  <Rpt_LetterDefendCallLabel>Defense plea: {0}</Rpt_LetterDefendCallLabel>
+  <Rpt_LetterDefendCall>{0}'s settlement '{1}' is about to come under attack by {2}. Under our defense pact, they have asked us to help.\n\n{3}\n\nOnce you arrive, the enemy will strike within 3-6 hours. Hold the town alongside its garrison to earn a reward of {4} silver and trust. Refusing or missing the deadline counts as denying aid.</Rpt_LetterDefendCall>
+  <Rpt_DefendModeWalk>Travel: on foot — an estimated {0}-day journey. After accepting, a caravan must arrive within {1} days and choose 'Join the defense' at the settlement.</Rpt_DefendModeWalk>
+  <Rpt_DefendModeShuttle>Travel: shuttle — the requesting faction is sending a shuttle. Load your fighters aboard and give the 'Depart for the defense' order to fly to the site.</Rpt_DefendModeShuttle>
+  <Rpt_Defend_Accept>Accept</Rpt_Defend_Accept>
+  <Rpt_DefendJoin>Join the defense: {0}</Rpt_DefendJoin>
+  <Rpt_LetterDefendShuttleLabel>Shuttle arrived: defense</Rpt_LetterDefendShuttleLabel>
+  <Rpt_LetterDefendShuttle>A shuttle for the '{0}' defense has landed. Load your fighters and give the 'Depart for the defense' order. The same shuttle can carry you back once the battle ends.</Rpt_LetterDefendShuttle>
+  <Rpt_LetterDefendWaveLabel>Enemy arrival: {0}</Rpt_LetterDefendWaveLabel>
+  <Rpt_LetterDefendWave>{0} have descended on '{1}'. Hold them off alongside the garrison.</Rpt_LetterDefendWave>
+  <Rpt_LetterDefendWonLabel>Defense won: {0}</Rpt_LetterDefendWonLabel>
+  <Rpt_LetterDefendWon>'{0}' held. {1} handed over a reward of {2} silver. Bring your detachment home.</Rpt_LetterDefendWon>
+  <Rpt_LetterDefendFailLabel>Defense failed: {0}</Rpt_LetterDefendFailLabel>
+  <Rpt_LetterDefendFail>The defense of '{0}' has failed. {1} is deeply disappointed.</Rpt_LetterDefendFail>
+  <Rpt_MsgDefendWalk>Send a caravan to '{0}' within {1} days. On arrival, choose 'Join the defense' at the settlement.</Rpt_MsgDefendWalk>
+  <Rpt_MsgDefendArrive>You have arrived. The enemy will strike within 3-6 hours — prepare the defense.</Rpt_MsgDefendArrive>
+  <Rpt_MsgDefendReturnShuttle>The return shuttle has arrived. Board everyone and give the launch order.</Rpt_MsgDefendReturnShuttle>
+  <Rpt_MsgDefendMissed>The deadline for the '{0}' defense plea has passed. This counts as denying aid.</Rpt_MsgDefendMissed>
+  <Rpt_MsgDefendCancelled>The '{0}' defense mission is void and has been called off.</Rpt_MsgDefendCancelled>
+  <Rpt_TrustReason_DefendWon>Defense victory</Rpt_TrustReason_DefendWon>
+  <Rpt_Alert_DefendCountdown>Enemy arrival: {0}</Rpt_Alert_DefendCountdown>
+  <Rpt_Alert_DefendCountdownDesc>Time remaining until the attackers arrive. Prepare the defense alongside the garrison.</Rpt_Alert_DefendCountdownDesc>
+  <Rpt_SendDefendShuttle>Depart for the defense</Rpt_SendDefendShuttle>
+  <Rpt_SendDefendShuttleDesc>Fly the loaded fighters to the defense site.</Rpt_SendDefendShuttleDesc>
+  <Rpt_SendDefendShuttleHomeDesc>Fly everyone aboard back home.</Rpt_SendDefendShuttleHomeDesc>
+  <Rpt_SendDefendShuttleEmpty>No one is aboard.</Rpt_SendDefendShuttleEmpty>
+  <Rpt_Act_LeaderHeld>Their leader is already in your custody.</Rpt_Act_LeaderHeld>
+  <Rpt_Court_LeaderHeldTag>[in custody]</Rpt_Court_LeaderHeldTag>
+  <Rpt_Act_HostageWeak>Requires a power advantage of x{0} or more.</Rpt_Act_HostageWeak>
+  <Rpt_MsgHostageRefused>{0} refused the hostage demand. Relations soured, and you cannot demand again for a while.</Rpt_MsgHostageRefused>
+  <Rpt_LetterHostageArriveLabel>Hostage arrived</Rpt_LetterHostageArriveLabel>
+  <Rpt_LetterHostageArrive>{0}, a courtier of {1}, has been handed over as a hostage. They arrive unconscious — imprison them in a cell. While they live in your custody, that faction's revolts and succession breaks are suppressed; if they die under your care, you will pay dearly.</Rpt_LetterHostageArrive>
+  <Rpt_LetterHostageDiedLabel>Hostage died: {0}</Rpt_LetterHostageDiedLabel>
+  <Rpt_LetterHostageDied>{0} died in your custody. {1} is furious — relations and trust collapse, treaties waver, and retaliation may come.</Rpt_LetterHostageDied>
+  <Rpt_LetterHostageDefectLabel>Hostage stolen: {0}</Rpt_LetterHostageDefectLabel>
+  <Rpt_LetterHostageDefect>You converted {0}. {1} regards this as hostage theft — the price is the same as a death.</Rpt_LetterHostageDefect>
+  <Rpt_MsgHostageEscaped>{0} escaped and returned home. You lost the leverage and some face.</Rpt_MsgHostageEscaped>
+  <Rpt_LetterRansomLabel>Ransom plea: {0}</Rpt_LetterRansomLabel>
+  <Rpt_LetterRansom>{0} pleads for the return of {1}, offering {2} in exchange.\n\nAccept to take the payment and greatly mend relations. Refuse and the grudge deepens.</Rpt_LetterRansom>
+  <Rpt_MsgRansomAccepted>You returned the hostage and took the payment. Relations with {0} have improved.</Rpt_MsgRansomAccepted>
+  <Rpt_MsgRansomRefused>You refused the return. {0}'s grudge deepens.</Rpt_MsgRansomRefused>
+  <Rpt_UI_SilverAmount>{0} silver</Rpt_UI_SilverAmount>
+  <Rpt_TrustReason_HostageDied>Hostage catastrophe</Rpt_TrustReason_HostageDied>
+  <Rpt_TrustReason_HostageEscaped>Hostage escaped</Rpt_TrustReason_HostageEscaped>
+  <Rpt_Set_QuarterDays>Diplomacy cycle: {0} days</Rpt_Set_QuarterDays>
+  <Rpt_Set_QuarterDaysTip>Interval for all quarterly processing — tribute payments, trust changes, faction dynamics, market refreshes. Shorter means faster diplomacy overall.</Rpt_Set_QuarterDaysTip>
+  <Rpt_Set_GoodsRefreshDays>Order list refresh: {0} days</Rpt_Set_GoodsRefreshDays>
+  <Rpt_Set_GoodsRefreshDaysTip>How often each faction's goods-order catalog rotates.</Rpt_Set_GoodsRefreshDaysTip>
+  <Rpt_Set_GoodsListCount>Goods-order catalog size: {0} items</Rpt_Set_GoodsListCount>
+  <Rpt_Set_GoodsListCountTip>How many items a faction offers at a time. Specialty goods are always included on top of this, and the maximum number of luxury items in the catalog follows this value as well.</Rpt_Set_GoodsListCountTip>
+  <Rpt_Set_DefenseCallFactor>Aid request frequency x{0}</Rpt_Set_DefenseCallFactor>
+  <Rpt_Set_DefenseCallFactorTip>Multiplier on the chance that defense pact allies ask for your help each quarter.</Rpt_Set_DefenseCallFactorTip>
+  <Rpt_Set_DynWarFactor>NPC war frequency x{0}</Rpt_Set_DynWarFactor>
+  <Rpt_Set_DynWarFactorTip>Multiplier on the chance of wars breaking out between factions. At 0, no new wars start.</Rpt_Set_DynWarFactorTip>
+  <Rpt_Set_OpDaysFactor>Operation duration x{0}</Rpt_Set_OpDaysFactor>
+  <Rpt_Set_OpDaysFactorTip>Multiplier on the days envoys, assassinations and missionary work take.</Rpt_Set_OpDaysFactorTip>
+  <Rpt_Set_Notoriety>Notoriety and anti-player coalition</Rpt_Set_Notoriety>
+  <Rpt_Set_WarHostileOnly>Wars only between already-hostile factions</Rpt_Set_WarHostileOnly>
+  <Rpt_Set_WarHostileOnlyTip>When enabled, new wars only break out between factions that were already hostile to each other. If neutral factions go to war and turn hostile, their visitors may fight each other on your map — enable this to prevent that.</Rpt_Set_WarHostileOnlyTip>
+  <Rpt_Set_MedievalTech>Medieval tech only</Rpt_Set_MedievalTech>
+</LanguageData>

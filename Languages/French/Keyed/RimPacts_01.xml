@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Rpt_CantSign_NotTarget>This faction cannot be dealt with diplomatically.</Rpt_CantSign_NotTarget>
+  <Rpt_Set_DefenseAidFactor>Defense pact reinforcement scale: {0}</Rpt_Set_DefenseAidFactor>
+  <Rpt_Set_DefenseAidFactorTip>Adjusts the size of defense pact reinforcements relative to raid points.</Rpt_Set_DefenseAidFactorTip>
+  <Rpt_Set_TradeFreqFactor>Trade agreement extra caravan frequency: {0}</Rpt_Set_TradeFreqFactor>
+  <Rpt_Set_TradeFreqFactorTip>Adjusts how often guaranteed caravans from trade agreement partners arrive. Higher = more often.</Rpt_Set_TradeFreqFactorTip>
+  <Rpt_Set_GoodsFee>Ordered goods price premium: {0}%</Rpt_Set_GoodsFee>
+  <Rpt_Set_GoodsFeeTip>Price premium applied when buying your ordered goods from the caravan.</Rpt_Set_GoodsFeeTip>
+  <Rpt_Set_EdDetected>Economics &amp; Demography detected. The price systems overlap, so faction market prices are disabled automatically.</Rpt_Set_EdDetected>
+  <Rpt_Set_GoodsCap>Goods order value cap: {0} silver</Rpt_Set_GoodsCap>
+  <Rpt_Set_GoodsCapTip>Maximum estimated total value (market price × premium) of a single goods order. Factions with trust 80 or higher allow orders up to twice this value.</Rpt_Set_GoodsCapTip>
+  <Rpt_Set_TributeIncomeFactor>Tribute income multiplier: ×{0}</Rpt_Set_TributeIncomeFactor>
+  <Rpt_Set_TributeIncomeFactorTip>Multiplier applied to the quarterly silver income received from your tributaries.</Rpt_Set_TributeIncomeFactorTip>
+  <Rpt_Set_ApfpDetected>A Petition for Provisions detected. The goods request features overlap, so RimPacts goods ordering is disabled automatically.</Rpt_Set_ApfpDetected>
+  <Rpt_Set_MarketPrices>Faction market prices</Rpt_Set_MarketPrices>
+  <Rpt_Set_MarketPricesTip>Prices vary by goods category depending on each faction's tech level and character.</Rpt_Set_MarketPricesTip>
+  <Rpt_Set_RouteRisk>Trade route accident rate: {0}</Rpt_Set_RouteRisk>
+  <Rpt_Set_RouteRiskTip>Adjusts how often trade routes with warring factions lose their quarterly income.</Rpt_Set_RouteRiskTip>
+  <Rpt_Set_VteDetected>Vanilla Trading Expanded detected — faction market prices are automatically disabled to avoid conflicting price systems.</Rpt_Set_VteDetected>
+  <Rpt_CantSign_Empire>The Empire does not sign this kind of treaty.</Rpt_CantSign_Empire>
+  <Rpt_CantSign_AlreadyActive>This treaty is already in effect.</Rpt_CantSign_AlreadyActive>
+  <Rpt_CantSign_Hostile>Cannot sign treaties with a hostile faction.</Rpt_CantSign_Hostile>
+  <Rpt_CantSign_Goodwill>Not enough goodwill. (minimum {0})</Rpt_CantSign_Goodwill>
+  <Rpt_CantSign_Trust>Not enough trust. (minimum {0})</Rpt_CantSign_Trust>
+  <Rpt_CantSign_RequiresTreaty>Requires an active treaty first: {0}</Rpt_CantSign_RequiresTreaty>
+  <Rpt_MsgTreatySigned>Signed a treaty ({0}) with {1}.</Rpt_MsgTreatySigned>
+  <Rpt_MsgTreatyBrokenByPlayer>Broke the treaty ({0}) with {1}.</Rpt_MsgTreatyBrokenByPlayer>
+  <Rpt_LetterTreatyExpireSoonLabel>Treaty expiring: {0}</Rpt_LetterTreatyExpireSoonLabel>
+  <Rpt_LetterTreatyExpireSoon>The treaty ({0}) with {1} expires in about {2} days.\n\nYou can renew it from the diplomacy tab.</Rpt_LetterTreatyExpireSoon>
+  <Rpt_LetterTreatyExpiredLabel>Treaty expired: {0}</Rpt_LetterTreatyExpiredLabel>
+  <Rpt_LetterTreatyExpired>The treaty ({0}) with {1} has expired. Honoring the contract to the end has deepened their trust in you.</Rpt_LetterTreatyExpired>
+  <Rpt_LetterTreatyDissolvedLabel>Treaty dissolved: {0}</Rpt_LetterTreatyDissolvedLabel>
+  <Rpt_LetterTreatyDissolved>Relations with {1} have collapsed, and the treaty ({0}) is no longer in effect.</Rpt_LetterTreatyDissolved>
+  <Rpt_CantSign_TributeCooldown>Your tribute demand was recently refused. (can demand again in {0} days)</Rpt_CantSign_TributeCooldown>
+  <Rpt_CantSign_TributeConflict>A tribute in the opposite direction is already active with this faction.</Rpt_CantSign_TributeConflict>
+  <Rpt_CantSign_TributeGoodwill>Relations are too poor — they refuse to accept tribute.</Rpt_CantSign_TributeGoodwill>
+  <Rpt_CantSign_DefenseConflict>A defense pact cannot coexist with a tribute arrangement.</Rpt_CantSign_DefenseConflict>
+  <Rpt_CantSign_Orbital>This treaty cannot be signed with an orbital faction.</Rpt_CantSign_Orbital>
+  <Rpt_MsgTributePaid>Paid {1} silver in tribute to {0}.</Rpt_MsgTributePaid>
+  <Rpt_LetterTributePayWarnLabel>Tribute payment missed: {0}</Rpt_LetterTributePayWarnLabel>
+  <Rpt_LetterTributePayWarn>You could not afford the tribute ({1} silver) owed to {0}. They will let it slide until next quarter — miss it again and everything collapses.</Rpt_LetterTributePayWarn>
+  <Rpt_LetterTributeFailedLabel>Tributary pact collapsed: {0}</Rpt_LetterTributeFailedLabel>
+  <Rpt_LetterTributeFailed>You failed to pay tribute ({1} silver) to {0} two quarters in a row. The tributary relation and the non-aggression pact have been torn up, and harsh retaliation is coming.</Rpt_LetterTributeFailed>
+  <Rpt_MsgTributeAccepted>{0} has submitted to your tribute demand. They will send silver every quarter.</Rpt_MsgTributeAccepted>
+  <Rpt_MsgTributeRefused>{0} refused your tribute demand. Relations have soured.</Rpt_MsgTributeRefused>
+  <Rpt_MsgTributeIncome>{0} sent {1} silver in tribute.</Rpt_MsgTributeIncome>
+  <Rpt_MsgTributeReleased>You released {0} from tribute.</Rpt_MsgTributeReleased>
+  <Rpt_LetterTributeRevoltLabel>Tribute revolt: {0}</Rpt_LetterTributeRevoltLabel>
+  <Rpt_LetterTributeRevolt>Seeing your weakened forces, {0} has thrown off the tributary pact. Expect retaliation.</Rpt_LetterTributeRevolt>
+  <Rpt_TrustReason_TributeReleased>Tributary released</Rpt_TrustReason_TributeReleased>
+  <Rpt_LetterDefenseAidLabel>Defense pact invoked: {0}</Rpt_LetterDefenseAidLabel>
+  <Rpt_LetterDefenseAid>{0} has dispatched reinforcements under your defense pact. They are arriving now.</Rpt_LetterDefenseAid>
+  <Rpt_LetterTreatyOfferLabel>Treaty offer: {0}</Rpt_LetterTreatyOfferLabel>
+  <Rpt_LetterTreatyOffer>{0} has offered to sign a treaty ({1}). Since they proposed it, accepting costs nothing.</Rpt_LetterTreatyOffer>
+  <Rpt_TreatyOffer_Accept>Accept</Rpt_TreatyOffer_Accept>
+  <Rpt_LetterDefenseCallLabel>Call for aid: {0}</Rpt_LetterDefenseCallLabel>
+  <Rpt_LetterDefenseCall>{0}, your defense pact partner, is in trouble and asks for support. Sending {1} silver will deepen their trust; repeated refusals will strain the pact.</Rpt_LetterDefenseCall>
+  <Rpt_DefenseCall_Accept>Send {0} silver</Rpt_DefenseCall_Accept>
+  <Rpt_DefenseCall_Refuse>Refuse</Rpt_DefenseCall_Refuse>
+  <Rpt_LetterDefenseTerminatedLabel>Defense pact broken: {0}</Rpt_LetterDefenseTerminatedLabel>
+  <Rpt_LetterDefenseTerminated>Disappointed by repeated refusals, {0} has torn up the defense pact. Having lost faith in the alliance, they drop relations to neutral.</Rpt_LetterDefenseTerminated>
+  <Rpt_TrustReason_DefenseCallAccepted>Aid request accepted</Rpt_TrustReason_DefenseCallAccepted>
+  <Rpt_TrustReason_DefenseCallRefused>Aid request refused</Rpt_TrustReason_DefenseCallRefused>
+  <Rpt_UI_NoWorld>No world loaded.</Rpt_UI_NoWorld>
+  <Rpt_UI_NoFactions>No factions available for diplomacy.</Rpt_UI_NoFactions>
+  <Rpt_UI_TreatyCount>{0} treaties</Rpt_UI_TreatyCount>
+  <Rpt_UI_Goodwill>Goodwill</Rpt_UI_Goodwill>
+  <Rpt_UI_Trust>Trust</Rpt_UI_Trust>
+  <Rpt_UI_TrustGrade_0>Distrusted</Rpt_UI_TrustGrade_0>
+  <Rpt_UI_TrustGrade_1>Wary</Rpt_UI_TrustGrade_1>
+  <Rpt_UI_TrustGrade_2>Neutral</Rpt_UI_TrustGrade_2>
+  <Rpt_UI_TrustGrade_3>Trusted</Rpt_UI_TrustGrade_3>
+  <Rpt_UI_TrustGrade_4>Sworn</Rpt_UI_TrustGrade_4>
+  <Rpt_UI_ActiveTreaties>Active treaties</Rpt_UI_ActiveTreaties>
+  <Rpt_UI_AvailableTreaties>Available treaties</Rpt_UI_AvailableTreaties>
+  <Rpt_UI_None>(none)</Rpt_UI_None>
+  <Rpt_UI_DaysLeft>{0} days left</Rpt_UI_DaysLeft>
+  <Rpt_UI_Permanent>Permanent</Rpt_UI_Permanent>
+  <Rpt_UI_NextCaravan>Next caravan ~{0}d</Rpt_UI_NextCaravan>
+  <Rpt_UI_Break>Break</Rpt_UI_Break>
+  <Rpt_Chat_BreakTreaty>Break {0}</Rpt_Chat_BreakTreaty>
+  <Rpt_Chat_ProposeTreaty>Propose {0}</Rpt_Chat_ProposeTreaty>
+  <Rpt_Chat_MsgPropose>I propose signing a {1} with {0}.</Rpt_Chat_MsgPropose>
+  <Rpt_Chat_MsgBreak>I notify {0} that I am ending the {1}.</Rpt_Chat_MsgBreak>
+  <Rpt_Chat_MsgResign>I capitulate to {0} and offer to become a tributary once more.</Rpt_Chat_MsgResign>
+  <Rpt_Chat_MsgInsult>I hurl an insult at {0}.</Rpt_Chat_MsgInsult>
+  <Rpt_Chat_MsgEmbargo>I declare a trade embargo against {0}.</Rpt_Chat_MsgEmbargo>
+  <Rpt_Chat_MsgEmbargoEnd>I lift the embargo on {0}.</Rpt_Chat_MsgEmbargoEnd>
+  <Rpt_Chat_MsgReparation>I pay reparations to {0}.</Rpt_Chat_MsgReparation>
+  <Rpt_Chat_MsgCoalition>I move to form a coalition against {0}.</Rpt_Chat_MsgCoalition>
+  <Rpt_Chat_MsgSabotage>I sow unrest within {0}.</Rpt_Chat_MsgSabotage>
+  <Rpt_Chat_MsgAssassinate>I put out a contract on {0}'s leader.</Rpt_Chat_MsgAssassinate>
+  <Rpt_Chat_MsgIndependence>I back a breakaway movement within {0}.</Rpt_Chat_MsgIndependence>
+  <Rpt_Chat_MsgEmpireSubjugate>I demand {0}'s submission.</Rpt_Chat_MsgEmpireSubjugate>
+  <Rpt_Chat_MsgHostage>I demand a hostage from {0}.</Rpt_Chat_MsgHostage>
+  <Rpt_Chat_MsgHostageRelease>I return {0}'s hostage.</Rpt_Chat_MsgHostageRelease>
+  <Rpt_Chat_MsgGuarantee>I guarantee {0}'s independence.</Rpt_Chat_MsgGuarantee>
+  <Rpt_Chat_MsgGuaranteeEnd>I withdraw my guarantee of {0}'s independence.</Rpt_Chat_MsgGuaranteeEnd>
+  <Rpt_UI_Renew>Renew</Rpt_UI_Renew>
+  <Rpt_UI_Sign>Sign</Rpt_UI_Sign>
+  <Rpt_UI_Demand>Demand</Rpt_UI_Demand>
+  <Rpt_UI_Release>Release</Rpt_UI_Release>
+  <Rpt_UI_TributeRatio>Power x{0} (needs x{1})</Rpt_UI_TributeRatio>
+  <Rpt_UI_DemandConfirm>Demand tribute from {0}?\n\nCurrent power advantage x{1}, submission {2}. If they submit, they will send {3} silver every quarter. If refused, relations suffer badly and you cannot demand again for a while.</Rpt_UI_DemandConfirm>
+  <Rpt_UI_DemandConfirmFail>{0} will not submit yet.\n\nPower advantage x{1} (needs x{2}), submission {3} (needs {4}). Raise submission further by destroying their settlements, embargo, and so on. Demanding now will be refused, badly hurting relations and blocking further demands for a while. Continue anyway?</Rpt_UI_DemandConfirmFail>
+  <Rpt_UI_TributeCond>Power x{0} · Submission {1}/{2}</Rpt_UI_TributeCond>
+  <Rpt_UI_SubmitTipHead>Submission pressure {0} / {1}</Rpt_UI_SubmitTipHead>
+  <Rpt_UI_SubmitTipMil>  Military collapse {0} / {1}</Rpt_UI_SubmitTipMil>
+  <Rpt_UI_SubmitTipEcon>  Economic pressure {0} / {1}</Rpt_UI_SubmitTipEcon>
+  <Rpt_UI_SubmitTipVuln>  Diplomatic isolation {0} / {1}</Rpt_UI_SubmitTipVuln>
+  <Rpt_UI_SubmitTipShock>  Transient shock {0} / {1}</Rpt_UI_SubmitTipShock>
+  <Rpt_UI_SubmitHintWeak>Lacking outside protection, they yield more easily to economic and diplomatic pressure.</Rpt_UI_SubmitHintWeak>
+  <Rpt_UI_SubmitHintStrong>Shielded by outside allies, they will not yield to economic pressure alone — military pressure is needed.</Rpt_UI_SubmitHintStrong>
+  <Rpt_UI_SubmitTipPower>  National power {0}</Rpt_UI_SubmitTipPower>
+  <Rpt_UI_EmpireGate>The Empire only allows tribute demands once its power is broken below {0}. Destroy its settlements to lower its power (−6 each).</Rpt_UI_EmpireGate>
+  <Rpt_Act_EmpireDeclare>Demand submission</Rpt_Act_EmpireDeclare>
+  <Rpt_Act_EmpireDeclareWeak>Not yet strong enough to challenge the Empire (needs power advantage x{0})</Rpt_Act_EmpireDeclareWeak>
+  <Rpt_Act_EmpireWarOngoing>Subjugation war ongoing</Rpt_Act_EmpireWarOngoing>
+  <Rpt_UI_EmpireWarProgress>At war · submission {0}/{1}</Rpt_UI_EmpireWarProgress>
+  <Rpt_Act_EmpireDeclareConfirm>Demand submission from {0}?\n\nThis is a declaration of war. You will become a PERMANENT ENEMY of the Empire, and it cannot be undone. You must destroy its settlements to break its power and force submission, and it will raid you meanwhile. If you succeed, the permanent hostility is lifted and it becomes your tributary. Proceed?</Rpt_Act_EmpireDeclareConfirm>
+  <Rpt_LetterEmpireWarLabel>Empire subjugation war: {0}</Rpt_LetterEmpireWarLabel>
+  <Rpt_LetterEmpireWar>You have declared war demanding {0}'s submission. You are now a permanent enemy of the Empire. Destroy its settlements to break its power and force submission. Succeed, and the hostility lifts and it becomes your tributary.</Rpt_LetterEmpireWar>
+  <Rpt_LetterEmpireSubjugatedLabel>Empire subjugated: {0}</Rpt_LetterEmpireSubjugatedLabel>
+  <Rpt_LetterEmpireSubjugated>{0} has finally bent the knee. The permanent hostility is lifted and the Empire is now your tributary, paying tribute each quarter.</Rpt_LetterEmpireSubjugated>
+  <Rpt_UI_ReleaseConfirm>Release {0} from tribute? They will be grateful, and relations will recover somewhat.</Rpt_UI_ReleaseConfirm>
+  <Rpt_UI_Conditions>Conditions: trust {0} · goodwill {1}</Rpt_UI_Conditions>
+  <Rpt_UI_ConditionsShort>Trust {0} · goodwill {1}</Rpt_UI_ConditionsShort>
+  <Rpt_UI_NotEnoughSilver>Not enough silver. ({0} needed)</Rpt_UI_NotEnoughSilver>
+  <Rpt_UI_History>Trust history</Rpt_UI_History>
+  <Rpt_UI_HistoryEntry>Day {0}  {1}  {2}</Rpt_UI_HistoryEntry>
+  <Rpt_UI_BreakConfirm>Break the treaty ({0}) with {1}?\n\nTrust {2} and goodwill {3} will be applied, and other factions' trust will drop by {4} (word spreads).</Rpt_UI_BreakConfirm>
+  <Rpt_GoodsRequestOption>Request specific goods (trade agreement)</Rpt_GoodsRequestOption>
+  <Rpt_GoodsRequest_AlreadyOrdered>An order is already in progress.</Rpt_GoodsRequest_AlreadyOrdered>
+  <Rpt_GoodsRequest_Cooldown>They handled your last order too recently. (can order again in {0} days)</Rpt_GoodsRequest_Cooldown>
+  <Rpt_GR_Title>Goods request — {0}</Rpt_GR_Title>
+  <Rpt_GR_SelectItem>Select items from the list on the left. You can order several at once.</Rpt_GR_SelectItem>
+  <Rpt_GR_Selected>Selected: {0}/{1} items</Rpt_GR_Selected>
+  <Rpt_GR_MaxLinesReached>A single order can contain at most {0} different items.</Rpt_GR_MaxLinesReached>
+  <Rpt_GR_Quantity>Quantity</Rpt_GR_Quantity>
+  <Rpt_GR_Total>Estimated cost: about {0} silver</Rpt_GR_Total>
+  <Rpt_GR_Deliver>Delivery: arrives in about {0} days</Rpt_GR_Deliver>
+  <Rpt_GR_Cap>Order limit: {0} silver</Rpt_GR_Cap>
+  <Rpt_GR_OverCap>Exceeds the order limit ({0} silver).</Rpt_GR_OverCap>
+  <Rpt_GR_PayNote>No prepayment. Your order will appear highlighted in the arriving caravan's sale stock, at a premium price for the special request.</Rpt_GR_PayNote>
+  <Rpt_GR_ListRefresh>Available goods refresh in ~{0} days</Rpt_GR_ListRefresh>
+  <Rpt_GR_Order>Order</Rpt_GR_Order>
+  <Rpt_MsgGoodsOrdered>Ordered {0} from {1}.</Rpt_MsgGoodsOrdered>
+  <Rpt_LetterGoodsArrivalLabel>Order arrived: {0}</Rpt_LetterGoodsArrivalLabel>
+  <Rpt_LetterGoodsArrival>A caravan from {0} has arrived carrying your order ({1}). It is highlighted in their sale stock — buy it before the caravan leaves.</Rpt_LetterGoodsArrival>
+  <Rpt_LetterGoodsArrivalOrbital>An orbital trade ship from {0} has arrived carrying your order ({1}). Use a comms console (with a trade beacon) to buy it before the ship departs.</Rpt_LetterGoodsArrivalOrbital>
+  <Rpt_MsgGoodsBought>Bought {0} of {1} ordered goods from {2}.</Rpt_MsgGoodsBought>
+  <Rpt_MsgGoodsNotBought>The caravan from {0} left, taking the unpurchased order ({1}) with them.</Rpt_MsgGoodsNotBought>
+  <Rpt_TradeOrderedTip>Goods you ordered. Sold at a premium as a special request.</Rpt_TradeOrderedTip>
+  <Rpt_UI_OrderLine>Order en route: {0} — arriving in ~{1} days</Rpt_UI_OrderLine>
+  <Rpt_UI_OrderArrivedLine>Order arrived: {0} — buy before the caravan leaves</Rpt_UI_OrderArrivedLine>
+  <Rpt_LetterGoodsCancelledLabel>Order cancelled: {0}</Rpt_LetterGoodsCancelledLabel>
+  <Rpt_LetterGoodsCancelled>Relations with {0} have collapsed and your order was cancelled.</Rpt_LetterGoodsCancelled>
+  <Rpt_TrustReason_GoodsDelivered>Order completed</Rpt_TrustReason_GoodsDelivered>
+  <Rpt_SurrenderOffer>The colony is breaking. Pay {1} silver to {0} and become their tributary, and the raiders will withdraw.\n\nSurrender? You cannot end the tribute for {2} days, and word of your humiliation will spread across the rim. Refusing costs nothing.</Rpt_SurrenderOffer>
+  <Rpt_LetterSurrenderLabel>Humiliating surrender: {0}</Rpt_LetterSurrenderLabel>
+  <Rpt_LetterSurrender>You paid {1} silver to {0} and became their tributary. The raiders are withdrawing. You cannot end the tribute for {2} days, and word of your surrender has spread.</Rpt_LetterSurrender>
+  <Rpt_TrustReason_Surrender>Humiliating surrender</Rpt_TrustReason_Surrender>
+  <Rpt_TrustReason_SurrenderSpread>Word of surrender</Rpt_TrustReason_SurrenderSpread>
+  <Rpt_UI_TreatyLocked>Locked by surrender terms. (unlocks in {0} days)</Rpt_UI_TreatyLocked>
+  <Rpt_Cat_Raw>raw materials</Rpt_Cat_Raw>
+  <Rpt_Cat_Food>food</Rpt_Cat_Food>
+  <Rpt_Cat_Medicine>medicine</Rpt_Cat_Medicine>
+  <Rpt_Cat_Weapons>weapons</Rpt_Cat_Weapons>
+  <Rpt_Cat_Apparel>apparel</Rpt_Cat_Apparel>
+  <Rpt_Cat_Luxury>luxuries</Rpt_Cat_Luxury>
+  <Rpt_UI_Market>Market: {0} cheap · {1} dear</Rpt_UI_Market>
+  <Rpt_UI_MarketWar>(at war — weapons and medicine surging)</Rpt_UI_MarketWar>
+  <Rpt_TradeTab>Trade</Rpt_TradeTab>
+  <Rpt_TT_NoCompany>No trading company.</Rpt_TT_NoCompany>
+  <Rpt_TT_Orbital>Trade routes cannot be opened to orbital factions.</Rpt_TT_Orbital>
+  <Rpt_TT_NeedResearch>Research required: {0}</Rpt_TT_NeedResearch>
+  <Rpt_TT_Found>Found company ({0} silver)</Rpt_TT_Found>
+  <Rpt_MsgCompanyFounded>Trading company founded. Open trade routes from the Trade tab on world map settlements.</Rpt_MsgCompanyFounded>
+  <Rpt_TT_Company>Trading company Lv.{0} — routes {1}/{2}</Rpt_TT_Company>
+  <Rpt_TT_Founding>Founding company — ~{0} days left</Rpt_TT_Founding>
+  <Rpt_TT_Upgrading>Upgrading — ~{0} days left</Rpt_TT_Upgrading>
+  <Rpt_MsgCompanyUpgraded>The trading company reached Lv.{0}.</Rpt_MsgCompanyUpgraded>
+  <Rpt_TT_Upgrade>Upgrade ({0} silver)</Rpt_TT_Upgrade>
+  <Rpt_TT_OpenRoute>Open trade route ({0} silver)</Rpt_TT_OpenRoute>
+  <Rpt_TT_RouteOpening>Opening trade route — ~{0} days left</Rpt_TT_RouteOpening>
+  <Rpt_TT_CloseRoute>Close trade route</Rpt_TT_CloseRoute>
+  <Rpt_TT_CloseConfirm>Close the trade route with {0}? The opening fee is not refunded.</Rpt_TT_CloseConfirm>
+  <Rpt_TT_RouteInfo>Trade route active — quarterly income ~{0} silver</Rpt_TT_RouteInfo>
+  <Rpt_TT_RouteEstimate>Estimated quarterly income: ~{0} silver</Rpt_TT_RouteEstimate>
+  <Rpt_TT_RouteRisk>At war — {0}% chance per quarter to lose the income</Rpt_TT_RouteRisk>
+  <Rpt_TT_NeedTradeTreaty>Requires a trade agreement.</Rpt_TT_NeedTradeTreaty>
+  <Rpt_TT_TooFar>Too far. (distance {0} / max {1} tiles)</Rpt_TT_TooFar>
+  <Rpt_TT_NoSlots>All route slots are in use. (upgrade the company)</Rpt_TT_NoSlots>
+  <Rpt_MsgRouteIncome>Trade route income: {1} silver arrived from {0}.</Rpt_MsgRouteIncome>
+  <Rpt_LetterRouteRaidedLabel>Trade route raided: {0}</Rpt_LetterRouteRaidedLabel>
+  <Rpt_LetterRouteRaided>The trade route to {0} was caught in the fighting. This quarter's income is lost.</Rpt_LetterRouteRaided>
+  <Rpt_LetterRouteClosedLabel>Trade route lost: {0}</Rpt_LetterRouteClosedLabel>
+  <Rpt_LetterRouteClosed>The trade route with {0} has collapsed — the agreement broke, relations soured, or the settlement is gone.</Rpt_LetterRouteClosed>
+  <Rpt_TrustReason_TradeRoute>Trade route upkeep</Rpt_TrustReason_TradeRoute>
+  <Rpt_UI_MonopolyBuy>Buy monopoly ({0} silver)…</Rpt_UI_MonopolyBuy>
+  <Rpt_UI_MonopolyActive>Monopoly: {0} — {1} days left</Rpt_UI_MonopolyActive>
+  <Rpt_MsgMonopolyBought>Secured a {1} monopoly with {0}. ({2} days)</Rpt_MsgMonopolyBought>
+  <Rpt_MsgMonopolyExpired>The {1} monopoly with {0} has expired.</Rpt_MsgMonopolyExpired>
+  <Rpt_Act_Section>Diplomatic actions</Rpt_Act_Section>
+  <Rpt_Act_Aid>Regular aid: {0}</Rpt_Act_Aid>
+  <Rpt_Act_Aid_0>none</Rpt_Act_Aid_0>
+  <Rpt_Act_Aid_1>small</Rpt_Act_Aid_1>
+  <Rpt_Act_Aid_2>medium</Rpt_Act_Aid_2>
+  <Rpt_Act_Aid_3>large</Rpt_Act_Aid_3>
+  <Rpt_MsgAidPaid>Sent {1} silver in aid to {0}.</Rpt_MsgAidPaid>
+  <Rpt_LetterAidLapsedLabel>Aid lapsed: {0}</Rpt_LetterAidLapsedLabel>
+  <Rpt_LetterAidLapsed>You could not afford the aid promised to {0}. They are disappointed.</Rpt_LetterAidLapsed>
+  <Rpt_TrustReason_Aid>Regular aid</Rpt_TrustReason_Aid>
+  <Rpt_LetterReliefLabel>Disaster: {0}</Rpt_LetterReliefLabel>
+  <Rpt_LetterRelief>{0} has been devastated by {1}. Sending relief supplies would be long remembered.</Rpt_LetterRelief>
+  <Rpt_Disaster_0>famine</Rpt_Disaster_0>
+  <Rpt_Disaster_1>a plague</Rpt_Disaster_1>
+  <Rpt_Disaster_2>a devastating raid</Rpt_Disaster_2>
+  <Rpt_Relief_Send>Send relief ({0} silver)</Rpt_Relief_Send>
+  <Rpt_Relief_Ignore>Ignore</Rpt_Relief_Ignore>
+  <Rpt_MsgReliefSent>Sent relief supplies to {0}. A grateful caravan will visit soon.</Rpt_MsgReliefSent>
+  <Rpt_TrustReason_Relief>Disaster relief</Rpt_TrustReason_Relief>
+  <Rpt_Act_Insult>Insult</Rpt_Act_Insult>
+  <Rpt_Act_InsultConfirm>Publicly insult {0}?\n\nRelations will suffer badly, and they may furiously tear up their treaties with you first (costing you no reputation). Word of your rudeness slightly lowers other factions' trust.</Rpt_Act_InsultConfirm>
+  <Rpt_Act_InsultCooldown>You insulted them recently. ({0} days)</Rpt_Act_InsultCooldown>
+  <Rpt_MsgInsulted>Publicly insulted {0}.</Rpt_MsgInsulted>
+  <Rpt_LetterInsultBreakLabel>Furious break: {0}</Rpt_LetterInsultBreakLabel>
+  <Rpt_LetterInsultBreak>Enraged by the insult, {0} has torn up all treaties with you.</Rpt_LetterInsultBreak>
+  <Rpt_TrustReason_InsultSpread>Rude conduct</Rpt_TrustReason_InsultSpread>
+  <Rpt_Act_Embargo>Embargo</Rpt_Act_Embargo>
+  <Rpt_Act_EmbargoEnd>Lift embargo</Rpt_Act_EmbargoEnd>
+  <Rpt_Act_EmbargoConfirm>Impose an embargo on {0}?\n\nYour trade agreement, routes and monopoly with them are torn up immediately (with reputation loss), their caravans and visitors stop coming, and settlement trade is blocked.</Rpt_Act_EmbargoConfirm>
+  <Rpt_UI_EmbargoActive>Embargo active — relations worsen each quarter.</Rpt_UI_EmbargoActive>
+  <Rpt_MsgEmbargoStart>Imposed an embargo on {0}.</Rpt_MsgEmbargoStart>
+  <Rpt_MsgEmbargoEnd>Lifted the embargo on {0}. A grudge lingers in trade prices for a while.</Rpt_MsgEmbargoEnd>
+  <Rpt_Act_Ultimatum>Ultimatum…</Rpt_Act_Ultimatum>
+  <Rpt_Act_UltSilver>Demand {0} silver</Rpt_Act_UltSilver>
+  <Rpt_Act_UltTreaty>Demand treaty: {0}</Rpt_Act_UltTreaty>
+  <Rpt_Act_UltConfirm>Send an ultimatum to {0}?\n\nDemand: {1}\nCurrent power advantage x{2} (accepted at x{3}).\n\nIf they submit, you take the demand but earn deep resentment. If refused, relations suffer badly and they may tear up treaties or strike back — but you gain a 'just cause' for 30 days (no reputation loss from acting against them).</Rpt_Act_UltConfirm>
+  <Rpt_Act_UltCooldown>You sent an ultimatum recently. ({0} days)</Rpt_Act_UltCooldown>
+  <Rpt_MsgUltAccepted>{0} accepted your ultimatum. Deep resentment remains.</Rpt_MsgUltAccepted>
+  <Rpt_MsgUltRefused>{0} refused your ultimatum and is enraged. You gained a just cause — but watch for retaliation. ({1} days)</Rpt_MsgUltRefused>
+  <Rpt_UI_CasusBelli>Just cause — {0} days left</Rpt_UI_CasusBelli>
+  <Rpt_TrustReason_Ultimatum>Bowed to coercion</Rpt_TrustReason_Ultimatum>
+  <Rpt_TT_BuildRoad>Build {0} ({1} silver)</Rpt_TT_BuildRoad>
+  <Rpt_TT_RoadBuilding>Road under construction — ~{0} days left</Rpt_TT_RoadBuilding>
+  <Rpt_TT_RoadTier>Connected road: {0}</Rpt_TT_RoadTier>
+  <Rpt_TT_NoPath>No path, or too far. (max {0} tiles)</Rpt_TT_NoPath>
+  <Rpt_LetterRoadDoneLabel>Road opened: {0}</Rpt_LetterRoadDoneLabel>
+  <Rpt_LetterRoadDone>The {1} to {0}'s settlement is open. Caravans can travel quickly.</Rpt_LetterRoadDone>
+  <Rpt_TrustReason_Road>Road construction</Rpt_TrustReason_Road>
+  <Rpt_Act_Independence>Support independence ({0} silver)</Rpt_Act_Independence>
+  <Rpt_Act_IndependenceTribute>Cannot be used on a faction in a tribute relation.</Rpt_Act_IndependenceTribute>
+  <Rpt_Act_IndependenceConfirm>Support the separatists inside {0}?\n\nFor {1} silver and {2} days of scheming, one of their settlements will break away as a new faction — at war with its mother faction, and friendly toward you.</Rpt_Act_IndependenceConfirm>
+  <Rpt_MsgIndependenceStart>Began supporting separatists inside {0}. (~{1} days)</Rpt_MsgIndependenceStart>
+  <Rpt_MsgIndependenceDetected>{0} has caught wind of our involvement.</Rpt_MsgIndependenceDetected>
+  <Rpt_MsgGuaranteeLapse>{0} has grown strong enough; the guarantee of independence has lapsed.</Rpt_MsgGuaranteeLapse>
+  <Rpt_Indep_MakeTributary>Make them a tributary (free)</Rpt_Indep_MakeTributary>
+  <Rpt_MsgIndependenceFail>The independence scheme inside {0} came to nothing.</Rpt_MsgIndependenceFail>
+  <Rpt_LetterIndependenceLabel>Independence: {0}</Rpt_LetterIndependenceLabel>
+  <Rpt_LetterIndependence>{0} has broken away from {1} and declared independence. They remember your support.</Rpt_LetterIndependence>
+  <Rpt_Act_Coalition>Form coalition ({0} silver)</Rpt_Act_Coalition>
+  <Rpt_MsgCoalitionFormed>A coalition against {0} has formed: {1}</Rpt_MsgCoalitionFormed>
+  <Rpt_MsgCoalitionNone>No faction answered the coalition call.</Rpt_MsgCoalitionNone>
+  <Rpt_UI_CoalitionActive>Coalition active — {0} factions stand together.</Rpt_UI_CoalitionActive>
+  <Rpt_LetterCoalitionDisbandLabel>Coalition disbanded</Rpt_LetterCoalitionDisbandLabel>
+  <Rpt_LetterCoalitionDisband>With {0}'s power broken, the coalition has disbanded.</Rpt_LetterCoalitionDisband>
+  <Rpt_TrustReason_Coalition>Coalition</Rpt_TrustReason_Coalition>
+  <Rpt_TrustReason_AntiPlayerJoin>Joined anti-player coalition</Rpt_TrustReason_AntiPlayerJoin>
+  <Rpt_TrustReason_AntiPlayerWary>Wary of hegemon</Rpt_TrustReason_AntiPlayerWary>
+  <Rpt_Act_Guarantee>Guarantee independence</Rpt_Act_Guarantee>
+  <Rpt_Act_GuaranteeEnd>Withdraw guarantee</Rpt_Act_GuaranteeEnd>
+  <Rpt_Act_GuaranteeNeedWeak>Only weak factions can be guaranteed. (power below {0})</Rpt_Act_GuaranteeNeedWeak>
+  <Rpt_MsgGuarantee>You declared a guarantee of {0}'s independence.</Rpt_MsgGuarantee>
+  <Rpt_LetterGuaranteeBrokenLabel>Guarantee betrayed: {0}</Rpt_LetterGuaranteeBrokenLabel>
+  <Rpt_LetterGuaranteeBroken>You turned on {0}, whose independence you guaranteed. The guarantee is void, and word of your hypocrisy spreads.</Rpt_LetterGuaranteeBroken>
+  <Rpt_TrustReason_Guarantee>Independence guarantee</Rpt_TrustReason_Guarantee>
+  <Rpt_TrustReason_GuaranteeBroken>Guarantee betrayed</Rpt_TrustReason_GuaranteeBroken>
+  <Rpt_Act_Missionary>Send missionary…</Rpt_Act_Missionary>
+  <Rpt_Act_MissionarySameIdeo>They already share your ideoligion.</Rpt_Act_MissionarySameIdeo>
+  <Rpt_Act_MissionaryNoLeader>Only a moral guide can be sent as a missionary.</Rpt_Act_MissionaryNoLeader>
+  <Rpt_MsgMissionarySent>{0} left as a missionary to {1}. ({2} days)</Rpt_MsgMissionarySent>
+  <Rpt_LetterConvertOkLabel>Conversion: {0}</Rpt_LetterConvertOkLabel>
+  <Rpt_LetterConvertOk>{0} has embraced {1}. A shared faith now binds your peoples.</Rpt_LetterConvertOk>
+  <Rpt_LetterConvertFailLabel>Conversion failed: {0}</Rpt_LetterConvertFailLabel>
+  <Rpt_LetterConvertFail>{0} rejected the mission. Relations soured somewhat.</Rpt_LetterConvertFail>
+  <Rpt_TrustReason_Convert>Conversion</Rpt_TrustReason_Convert>
+  <Rpt_UI_Power>Power {0}</Rpt_UI_Power>
+  <Rpt_UI_AtWar>(at war)</Rpt_UI_AtWar>
+  <Rpt_LetterWarLabel>War breaks out</Rpt_LetterWarLabel>
+  <Rpt_LetterWar>War has broken out between {0} and {1}. Their markets churn, and trade routes through the fighting are at risk.\n\nWhose side will you take? Backing one draws you closer to them — and makes the other your enemy at once.</Rpt_LetterWar>
+  <Rpt_War_Back>Back {0}</Rpt_War_Back>
+  <Rpt_War_Neutral>Stay neutral</Rpt_War_Neutral>
+  <Rpt_War_BackGuaranteed>(faction under your guarantee — defend them)</Rpt_War_BackGuaranteed>
+  <Rpt_War_BackGuaranteedWarn>Backing this side betrays your guarantee of {0}</Rpt_War_BackGuaranteedWarn>
+  <Rpt_TrustReason_GuaranteeAbandon>Abandoned guarantee</Rpt_TrustReason_GuaranteeAbandon>
+  <Rpt_MsgWarBacked>You declared support for {0}. {1} is now hostile to you.</Rpt_MsgWarBacked>
+  <Rpt_War_BackHostile>Back {0} (ends hostility — relations turn neutral)</Rpt_War_BackHostile>
+</LanguageData>
