@@ -1,13 +1,23 @@
-# RimPacts - Traduction française
+![Aperçu de RimPacts — traduction française](About/Preview.png)
 
-Traduction française complète pour RimPacts - Diplomacy Overhaul (RimWorld 1.6).
+> [!WARNING]
+> Le mod est encore en développement. Testez les nouvelles versions sur une copie de sauvegarde et signalez les anomalies rencontrées en jeu.
 
-## Ordre de chargement
+# RimPacts — Traduction française
 
-1. Harmony
-2. RimPacts - Diplomacy Overhaul
-3. RimPacts - Traduction française
+Traduction française de **RimPacts - Diplomacy Overhaul** pour RimWorld 1.6.
 
-## Organisation du projet
+## Prérequis
 
-La copie du mod original utilisée pour produire et vérifier la traduction est conservée dans `source-mods/3762723122`. Ce dossier de travail est exclu du dépôt Git et des archives distribuées.
+- RimWorld 1.6
+- [RimPacts - Diplomacy Overhaul](https://steamcommunity.com/sharedfiles/filedetails/?id=3762723122)
+
+## Installation
+
+1. Téléchargez la dernière archive depuis les [releases GitHub](https://github.com/labkiezys/RimPacts-French/releases/latest).
+2. Extrayez le dossier dans le répertoire `Mods` de RimWorld.
+3. Activez d'abord **RimPacts - Diplomacy Overhaul**, puis **RimPacts - Traduction française**.
+
+## Signaler un problème
+
+Indiquez le texte concerné, le contexte en jeu et, si possible, joignez une capture d'écran.
