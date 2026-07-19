@@ -20,16 +20,19 @@ def parse_args() -> argparse.Namespace:
 
 
 def manifest() -> list[Path]:
-    files = [ROOT / "About" / "About.xml"]
+    files = [ROOT / "About" / "About.xml", ROOT / "About" / "Preview.png"]
     files.extend(sorted((ROOT / "Languages" / "French").rglob("*.xml")))
     return files
 
 
 def validate(files: list[Path]) -> None:
-    if len(files) != 15:
-        raise ValueError(f"Expected 15 XML files, found {len(files)}")
+    if len(files) != 16:
+        raise ValueError(f"Expected 16 files, found {len(files)}")
     for path in files:
-        ET.parse(path)
+        if path.is_symlink() or not path.is_file() or ROOT not in path.resolve().parents:
+            raise ValueError(f"Unsafe package path: {path}")
+        if path.suffix == ".xml":
+            ET.parse(path)
     about = ET.parse(ROOT / "About" / "About.xml").getroot()
     if about.findtext("packageId") != "kiezys.rimpacts.fr":
         raise ValueError("Unexpected packageId")
