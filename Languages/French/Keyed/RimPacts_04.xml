@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Rpt_Set_WorldEventChance>Probabilité d'événement mondial : {0}%</Rpt_Set_WorldEventChance>
+  <Rpt_Set_WorldEventChanceTip>Probabilité que des événements marquant l'essor ou le déclin des factions (récoltes exceptionnelles, pestes, périodes de prospérité, ruines) surviennent chaque trimestre. Réduisez-la pour les rendre plus rares ou augmentez-la pour les rendre plus fréquents.</Rpt_Set_WorldEventChanceTip>
+  <Rpt_LetterWorldEvent0Label>Récolte exceptionnelle : {0}</Rpt_LetterWorldEvent0Label>
+  <Rpt_LetterWorldEvent0>{0} bénéficie d'une récolte exceptionnelle. Pendant quelque temps, vous pouvez lui acheter de la nourriture à bas prix.</Rpt_LetterWorldEvent0>
+  <Rpt_LetterWorldEvent1Label>Découverte d'un filon : {0}</Rpt_LetterWorldEvent1Label>
+  <Rpt_LetterWorldEvent1>{0} a découvert un riche filon de minerai. Pendant quelque temps, ses métaux et ses matières premières sont vendus à bas prix.</Rpt_LetterWorldEvent1>
+  <Rpt_LetterWorldEvent2Label>Percée technologique : {0}</Rpt_LetterWorldEvent2Label>
+  <Rpt_LetterWorldEvent2>{0} a réalisé une percée dans le domaine de la production. Sa puissance augmente et, pendant quelque temps, ses produits spécialisés sont vendus à bas prix.</Rpt_LetterWorldEvent2>
+  <Rpt_LetterWorldEvent3Label>Âge d'or : {0}</Rpt_LetterWorldEvent3Label>
+  <Rpt_LetterWorldEvent3>{0} connaît un âge d'or culturel. Les œuvres d'art et les produits de luxe abondent, tandis que les relations avec cette faction s'apaisent.</Rpt_LetterWorldEvent3>
+  <Rpt_LetterWorldEvent4Label>Peste : {0}</Rpt_LetterWorldEvent4Label>
+  <Rpt_LetterWorldEvent4>Une épidémie de peste se propage au sein de {0}. La faction est affaiblie, mais commercer avec elle ou lui porter secours présente un risque de contagion.</Rpt_LetterWorldEvent4>
+  <Rpt_LetterWorldEvent5Label>Sécheresse : {0}</Rpt_LetterWorldEvent5Label>
+  <Rpt_LetterWorldEvent5>{0} est frappée par la sécheresse et de mauvaises récoltes. Le prix de la nourriture y a flambé — l'occasion de lui en vendre à prix fort.</Rpt_LetterWorldEvent5>
+  <Rpt_LetterWorldEvent6Label>Ruine financière : {0}</Rpt_LetterWorldEvent6Label>
+  <Rpt_LetterWorldEvent6>L'économie de {0} s'est effondrée et la faction brade ses marchandises. C'est l'occasion d'acheter toutes sortes de produits à bas prix.</Rpt_LetterWorldEvent6>
+  <Rpt_LetterWorldEvent7Label>Catastrophe naturelle : {0}</Rpt_LetterWorldEvent7Label>
+  <Rpt_LetterWorldEvent7>{0} a été frappée par une catastrophe naturelle. Affaiblie et contrainte de reconstruire, la faction paiera les matériaux à prix d'or.</Rpt_LetterWorldEvent7>
+  <Rpt_LetterContagionLabel>Contamination</Rpt_LetterContagionLabel>
+  <Rpt_LetterContagion>Lors d'un échange avec {1}, {0} a contracté la maladie suivante : {2}.</Rpt_LetterContagion>
+
+  <Rpt_LetterWorldEvent0Player>Les champs de {0} connaissent une saison exceptionnelle — les cultures progressent rapidement vers la récolte.</Rpt_LetterWorldEvent0Player>
+  <Rpt_LetterWorldEvent1Player>De précieuses météorites riches en minerai se sont abattues près de {0}. L'or, le plastacier et les composants sont à vous.</Rpt_LetterWorldEvent1Player>
+  <Rpt_LetterWorldEvent2Player>Une vague d'inspiration a gagné {0}. La recherche progressera beaucoup plus rapidement pendant quelque temps.</Rpt_LetterWorldEvent2Player>
+  <Rpt_LetterWorldEvent3Player>{0} est entrée dans un âge d'or culturel. Tout le monde a le moral au beau fixe.</Rpt_LetterWorldEvent3Player>
+  <Rpt_LetterWorldEvent4Player>Une épidémie de peste a frappé {0}. Le mildiou se propage dans les champs et la plupart des colons sont tombés malades.</Rpt_LetterWorldEvent4Player>
+  <Rpt_LetterWorldEvent5Player>La sécheresse s'est installée sur {0}. La pluie a cessé et les cultures poussent lentement.</Rpt_LetterWorldEvent5Player>
+  <Rpt_LetterWorldEvent6Player>L'économie de {0} est en plein chaos. Pendant quelque temps, toutes les transactions sont défavorables — les achats coûtent cher et les ventes rapportent peu.</Rpt_LetterWorldEvent6Player>
+  <Rpt_LetterWorldEvent7Player>Plusieurs catastrophes naturelles ont frappé {0} simultanément.</Rpt_LetterWorldEvent7Player>
+  <Rpt_Set_WorldEventPlayer>Les événements mondiaux peuvent toucher votre colonie</Rpt_Set_WorldEventPlayer>
+  <Rpt_Set_WorldEventPlayerTip>Les événements mondiaux (récolte exceptionnelle, peste, catastrophe naturelle, etc.) ont 30% de chances de frapper réellement votre propre colonie. Désactivé = ils ne touchent que les autres factions. Ils ne surviennent jamais pendant la première année de jeu.</Rpt_Set_WorldEventPlayerTip>
+
+  <Rpt_Relief_SendDelegate>Envoyer un colon apporter son aide en personne (1 jour)</Rpt_Relief_SendDelegate>
+  <Rpt_Relief_DelegateUnavailable>Indisponible (une navette est déjà occupée ou aucune carte principale n'est disponible)</Rpt_Relief_DelegateUnavailable>
+  <Rpt_Relief_NoColonist>Aucun colon n'est disponible pour cette mission.</Rpt_Relief_NoColonist>
+  <Rpt_MsgReliefDelegateSent>{0} est parti porter secours à {1} (retour dans {2} jour(s)).</Rpt_MsgReliefDelegateSent>
+  <Rpt_LetterReliefReturnLabel>Retour de la mission de secours : {0}</Rpt_LetterReliefReturnLabel>
+  <Rpt_LetterReliefReturn>{0} est revenu sain et sauf après avoir porté secours à {1}.</Rpt_LetterReliefReturn>
+
+  <Rpt_WorldEventShort0>Récolte exceptionnelle</Rpt_WorldEventShort0>
+  <Rpt_WorldEventShort1>Découverte d'un filon</Rpt_WorldEventShort1>
+  <Rpt_WorldEventShort2>Percée technologique</Rpt_WorldEventShort2>
+  <Rpt_WorldEventShort3>Âge d'or</Rpt_WorldEventShort3>
+  <Rpt_WorldEventShort4>Peste</Rpt_WorldEventShort4>
+  <Rpt_WorldEventShort5>Sécheresse</Rpt_WorldEventShort5>
+  <Rpt_WorldEventShort6>Ruine financière</Rpt_WorldEventShort6>
+  <Rpt_WorldEventShort7>Catastrophe naturelle</Rpt_WorldEventShort7>
+  <Rpt_WorldEventEffect0>Vous pouvez acheter de la nourriture à bas prix auprès de cette faction.</Rpt_WorldEventEffect0>
+  <Rpt_WorldEventEffect1>Vous pouvez acheter des matières premières à bas prix auprès de cette faction.</Rpt_WorldEventEffect1>
+  <Rpt_WorldEventEffect2>Vous pouvez acheter les produits spécialisés de cette faction à bas prix.</Rpt_WorldEventEffect2>
+  <Rpt_WorldEventEffect3>Les produits de luxe abondent et les relations avec cette faction s'apaisent.</Rpt_WorldEventEffect3>
+  <Rpt_WorldEventEffect4>La faction est affaiblie. Commercer avec elle ou lui porter secours présente un risque de contagion.</Rpt_WorldEventEffect4>
+  <Rpt_WorldEventEffect5>Le prix de la nourriture y a flambé — vous pouvez lui en vendre à prix fort.</Rpt_WorldEventEffect5>
+  <Rpt_WorldEventEffect6>Cette faction brade toutes sortes de marchandises.</Rpt_WorldEventEffect6>
+  <Rpt_WorldEventEffect7>La faction est affaiblie et paiera les matériaux de construction à prix d'or.</Rpt_WorldEventEffect7>
+  <Rpt_WorldEventTipDays>{0} jour(s) restant(s)</Rpt_WorldEventTipDays>
+  <Rpt_Msg_MeteoriteDropped>Une météorite de {0} s'est écrasée.</Rpt_Msg_MeteoriteDropped>
+  <Rpt_Relief_DispatchInTab>L'aide destinée à {0} a été acceptée. Sélectionnez cette faction dans l'onglet Diplomatie pour envoyer un colon (dans les 24 h).</Rpt_Relief_DispatchInTab>
+  <Rpt_Relief_DispatchBtn>Envoyer un colon en mission de secours ({0} h restantes)</Rpt_Relief_DispatchBtn>
+  <Rpt_UI_PlagueNoDispatch>Impossible d'envoyer une délégation auprès d'une faction frappée par la peste (secours uniquement)</Rpt_UI_PlagueNoDispatch>
+  <Rpt_MsgPlagueNoDispatch>{0} est frappée par la peste — vous ne pouvez pas y envoyer de délégation (secours uniquement).</Rpt_MsgPlagueNoDispatch>
+  <Rpt_LetterExpoPlagueLabel>Foire fermée : peste</Rpt_LetterExpoPlagueLabel>
+  <Rpt_LetterExpoPlague>La peste s'est propagée au sein de {0} ; la foire a immédiatement fermé ses portes.</Rpt_LetterExpoPlague>
+</LanguageData>
