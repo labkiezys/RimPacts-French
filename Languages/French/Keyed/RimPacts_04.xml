@@ -63,4 +63,67 @@
   <Rpt_MsgPlagueNoDispatch>{0} est frappée par la peste — vous ne pouvez pas y envoyer de délégation (secours uniquement).</Rpt_MsgPlagueNoDispatch>
   <Rpt_LetterExpoPlagueLabel>Foire fermée : peste</Rpt_LetterExpoPlagueLabel>
   <Rpt_LetterExpoPlague>La peste s'est propagée au sein de {0} ; la foire a immédiatement fermé ses portes.</Rpt_LetterExpoPlague>
+
+  <Rpt_CantSign_TradePermit>Nécessite un colon possédant le titre de {0} ou un titre supérieur. Les caravanes de cette faction ne viendront pas sans ce permis commercial.</Rpt_CantSign_TradePermit>
+  <Rpt_CantSign_TradePermitAny>Les caravanes de cette faction exigent un permis commercial qu'aucun de vos colons ne peut obtenir. Elles ne viendront pas même si le traité est signé.</Rpt_CantSign_TradePermitAny>
+  <Rpt_UI_CaravanNoPermit>Pas de {0} — caravanes suspendues</Rpt_UI_CaravanNoPermit>
+  <Rpt_UI_CaravanNoPermitAny>Aucun permis commercial — caravanes suspendues</Rpt_UI_CaravanNoPermitAny>
+  <Rpt_UI_CaravanNoPermitTip>Un colon possédant le titre de {0} ou un titre supérieur est requis pour que les caravanes de cette faction viennent. Leurs visites reprendront automatiquement dès que vous détiendrez ce titre.</Rpt_UI_CaravanNoPermitTip>
+  <Rpt_UI_CaravanNoPermitAnyTip>Vos colons ne peuvent pas obtenir le permis commercial exigé par les caravanes de cette faction, elles ne viendront donc pas.</Rpt_UI_CaravanNoPermitAnyTip>
+
+  <Rpt_LetterSpyFateCaptive>{0} a été capturé et est détenu. S'il n'est pas récupéré dans les {1} jours, il sera perdu.</Rpt_LetterSpyFateCaptive>
+  <Rpt_LetterSpyFateDefected>{0} est passé dans le camp adverse.</Rpt_LetterSpyFateDefected>
+  <Rpt_LetterSpyDefectedLabel>Espion ayant fait défection : {0}</Rpt_LetterSpyDefectedLabel>
+  <Rpt_LetterSpyDefected>{0} a fait défection au profit de {1}. Les rouages internes de notre bureau sont désormais entre leurs mains.</Rpt_LetterSpyDefected>
+  <Rpt_LetterSpyExecutedLabel>Espion captif exécuté : {0}</Rpt_LetterSpyExecutedLabel>
+  <Rpt_LetterSpyExecuted>{1} a exécuté {0}.</Rpt_LetterSpyExecuted>
+  <Rpt_MsgSpyCaptiveFreed>{0} a été libéré et est rentré.</Rpt_MsgSpyCaptiveFreed>
+  <Rpt_MsgSpyRansomOk>{0} a été libéré contre rançon.</Rpt_MsgSpyRansomOk>
+  <Rpt_MsgSpyRansomRefused>{0} a refusé la rançon proposée. Vous pourrez réessayer dans {1} jours.</Rpt_MsgSpyRansomRefused>
+  <Rpt_Spy_NotCaptive>Cet espion n'est pas détenu</Rpt_Spy_NotCaptive>
+  <Rpt_Spy_StatusCaptive>Détenu par {0} — {1} jours restants</Rpt_Spy_StatusCaptive>
+  <Rpt_Spy_RansomBtn>Rançon ({0})</Rpt_Spy_RansomBtn>
+  <Rpt_Spy_RansomConfirm>Payer {2} unités d'argent à {1} pour ramener {0}.\n\nLa probabilité d'acceptation est d'environ {3}. En cas de refus, aucune unité d'argent ne sera dépensée.</Rpt_Spy_RansomConfirm>
+  <Rpt_Spy_HoldingTheirSpy>Vous détenez l'un de leurs agents</Rpt_Spy_HoldingTheirSpy>
+  <Rpt_Spy_TurnedHomeland>Un agent retourné ne peut pas être renvoyé dans sa faction d'origine</Rpt_Spy_TurnedHomeland>
+  <Rpt_Spy_HeldLine>Agent de {0} détenu — {1} jours restants</Rpt_Spy_HeldLine>
+  <Rpt_CounterSpy_Hold>Le détenir ({0} jours)</Rpt_CounterSpy_Hold>
+  <Rpt_CounterSpy_HoldBusy>Vous détenez déjà un agent de {0}</Rpt_CounterSpy_HoldBusy>
+  <Rpt_MsgCounterHold>L'agent de {0} sera détenu pendant {1} jours.</Rpt_MsgCounterHold>
+  <Rpt_LetterHeldSpyLabel>Fin de la détention : {0}</Rpt_LetterHeldSpyLabel>
+  <Rpt_LetterHeldSpy>La durée fixée pour la détention de l'agent de {0} est écoulée. Que voulez-vous en faire ?</Rpt_LetterHeldSpy>
+  <Rpt_HeldSpy_Turn>Tenter de retourner l'agent ({0} de réussite)</Rpt_HeldSpy_Turn>
+  <Rpt_HeldSpy_Double>Le renvoyer comme agent double ({0} jours)</Rpt_HeldSpy_Double>
+  <Rpt_HeldSpy_Release>L'éliminer discrètement</Rpt_HeldSpy_Release>
+  <Rpt_LetterHeldSpyTurnedLabel>Agent retourné : {0}</Rpt_LetterHeldSpyTurnedLabel>
+  <Rpt_LetterHeldSpyTurned>L'agent de {1} a changé de camp. {0} (niveau {2}) rejoint le bureau.</Rpt_LetterHeldSpyTurned>
+  <Rpt_MsgHeldSpyTurnFail>L'agent de {0} a refusé de changer de camp.</Rpt_MsgHeldSpyTurnFail>
+  <Rpt_MsgHeldSpyDoubleAgent>L'agent de {0} a été renvoyé. Les informations provenant de cette faction nous parviendront pendant {1} jours.</Rpt_MsgHeldSpyDoubleAgent>
+  <Rpt_LetterDoubleAgentDoneLabel>Mission de l'agent double terminée : {0}</Rpt_LetterDoubleAgentDoneLabel>
+  <Rpt_LetterDoubleAgentDone>{1}, l'agent double infiltré chez {0}, a terminé sa mission et s'est retiré.</Rpt_LetterDoubleAgentDone>
+  <Rpt_LetterDoubleAgentFooledLabel>Agent double à la solde de l'ennemi : {0}</Rpt_LetterDoubleAgentFooledLabel>
+  <Rpt_LetterDoubleAgentFooled>{1}, renvoyé chez {0}, travaillait en réalité pour cette faction depuis le début. Toutes les valeurs de puissance et de soumission affichées étaient falsifiées, et toutes les opérations ont été menées en pure perte.</Rpt_LetterDoubleAgentFooled>
+  <Rpt_Swap_NeedHeld>Vous ne détenez aucun agent ennemi</Rpt_Swap_NeedHeld>
+  <Rpt_Swap_NeedOurs>Cette faction ne détient aucun de vos espions</Rpt_Swap_NeedOurs>
+  <Rpt_Swap_Btn>Échanger</Rpt_Swap_Btn>
+  <Rpt_Swap_Confirm>Proposer un échange de prisonniers à {0} contre l'agent que vous détenez, {1}.\n\nLa probabilité d'acceptation est d'environ {2}.</Rpt_Swap_Confirm>
+  <Rpt_MsgSwapRefused>{0} a refusé l'échange. Vous pourrez faire une nouvelle proposition dans {1} jours.</Rpt_MsgSwapRefused>
+  <Rpt_MsgSwapDone>{0} est rentré grâce à l'échange de prisonniers.</Rpt_MsgSwapDone>
+  <Rpt_LetterSwapDoneLabel>Échange terminé : {0}</Rpt_LetterSwapDoneLabel>
+  <Rpt_LetterSwapDone>L'échange avec {1} a abouti et {0} est rentré.</Rpt_LetterSwapDone>
+  <Rpt_LetterSwapOfferLabel>Échange proposé : {0}</Rpt_LetterSwapOfferLabel>
+  <Rpt_LetterSwapOffer>{0} propose un échange de prisonniers contre l'agent {1} que vous détenez (niveau {2}).</Rpt_LetterSwapOffer>
+  <Rpt_Swap_Accept>Procéder à l'échange</Rpt_Swap_Accept>
+  <Rpt_Swap_Refuse>Refuser</Rpt_Swap_Refuse>
+  <Rpt_TrustReason_SpySwap>Échange de prisonniers</Rpt_TrustReason_SpySwap>
+  <Rpt_MsgSpyYieldedToDouble>Un agent double a pris position chez {1}, {0} est donc repassé en attente.</Rpt_MsgSpyYieldedToDouble>
+  <Rpt_Spy_StatusDouble>Agent double chez {0} — {1} jours restants</Rpt_Spy_StatusDouble>
+  <Rpt_Spy_DoubleTail>agent double, {0} jours restants</Rpt_Spy_DoubleTail>
+  <Rpt_MsgSpyOpFailed>L'opération « {1} » de {0} a échoué.</Rpt_MsgSpyOpFailed>
+  <Rpt_Spy_Expel>Congédier</Rpt_Spy_Expel>
+  <Rpt_Spy_ExpelConfirm>Rompre le contact avec {0}, l'agent double infiltré chez {1} ({2} jours restants).
+
+Toute opération en cours sera annulée et son coût en unités d'argent remboursé. Vous pourrez de nouveau envoyer votre propre espion auprès de cette faction.</Rpt_Spy_ExpelConfirm>
+  <Rpt_MsgDoubleAgentExpelled>Vous avez rompu le contact avec {0}, qui travaillait chez {1}.</Rpt_MsgDoubleAgentExpelled>
+  <Rpt_MsgHeldSpyDisposed>L'agent de {0} a été discrètement éliminé.</Rpt_MsgHeldSpyDisposed>
 </LanguageData>
