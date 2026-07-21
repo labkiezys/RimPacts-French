@@ -36,7 +36,7 @@
   <Rpt_LetterBribeExposedLabel>Corruption révélée : {0}</Rpt_LetterBribeExposedLabel>
   <Rpt_LetterBribeExposed>La tentative de corruption de {0} a été découverte. {1} est mécontente.</Rpt_LetterBribeExposed>
   <Rpt_Act_Marriage>Organiser un mariage…</Rpt_Act_Marriage>
-  <Rpt_Marry_In>Accueillir par mariage : {0} rejoint la colonie (dot de {1} unités d'argent)</Rpt_Marry_In>
+  <Rpt_Marry_In>Accueillir par mariage : faire venir {0} dans notre colonie</Rpt_Marry_In>
   <Rpt_Marry_Out>Marier à l'extérieur : envoyer un colon à la cour (définitif)</Rpt_Marry_Out>
   <Rpt_Marry_OutConfirm>Marier {0} à la cour de {1} ?\n\nCette personne quittera définitivement la colonie. En échange, la faction devient immédiatement votre alliée, des liens du sang sont noués et cette personne devient votre porte-parole à la cour. Tant que les liens du sang perdurent, les relations ne pourront pas tomber sous un certain seuil — mais attaquez cette faction ou continuez à la provoquer, et la protection offerte par le mariage prendra fin.</Rpt_Marry_OutConfirm>
   <Rpt_LetterMarryOfferLabel>Proposition de mariage — {0}</Rpt_LetterMarryOfferLabel>
@@ -47,6 +47,8 @@
   <Rpt_LetterMarryOut>{0} s'est marié à la cour de {1}. La faction devient immédiatement votre alliée, des liens du sang sont noués et {0} est désormais votre porte-parole à la cour.</Rpt_LetterMarryOut>
   <Rpt_Marry_NoCandidates>(aucune personne célibataire admissible)</Rpt_Marry_NoCandidates>
   <Rpt_Marry_NoCompatible>Aucun colon adulte célibataire d'un genre compatible n'est disponible.</Rpt_Marry_NoCompatible>
+  <Rpt_Marry_NoMembers>Aucun courtisan adulte célibataire n'est disponible pour un mariage.</Rpt_Marry_NoMembers>
+  <Rpt_Marry_BlockedTributary>Vous ne pouvez pas organiser de mariage tant que vous êtes tributaire de {0}.</Rpt_Marry_BlockedTributary>
   <Rpt_MsgMarriedIn>{0} a épousé notre colon {1} et rejoint la colonie. Des liens du sang sont noués avec {2}, et {0} figure toujours à sa cour en tant que notre allié.</Rpt_MsgMarriedIn>
   <Rpt_MsgMarriedOut>{0} s'est marié à la cour de {1}. Des liens du sang ont été noués.</Rpt_MsgMarriedOut>
   <Rpt_UI_BloodTies>Liens du sang — la confiance ne s'effondrera pas facilement.</Rpt_UI_BloodTies>
@@ -163,7 +165,9 @@
   <Rpt_Act_MediateConfirm>Négocier la paix entre {0} et {1} ({2} unités d'argent). L'argent est dépensé même en cas d'échec.</Rpt_Act_MediateConfirm>
   <Rpt_Act_CoalitionConfirm>Proposer une coalition contre {0} ({1} unités d'argent).\n\nUne fois la coalition formée, ses membres envoient des renforts lorsque l'hégémon nous attaque et combattent à nos côtés lorsque nous assaillons ses colonies.</Rpt_Act_CoalitionConfirm>
   <Rpt_Act_WarIntelConfirm>Transmettre à {1} des renseignements sur {0} avant-postes. Cette action est irréversible.</Rpt_Act_WarIntelConfirm>
-  <Rpt_Marry_InConfirm>Organiser le mariage de {0} et {1} (dot de {2} unités d'argent). Le courtisan rejoint notre colonie.</Rpt_Marry_InConfirm>
+  <Rpt_Marry_InConfirm>{0} quittera la cour de {2}, épousera {1} et rejoindra notre colonie.
+
+Aucune dot n'est requise — un tributaire envoie l'un des siens.</Rpt_Marry_InConfirm>
   <Rpt_Act_MonopolyConfirm>Acheter un monopole sur les marchandises « {0} » ({1} unités d'argent, {2} jours).\n\nTant qu'il dure, les achats de cette catégorie auprès de cette faction coûtent moins cher et les majorations de commande sont supprimées.</Rpt_Act_MonopolyConfirm>
   <Rpt_TT_FoundConfirm>Fonder une compagnie commerciale ({0} unités d'argent, {1} jours de travail).\n\nPermet d'ouvrir des routes commerciales vers les colonies des factions liées par un traité commercial afin de percevoir des revenus trimestriels en argent. Une route par colonie, avec autant de routes que le niveau de la compagnie.</Rpt_TT_FoundConfirm>
   <Rpt_TT_UpgradeConfirm>Améliorer la compagnie commerciale ({0} unités d'argent, {1} jours de travail).\n\nAjoute un emplacement de route (niveau = emplacements), ce qui permet d'ouvrir des routes vers davantage de colonies, et augmente les revenus de chaque route.</Rpt_TT_UpgradeConfirm>
