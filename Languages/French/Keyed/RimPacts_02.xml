@@ -20,7 +20,7 @@
   <Rpt_TrustReason_Mediate>Médiation de paix</Rpt_TrustReason_Mediate>
   <Rpt_Set_Dynamics>Dynamique des factions</Rpt_Set_Dynamics>
   <Rpt_Set_DynamicsTip>Les factions se déclarent réellement la guerre et font la paix, ce qui alimente les marchés et les routes commerciales.</Rpt_Set_DynamicsTip>
-  <Rpt_Set_DynamicsRival>Dynamic Diplomacy / Rim War / World Domination / RimChat détecté — la dynamique des factions est automatiquement désactivée (ces mods prennent le relais).</Rpt_Set_DynamicsRival>
+  <Rpt_Set_DynamicsRival>Dynamic Diplomacy / Rim War / World Domination / RimChat / The News détecté — la dynamique des factions est automatiquement désactivée (ces mods prennent le relais).</Rpt_Set_DynamicsRival>
   <Rpt_Act_Envoy>Envoyer un émissaire…</Rpt_Act_Envoy>
   <Rpt_Act_EnvoyBusy>Un émissaire est déjà en mission.</Rpt_Act_EnvoyBusy>
   <Rpt_Act_PersonCooldown>Trop tôt. (disponible dans {0} jours)</Rpt_Act_PersonCooldown>
