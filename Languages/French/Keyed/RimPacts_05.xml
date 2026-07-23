@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Rpt_UI_Chronicle>Chronique</Rpt_UI_Chronicle>
+  <Rpt_Chron_Title>Chronique diplomatique</Rpt_Chron_Title>
+  <Rpt_Chron_All>Toutes</Rpt_Chron_All>
+  <Rpt_Chron_FacFilter>Faction : {0}</Rpt_Chron_FacFilter>
+  <Rpt_Chron_Count>{0} entrées</Rpt_Chron_Count>
+  <Rpt_Chron_Cat0>Traités</Rpt_Chron_Cat0>
+  <Rpt_Chron_Cat1>Guerres</Rpt_Chron_Cat1>
+  <Rpt_Chron_Cat2>Sommets</Rpt_Chron_Cat2>
+  <Rpt_Chron_Cat3>Foires</Rpt_Chron_Cat3>
+  <Rpt_Chron_Cat4>Cour</Rpt_Chron_Cat4>
+  <Rpt_Chron_Cat5>Crises</Rpt_Chron_Cat5>
+  <Rpt_Chron_Cat6>Monde</Rpt_Chron_Cat6>
+  <Rpt_Chron_Cat7>Espionnage</Rpt_Chron_Cat7>
+  <Rpt_Chron_Cat8>Économie</Rpt_Chron_Cat8>
+  <Rpt_Chron_TreatySigned>Traité signé avec {0} : {2}.</Rpt_Chron_TreatySigned>
+  <Rpt_Chron_TreatyRenewed>Traité renouvelé avec {0} : {2}.</Rpt_Chron_TreatyRenewed>
+  <Rpt_Chron_TreatyBrokenPlayer>Nous avons rompu le traité suivant avec {0} : {2}.</Rpt_Chron_TreatyBrokenPlayer>
+  <Rpt_Chron_TreatyBroken>Le traité suivant avec {0} a été dissous : {2}.</Rpt_Chron_TreatyBroken>
+  <Rpt_Chron_TreatyExpired>Le traité suivant avec {0} a expiré : {2}.</Rpt_Chron_TreatyExpired>
+  <Rpt_Chron_WarStart>Une guerre a éclaté entre {0} et {1}.</Rpt_Chron_WarStart>
+  <Rpt_Chron_WarPeace>{0} et {1} ont conclu la paix.</Rpt_Chron_WarPeace>
+  <Rpt_Chron_IndepWarStart>Nous avons engagé une guerre d'indépendance contre {0}.</Rpt_Chron_IndepWarStart>
+  <Rpt_Chron_IndepWarWon>Nous avons remporté la guerre d'indépendance contre {0}.</Rpt_Chron_IndepWarWon>
+  <Rpt_Chron_IndepWarResign>Nous nous sommes à nouveau soumis à {0}, mettant fin à la guerre d'indépendance.</Rpt_Chron_IndepWarResign>
+  <Rpt_Chron_JointWarStart>Nous avons engagé une guerre conjointe avec {0} contre {1}.</Rpt_Chron_JointWarStart>
+  <Rpt_Chron_JointWarWon>Notre guerre conjointe avec {0} a écrasé {1}.</Rpt_Chron_JointWarWon>
+  <Rpt_Chron_JointWarEnd>Notre guerre conjointe avec {0} s'est achevée sans résultat. (Cible : {1})</Rpt_Chron_JointWarEnd>
+  <Rpt_Chron_Surrender>Nous nous sommes rendus à {0}.</Rpt_Chron_Surrender>
+  <Rpt_Chron_SummitStart>Nous avons convoqué un sommet international. (Sujet : {2})</Rpt_Chron_SummitStart>
+  <Rpt_Chron_SummitLost>Le sommet s'est effondré après la perte de notre délégué. (Sujet : {2})</Rpt_Chron_SummitLost>
+  <Rpt_Chron_SummitFail>Le sommet international n'a pas pu se tenir. (Sujet : {2})</Rpt_Chron_SummitFail>
+  <Rpt_Chron_SummitNoPeace>Le sommet de paix a échoué sans mettre fin à aucune guerre.</Rpt_Chron_SummitNoPeace>
+  <Rpt_Chron_SummitOk>Le sommet international a réussi. ({2} participants)</Rpt_Chron_SummitOk>
+  <Rpt_Chron_ExpoOpen>Notre foire commerciale internationale a ouvert ses portes. ({2} participants)</Rpt_Chron_ExpoOpen>
+  <Rpt_Chron_ExpoFail>Notre foire commerciale internationale n'a attiré aucun participant.</Rpt_Chron_ExpoFail>
+  <Rpt_Chron_ExpoOther>{0} organise une foire commerciale internationale.</Rpt_Chron_ExpoOther>
+  <Rpt_Chron_ExpoJoined>Nous avons rejoint la foire organisée par {0}.</Rpt_Chron_ExpoJoined>
+  <Rpt_Chron_ExpoBetray>Une attaque contre les invités a ruiné la foire. (Victime : {0})</Rpt_Chron_ExpoBetray>
+  <Rpt_Chron_ExpoEnd>Notre foire commerciale internationale s'est achevée. ({2} factions participantes)</Rpt_Chron_ExpoEnd>
+  <Rpt_Chron_ExpoPlague>Une épidémie touchant le participant {0} a forcé la fermeture anticipée de la foire.</Rpt_Chron_ExpoPlague>
+  <Rpt_Chron_MarryIn>{2}, membre de la cour de {0}, a rejoint la colonie par mariage.</Rpt_Chron_MarryIn>
+  <Rpt_Chron_MarryOut>{2} a rejoint la cour de {0} par mariage.</Rpt_Chron_MarryOut>
+  <Rpt_Chron_HostageTaken>Nous avons pris {2}, de {0}, en otage.</Rpt_Chron_HostageTaken>
+  <Rpt_Chron_HostageReturned>Nous avons rendu l'otage à {0}.</Rpt_Chron_HostageReturned>
+  <Rpt_Chron_HostageLost>L'otage {2} a été perdu sous notre garde, provoquant la colère de {0}.</Rpt_Chron_HostageLost>
+  <Rpt_Chron_AssassinOk>Nous avons assassiné le dirigeant de {0}.</Rpt_Chron_AssassinOk>
+  <Rpt_Chron_AssassinExposed>Notre tentative d'assassinat contre le dirigeant de {0} a été découverte.</Rpt_Chron_AssassinExposed>
+  <Rpt_Chron_Succession>{0} a un nouveau dirigeant.</Rpt_Chron_Succession>
+  <Rpt_Chron_CourtEvent>Une affaire de cour s'est déroulée — {2}</Rpt_Chron_CourtEvent>
+  <Rpt_Chron_CrisisStart>Une crise de succession a éclaté au sein de {0}.</Rpt_Chron_CrisisStart>
+  <Rpt_Chron_CrisisNeutral>La crise de succession au sein de {0} a pris fin. (Vainqueur : {2})</Rpt_Chron_CrisisNeutral>
+  <Rpt_Chron_CrisisWon>Notre candidat {2} a remporté la crise de succession au sein de {0}.</Rpt_Chron_CrisisWon>
+  <Rpt_Chron_CrisisLost>Notre candidat a perdu la crise de succession au sein de {0}. (Vainqueur : {2})</Rpt_Chron_CrisisLost>
+  <Rpt_Chron_ExileAccepted>Nous avons accueilli le gouvernement en exil de {2}.</Rpt_Chron_ExileAccepted>
+  <Rpt_Chron_ExileRestored>{0} a été restaurée en tant que nation. ({2} colonies)</Rpt_Chron_ExileRestored>
+  <Rpt_Chron_ExileDismissed>Nous avons expulsé le gouvernement en exil de {2}.</Rpt_Chron_ExileDismissed>
+  <Rpt_Chron_CivilWarStart>Une guerre civile a éclaté au sein de {0}.</Rpt_Chron_CivilWarStart>
+  <Rpt_Chron_CivilWarQuell>La guerre civile au sein de {0} a été réprimée.</Rpt_Chron_CivilWarQuell>
+  <Rpt_Chron_CivilWarCoup>Un coup d'État au sein de {0} a remplacé son dirigeant.</Rpt_Chron_CivilWarCoup>
+  <Rpt_Chron_CivilWarSplit>{0} s'est divisée lors d'une guerre civile ; {1} a fait sécession.</Rpt_Chron_CivilWarSplit>
+  <Rpt_Chron_WorldEvent>« {2} » a frappé {0}.</Rpt_Chron_WorldEvent>
+  <Rpt_Chron_WorldEventPlayer>« {2} » a frappé notre colonie.</Rpt_Chron_WorldEventPlayer>
+  <Rpt_Chron_SpyCaptured>Notre espion {2} a été capturé par {0}.</Rpt_Chron_SpyCaptured>
+  <Rpt_Chron_SpyExposed>Notre espion {2} a été démasqué au sein de {0}.</Rpt_Chron_SpyExposed>
+  <Rpt_Chron_SpyDefected>Notre espion {2} a fait défection au profit de {0}.</Rpt_Chron_SpyDefected>
+  <Rpt_Chron_SpyExecuted>{0} a exécuté notre espion captif {2}.</Rpt_Chron_SpyExecuted>
+  <Rpt_Chron_DoubleAgentStart>Nous avons infiltré l'agent double {2} au sein de {0}.</Rpt_Chron_DoubleAgentStart>
+  <Rpt_Chron_DoubleAgentExpel>Nous avons abandonné l'agent double {2}. ({0})</Rpt_Chron_DoubleAgentExpel>
+  <Rpt_Chron_DoubleAgentDone>L'agent double {2} a terminé sa mission. ({0})</Rpt_Chron_DoubleAgentDone>
+  <Rpt_Chron_DoubleAgentFooled>L'agent double {2} nous manipulait depuis le début. ({0})</Rpt_Chron_DoubleAgentFooled>
+  <Rpt_Chron_EnemySpyCaught>Nous avons capturé un espion de {0}.</Rpt_Chron_EnemySpyCaught>
+  <Rpt_Chron_EnemySpyTurned>Nous avons retourné un espion de {0}. ({2})</Rpt_Chron_EnemySpyTurned>
+  <Rpt_Chron_EnemySpyDisposed>Nous avons discrètement éliminé un espion de {0}.</Rpt_Chron_EnemySpyDisposed>
+  <Rpt_Chron_SpySwap>Un échange de prisonniers avec {0} a permis à {2} de rentrer.</Rpt_Chron_SpySwap>
+  <Rpt_Chron_EcoShift>L'économie mondiale est passée à « {2} ».</Rpt_Chron_EcoShift>
+  <Rpt_Chron_RouteOpen>Nous avons ouvert une route commerciale vers {2}, de {0}.</Rpt_Chron_RouteOpen>
+  <Rpt_Chron_RouteClose>La route commerciale vers {2} a été fermée. ({0})</Rpt_Chron_RouteClose>
+  <Rpt_Chron_CompanyFounded>Nous avons fondé une compagnie commerciale.</Rpt_Chron_CompanyFounded>
+  <Rpt_Chron_CompanyUpgraded>Notre compagnie commerciale a atteint le niv. {2}.</Rpt_Chron_CompanyUpgraded>
+  <Rpt_Chron_Monopoly>Nous avons acheté à {0} un monopole sur {2}.</Rpt_Chron_Monopoly>
+  <Rpt_Chron_Cat9>Actions</Rpt_Chron_Cat9>
+  <Rpt_Chron_Envoy>Notre émissaire auprès de {0} est revenu. (Faveur : {2})</Rpt_Chron_Envoy>
+  <Rpt_Chron_ReliefPawn>Le colon {2} est revenu de sa mission de secours auprès de {0}.</Rpt_Chron_ReliefPawn>
+  <Rpt_Chron_ReliefSilver>Nous avons envoyé une aide financière à {0}.</Rpt_Chron_ReliefSilver>
+  <Rpt_Chron_Gift>Nous avons envoyé un cadeau à {2}, de {0}.</Rpt_Chron_Gift>
+  <Rpt_Chron_BribeOk>Nous avons soudoyé {2}, de {0}.</Rpt_Chron_BribeOk>
+  <Rpt_Chron_BribeCaught>Notre tentative de soudoyer {2}, de {0}, a été découverte.</Rpt_Chron_BribeCaught>
+  <Rpt_Chron_SabotageOk>Notre sabotage au sein de {0} a réussi.</Rpt_Chron_SabotageOk>
+  <Rpt_Chron_SabotageCaught>Notre sabotage au sein de {0} a été découvert.</Rpt_Chron_SabotageCaught>
+  <Rpt_Chron_ConvertOk>{0} s'est convertie à {2}.</Rpt_Chron_ConvertOk>
+  <Rpt_Chron_ConvertFail>Notre mission visant à convertir {0} a échoué.</Rpt_Chron_ConvertFail>
+  <Rpt_Chron_IndepSupport>Nous avons financé des séparatistes au sein de {0}.</Rpt_Chron_IndepSupport>
+  <Rpt_Chron_IndepSupportOk>{0} a fait sécession de {1}.</Rpt_Chron_IndepSupportOk>
+  <Rpt_Chron_MediateOk>Notre médiation a mis fin à la guerre entre {0} et {1}.</Rpt_Chron_MediateOk>
+  <Rpt_Chron_MediateFail>Notre médiation entre {0} et {1} a échoué.</Rpt_Chron_MediateFail>
+  <Rpt_Chron_Insult>Nous avons publiquement insulté {0}.</Rpt_Chron_Insult>
+  <Rpt_Chron_Reparation>Nous avons versé des réparations à {0}.</Rpt_Chron_Reparation>
+  <Rpt_Chron_EmbargoOn>Nous avons imposé un embargo à {0}.</Rpt_Chron_EmbargoOn>
+  <Rpt_Chron_EmbargoOff>Nous avons levé l'embargo sur {0}.</Rpt_Chron_EmbargoOff>
+  <Rpt_Chron_UltimatumOk>{0} a accepté notre ultimatum.</Rpt_Chron_UltimatumOk>
+  <Rpt_Chron_UltimatumRefused>{0} a refusé notre ultimatum.</Rpt_Chron_UltimatumRefused>
+  <Rpt_Chron_Guarantee>Nous avons garanti l'indépendance de {0}.</Rpt_Chron_Guarantee>
+  <Rpt_Chron_GuaranteeEnd>Nous avons retiré notre garantie d'indépendance à {0}.</Rpt_Chron_GuaranteeEnd>
+  <Rpt_Chron_GuaranteeBetray>Notre acte hostile a trahi la garantie accordée à {0}.</Rpt_Chron_GuaranteeBetray>
+  <Rpt_Chron_Aid>Nous avons fixé l'aide régulière à {0} au niveau {2}.</Rpt_Chron_Aid>
+  <Rpt_Chron_ImperialDemandOk>Nous avons satisfait l'exigence de tribut supplémentaire de {0}.</Rpt_Chron_ImperialDemandOk>
+  <Rpt_Chron_ImperialDemandRefused>Nous avons refusé l'exigence de tribut supplémentaire de {0}.</Rpt_Chron_ImperialDemandRefused>
+  <Rpt_Chron_WarBacked>Nous avons soutenu {0} dans sa guerre contre {1}.</Rpt_Chron_WarBacked>
+  <Rpt_Chron_Hegemon>{0} a accédé à l'hégémonie.</Rpt_Chron_Hegemon>
+  <Rpt_Chron_HegemonEnd>L'hégémonie de {0} s'est effondrée.</Rpt_Chron_HegemonEnd>
+  <Rpt_Chron_PlayerHunted>Notre colonie est devenue la cible d'une traque. (Seuil de notoriété dépassé)</Rpt_Chron_PlayerHunted>
+  <Rpt_Chron_PlayerHuntEnd>La traque contre notre colonie a pris fin.</Rpt_Chron_PlayerHuntEnd>
+  <Rpt_Chron_CoalitionFormed>Une coalition s'est formée contre {0}. ({2} factions)</Rpt_Chron_CoalitionFormed>
+  <Rpt_Chron_CoalitionDisband>La coalition contre {0} s'est dissoute.</Rpt_Chron_CoalitionDisband>
+  <Rpt_Chron_DefendWon>Nous avons défendu avec succès {2} pour {0}.</Rpt_Chron_DefendWon>
+  <Rpt_Chron_DefendLost>Nous avons échoué à défendre {2} pour {0}.</Rpt_Chron_DefendLost>
+  <Rpt_Chron_DefenseCallOk>Nous avons répondu à l'appel à l'aide de {0} avec {2} unités d'argent.</Rpt_Chron_DefenseCallOk>
+  <Rpt_Chron_DefenseCallRefused>Nous avons refusé l'appel à l'aide de {0}.</Rpt_Chron_DefenseCallRefused>
+  <Rpt_Chron_TributeRevolt>Notre tributaire {0} s'est révolté.</Rpt_Chron_TributeRevolt>
+  <Rpt_Chron_VisitArrive>L'invité d'État {2}, de {0}, est arrivé.</Rpt_Chron_VisitArrive>
+  <Rpt_Chron_VisitEnd>L'invité d'État {2}, de {0}, a achevé sa visite.</Rpt_Chron_VisitEnd>
+  <Rpt_Chron_VisitDeath>L'invité d'État {2}, de {0}, est décédé pendant son séjour.</Rpt_Chron_VisitDeath>
+  <Rpt_Chron_RoadDone>Une route a été achevée. ({2})</Rpt_Chron_RoadDone>
+  <Rpt_Chron_OrderDone>Notre commande auprès de {0} a été livrée. ({2})</Rpt_Chron_OrderDone>
+  <Rpt_Chron_OrderCanceled>Notre commande auprès de {0} a été annulée en raison des hostilités. ({2})</Rpt_Chron_OrderCanceled>
+  <Rpt_Chron_RouteMishap>La route commerciale vers {2} a perdu les revenus de ce trimestre à cause de la guerre. ({0})</Rpt_Chron_RouteMishap>
+  <Rpt_Chron_RouteToll>Un péage a été exigé sur la route commerciale vers {2}. ({0})</Rpt_Chron_RouteToll>
+  <Rpt_Chron_RouteBoom>La route commerciale vers {2} a connu un essor. ({0})</Rpt_Chron_RouteBoom>
+  <Rpt_Chron_RouteDisrupt>La route commerciale vers {2} a été perturbée — aucun revenu ce trimestre. ({0})</Rpt_Chron_RouteDisrupt>
+  <Rpt_Chron_Bureau>Notre bureau de renseignement a atteint le niveau {2}.</Rpt_Chron_Bureau>
+  <Rpt_Chron_SpyTrained>Nous avons formé l'espion {2}.</Rpt_Chron_SpyTrained>
+  <Rpt_Chron_TechStealOk>Nous avons volé des recherches à {0}. ({2})</Rpt_Chron_TechStealOk>
+  <Rpt_Chron_InciteOk>Notre opération d'incitation au sein de {0} a réussi.</Rpt_Chron_InciteOk>
+</LanguageData>

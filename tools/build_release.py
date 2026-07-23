@@ -26,8 +26,8 @@ def manifest() -> list[Path]:
 
 
 def validate(files: list[Path]) -> None:
-    if len(files) != 18:
-        raise ValueError(f"Expected 18 files, found {len(files)}")
+    if len(files) != 19:
+        raise ValueError(f"Expected 19 files, found {len(files)}")
     for path in files:
         if path.is_symlink() or not path.is_file() or ROOT not in path.resolve().parents:
             raise ValueError(f"Unsafe package path: {path}")

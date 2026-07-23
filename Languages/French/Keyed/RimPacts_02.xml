@@ -193,7 +193,6 @@ Aucune dot n'est requise — un tributaire envoie l'un des siens.</Rpt_Marry_InC
   <Rpt_LetterBuildingDone>« {0} » (niv.{1}) est terminé. Ses effets sont désormais actifs.</Rpt_LetterBuildingDone>
   <Rpt_Bld_NeedResearch>Nécessite la recherche « {0} »</Rpt_Bld_NeedResearch>
   <Rpt_Bld_GravSuppressed>* Lorsqu'il est amarré à une colonie, les bâtiments de celle-ci sont prioritaires — les bonus du vaisseau sont inactifs.</Rpt_Bld_GravSuppressed>
-  <Rpt_MsgEmpireFavor>{0} a reçu {1} points d'honneur pour le tribut versé à l'Empire.</Rpt_MsgEmpireFavor>
   <Rpt_Set_TributaryStart>Commencer comme tributaire de l'Empire</Rpt_Set_TributaryStart>
   <Rpt_Set_TributaryStartTip>Dans les nouvelles parties, votre colonie commence comme tributaire de l'Empire. Payez de l'argent chaque trimestre, ou gagnez en puissance et brisez vos chaînes lors d'une guerre d'indépendance. N'affecte pas les parties en cours.</Rpt_Set_TributaryStartTip>
   <Rpt_Set_SectionGeneral>Général</Rpt_Set_SectionGeneral>
@@ -224,7 +223,7 @@ Aucune dot n'est requise — un tributaire envoie l'un des siens.</Rpt_Marry_InC
   <Rpt_Act_ResignConfirm>S'agenouiller à nouveau devant {0}.\n\nLa guerre d'indépendance prend fin et le pacte tributaire est rétabli. Des rumeurs humiliantes se répandent dans toute la bordure.</Rpt_Act_ResignConfirm>
   <Rpt_MsgResigned>Nous nous sommes soumis à {0}. Le pacte tributaire est rétabli.</Rpt_MsgResigned>
   <Rpt_LetterImperialDemandLabel>Exigence impériale</Rpt_LetterImperialDemandLabel>
-  <Rpt_LetterImperialDemand>{0} exige un tribut exceptionnel de {1} unités d'argent. Payez et vous recevrez de l'honneur ; refusez et l'humeur du suzerain se détériorera.</Rpt_LetterImperialDemand>
+  <Rpt_LetterImperialDemand>{0} exige un tribut exceptionnel de {1} unités d'argent. Payez pour apaiser votre suzerain ; refusez et son humeur se détériorera.</Rpt_LetterImperialDemand>
   <Rpt_ImperialDemand_Accept>Payer {0} unités d'argent</Rpt_ImperialDemand_Accept>
   <Rpt_ImperialDemand_Refuse>Refuser</Rpt_ImperialDemand_Refuse>
   <Rpt_Act_JointWar>Proposer une guerre conjointe… ({0} unités d'argent)</Rpt_Act_JointWar>
