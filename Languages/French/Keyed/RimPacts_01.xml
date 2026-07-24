@@ -262,6 +262,7 @@
   <Rpt_LetterIndependence>{0} a fait sécession de {1} et déclaré son indépendance. Cette faction se souvient de votre soutien.</Rpt_LetterIndependence>
   <Rpt_Act_Coalition>Former une coalition ({0} unités d'argent)</Rpt_Act_Coalition>
   <Rpt_MsgCoalitionFormed>Une coalition contre {0} s'est formée : {1}</Rpt_MsgCoalitionFormed>
+  <Rpt_MsgCoalitionDeclareWar>{0} a déclaré la guerre à {1}.</Rpt_MsgCoalitionDeclareWar>
   <Rpt_MsgCoalitionNone>Aucune faction n'a répondu à l'appel à la coalition.</Rpt_MsgCoalitionNone>
   <Rpt_UI_CoalitionActive>Coalition active — {0} factions font front commun.</Rpt_UI_CoalitionActive>
   <Rpt_LetterCoalitionDisbandLabel>Coalition dissoute</Rpt_LetterCoalitionDisbandLabel>
