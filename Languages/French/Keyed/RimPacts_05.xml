@@ -133,4 +133,8 @@
   <Rpt_Chron_SpyTrained>Nous avons formé l'espion {2}.</Rpt_Chron_SpyTrained>
   <Rpt_Chron_TechStealOk>Nous avons volé des recherches à {0}. ({2})</Rpt_Chron_TechStealOk>
   <Rpt_Chron_InciteOk>Notre opération d'incitation au sein de {0} a réussi.</Rpt_Chron_InciteOk>
+  <Rpt_Set_EcoRecover>Chance de reprise économique : {0}%</Rpt_Set_EcoRecover>
+  <Rpt_Set_EcoRecoverTip>Chance de base, chaque trimestre, qu'une période d'essor ou de récession revienne à une économie stable. Plus une même phase dure longtemps, plus cette chance augmente, afin d'éviter de rester indéfiniment bloqué dans une phase.</Rpt_Set_EcoRecoverTip>
+  <Rpt_Eco_RecoverLine>Chance de revenir à une économie stable ce trimestre : {0}%. Plus une même phase dure longtemps, plus cette chance augmente.</Rpt_Eco_RecoverLine>
+  <Rpt_UI_EcoLineStreak>Économie mondiale : {0} (trimestre {1})</Rpt_UI_EcoLineStreak>
 </LanguageData>
