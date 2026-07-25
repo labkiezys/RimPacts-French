@@ -199,6 +199,11 @@ Aucune dot n'est requise — un tributaire envoie l'un des siens.</Rpt_Marry_InC
   <Rpt_Set_SectionEconomy>Économie et commerce</Rpt_Set_SectionEconomy>
   <Rpt_Set_SectionWar>Guerre et aide</Rpt_Set_SectionWar>
   <Rpt_Set_SectionToggles>Activation des fonctionnalités</Rpt_Set_SectionToggles>
+  <Rpt_Set_SectionSpy>Espionnage et contre-espionnage</Rpt_Set_SectionSpy>
+  <Rpt_Set_EnemySpyDetect>Détection des espions ennemis x{0}</Rpt_Set_EnemySpyDetect>
+  <Rpt_Set_EnemySpyDetectTip>Multiplicateur appliqué à la chance quotidienne que votre contre-espionnage démasque un espion ennemi infiltré dans votre colonie. Augmentez-le pour le capturer avant qu'il ne dérobe vos travaux de recherche ou ne sabote votre réseau électrique.</Rpt_Set_EnemySpyDetectTip>
+  <Rpt_Set_EnemySpyNoBureau>Contre-espionnage sans bureau</Rpt_Set_EnemySpyNoBureau>
+  <Rpt_Set_EnemySpyNoBureauTip>Lorsque cette option est activée, un réseau de contre-espionnage minimal fonctionne même si vous n'avez pas fondé de bureau du renseignement, de sorte que les espions ennemis peuvent tout de même être capturés. Lorsqu'elle est désactivée, vous n'avez aucune défense contre les espions ennemis tant que le bureau n'est pas construit.</Rpt_Set_EnemySpyNoBureauTip>
   <Rpt_Set_Reset>Rétablir les valeurs par défaut</Rpt_Set_Reset>
   <Rpt_Set_ResetConfirm>Cela réinitialisera tous les paramètres à leurs valeurs par défaut, y compris les titres personnalisés de la cour. Continuer ?</Rpt_Set_ResetConfirm>
   <Rpt_Set_TraderSilverPerLevel>Bonus d'argent des marchands par niveau de compagnie : {0}</Rpt_Set_TraderSilverPerLevel>
