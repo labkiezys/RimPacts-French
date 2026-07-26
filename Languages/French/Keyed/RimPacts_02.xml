@@ -193,6 +193,17 @@ Aucune dot n'est requise — un tributaire envoie l'un des siens.</Rpt_Marry_InC
   <Rpt_LetterBuildingDone>« {0} » (niv.{1}) est terminé. Ses effets sont désormais actifs.</Rpt_LetterBuildingDone>
   <Rpt_Bld_NeedResearch>Nécessite la recherche « {0} »</Rpt_Bld_NeedResearch>
   <Rpt_Bld_GravSuppressed>* Lorsqu'il est amarré à une colonie, les bâtiments de celle-ci sont prioritaires — les bonus du vaisseau sont inactifs.</Rpt_Bld_GravSuppressed>
+  <Rpt_Bld_EffectHeader>Effets</Rpt_Bld_EffectHeader>
+  <Rpt_Bld_EffectLine>Niv.{0}  {1}</Rpt_Bld_EffectLine>
+  <Rpt_Bld_EffectActive>(actif)</Rpt_Bld_EffectActive>
+  <Rpt_Bld_EffectNotBuilt>* Pas encore construit.</Rpt_Bld_EffectNotBuilt>
+  <Rpt_BldEff_Mood>Humeur {0}</Rpt_BldEff_Mood>
+  <Rpt_BldEff_TradePrice>Prix commerciaux {0} en votre faveur</Rpt_BldEff_TradePrice>
+  <Rpt_BldEff_Envoy>Bonne volonté des émissaires et cadeaux {0}</Rpt_BldEff_Envoy>
+  <Rpt_BldEff_CaravanSpeed>Vitesse de déplacement des caravanes {0}</Rpt_BldEff_CaravanSpeed>
+  <Rpt_BldEff_Fuel>Consommation de carburant au lancement {0}</Rpt_BldEff_Fuel>
+  <Rpt_BldEff_Landing>Risque d'atterrissage brutal {0}</Rpt_BldEff_Landing>
+  <Rpt_BldEff_RaidSize>Taille des raids sur cette carte {0}</Rpt_BldEff_RaidSize>
   <Rpt_Set_TributaryStart>Commencer comme tributaire de l'Empire</Rpt_Set_TributaryStart>
   <Rpt_Set_TributaryStartTip>Dans les nouvelles parties, votre colonie commence comme tributaire de l'Empire. Payez de l'argent chaque trimestre, ou gagnez en puissance et brisez vos chaînes lors d'une guerre d'indépendance. N'affecte pas les parties en cours.</Rpt_Set_TributaryStartTip>
   <Rpt_Set_SectionGeneral>Général</Rpt_Set_SectionGeneral>
