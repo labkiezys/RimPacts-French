@@ -17,6 +17,8 @@
   <Rpt_Set_MarketPricesTip>Les prix varient selon la catégorie de marchandises, le niveau technologique et le caractère de chaque faction.</Rpt_Set_MarketPricesTip>
   <Rpt_Set_RouteRisk>Taux d'accident des routes commerciales : {0}</Rpt_Set_RouteRisk>
   <Rpt_Set_RouteRiskTip>Ajuste la fréquence à laquelle les routes commerciales avec des factions en guerre perdent leurs revenus trimestriels.</Rpt_Set_RouteRiskTip>
+  <Rpt_Set_RoadMaxTiles>Distance maximale des commandes de route : {0} tuiles</Rpt_Set_RoadMaxTiles>
+  <Rpt_Set_RoadMaxTilesTip>Distance maximale à laquelle une colonie peut se trouver pour commander une route depuis l'onglet Commerce. L'augmenter permet d'atteindre des colonies lointaines, mais le coût et la durée de construction augmentent en conséquence.</Rpt_Set_RoadMaxTilesTip>
   <Rpt_Set_VteDetected>Vanilla Trading Expanded détecté — les prix des marchés de faction sont automatiquement désactivés afin d'éviter tout conflit entre les systèmes de prix.</Rpt_Set_VteDetected>
   <Rpt_CantSign_Empire>L'Empire ne signe pas ce type de traité.</Rpt_CantSign_Empire>
   <Rpt_CantSign_AlreadyActive>Ce traité est déjà en vigueur.</Rpt_CantSign_AlreadyActive>
