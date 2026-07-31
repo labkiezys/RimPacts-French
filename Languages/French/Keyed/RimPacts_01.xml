@@ -214,6 +214,14 @@
   <Rpt_LetterAidLapsedLabel>Aide non versée : {0}</Rpt_LetterAidLapsedLabel>
   <Rpt_LetterAidLapsed>Vous n'avez pas pu financer l'aide promise à {0}. Cette faction est déçue.</Rpt_LetterAidLapsed>
   <Rpt_TrustReason_Aid>Aide régulière</Rpt_TrustReason_Aid>
+  <Rpt_LetterAidLabel>Aide d'un allié — {0}</Rpt_LetterAidLabel>
+  <Rpt_LetterAid4>{0} a appris que notre colonie était frappée par la peste et a envoyé des secours.\n\n{1}</Rpt_LetterAid4>
+  <Rpt_LetterAid6>{0} a appris l'effondrement économique de notre colonie et a envoyé des secours.\n\n{1}</Rpt_LetterAid6>
+  <Rpt_LetterAid7>{0} a orienté son contrôle météorologique vers notre ciel. {2} catastrophe(s) prendront fin {1} jours plus tôt.</Rpt_LetterAid7>
+  <Rpt_LetterAidLodger>Le soignant {0} est arrivé avec l'envoi — Médecine {2}+, il restera avec nous {1} jours.</Rpt_LetterAidLodger>
+  <Rpt_MsgAidLodgerLeave>Le travailleur humanitaire {0} a terminé son séjour et rentre chez lui.</Rpt_MsgAidLodgerLeave>
+  <Rpt_AidQuestName>Travailleur humanitaire {0}</Rpt_AidQuestName>
+  <Rpt_AidQuestDesc>{0}, travailleur humanitaire envoyé par {1}. Il travaillera dans notre colonie pendant {2} jours.</Rpt_AidQuestDesc>
   <Rpt_LetterReliefLabel>Catastrophe : {0}</Rpt_LetterReliefLabel>
   <Rpt_LetterRelief>{0} a été dévastée par {1}. L'envoi de secours marquerait durablement les esprits.</Rpt_LetterRelief>
   <Rpt_Disaster_0>la famine</Rpt_Disaster_0>

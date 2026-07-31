@@ -104,7 +104,7 @@
   <Rpt_Chron_Guarantee>Nous avons garanti l'indépendance de {0}.</Rpt_Chron_Guarantee>
   <Rpt_Chron_GuaranteeEnd>Nous avons retiré notre garantie d'indépendance à {0}.</Rpt_Chron_GuaranteeEnd>
   <Rpt_Chron_GuaranteeBetray>Notre acte hostile a trahi la garantie accordée à {0}.</Rpt_Chron_GuaranteeBetray>
-  <Rpt_Chron_Aid>Nous avons fixé l'aide régulière à {0} au niveau {2}.</Rpt_Chron_Aid>
+  <Rpt_Chron_Aid>{0} a envoyé des secours. ({2})</Rpt_Chron_Aid>
   <Rpt_Chron_ImperialDemandOk>Nous avons satisfait l'exigence de tribut supplémentaire de {0}.</Rpt_Chron_ImperialDemandOk>
   <Rpt_Chron_ImperialDemandRefused>Nous avons refusé l'exigence de tribut supplémentaire de {0}.</Rpt_Chron_ImperialDemandRefused>
   <Rpt_Chron_WarBacked>Nous avons soutenu {0} dans sa guerre contre {1}.</Rpt_Chron_WarBacked>
