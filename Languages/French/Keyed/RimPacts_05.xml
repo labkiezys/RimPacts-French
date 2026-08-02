@@ -104,7 +104,7 @@
   <Rpt_Chron_Guarantee>Nous avons garanti l'indépendance de {0}.</Rpt_Chron_Guarantee>
   <Rpt_Chron_GuaranteeEnd>Nous avons retiré notre garantie d'indépendance à {0}.</Rpt_Chron_GuaranteeEnd>
   <Rpt_Chron_GuaranteeBetray>Notre acte hostile a trahi la garantie accordée à {0}.</Rpt_Chron_GuaranteeBetray>
-  <Rpt_Chron_Aid>{0} a envoyé des secours. ({2})</Rpt_Chron_Aid>
+  <Rpt_Chron_Aid>Nous avons défini l’aide régulière à {0} au niveau {2}.</Rpt_Chron_Aid>
   <Rpt_Chron_ImperialDemandOk>Nous avons satisfait l'exigence de tribut supplémentaire de {0}.</Rpt_Chron_ImperialDemandOk>
   <Rpt_Chron_ImperialDemandRefused>Nous avons refusé l'exigence de tribut supplémentaire de {0}.</Rpt_Chron_ImperialDemandRefused>
   <Rpt_Chron_WarBacked>Nous avons soutenu {0} dans sa guerre contre {1}.</Rpt_Chron_WarBacked>
@@ -137,4 +137,293 @@
   <Rpt_Set_EcoRecoverTip>Chance de base, chaque trimestre, qu'une période d'essor ou de récession revienne à une économie stable. Plus une même phase dure longtemps, plus cette chance augmente, afin d'éviter de rester indéfiniment bloqué dans une phase.</Rpt_Set_EcoRecoverTip>
   <Rpt_Eco_RecoverLine>Chance de revenir à une économie stable ce trimestre : {0}%. Plus une même phase dure longtemps, plus cette chance augmente.</Rpt_Eco_RecoverLine>
   <Rpt_UI_EcoLineStreak>Économie mondiale : {0} (trimestre {1})</Rpt_UI_EcoLineStreak>
+  <!-- RimPacts 2026-08 doctrine / tributary update -->
+  <Rpt_Act_Charter>Accorder une charte commerciale</Rpt_Act_Charter>
+  <Rpt_Act_CharterOff>Révoquer la charte commerciale</Rpt_Act_CharterOff>
+  <Rpt_Act_NeutralityOff>Mettre fin à la neutralité</Rpt_Act_NeutralityOff>
+  <Rpt_Act_NeutralityOn>Déclarer la neutralité</Rpt_Act_NeutralityOn>
+  <Rpt_Act_PeaceGuard>Garantir la paix…</Rpt_Act_PeaceGuard>
+  <Rpt_Act_PeaceGuardActive>Paix garantie — {0} j restants</Rpt_Act_PeaceGuardActive>
+  <Rpt_Act_PeaceGuardConfirm>Garantir la paix entre {0} et {1} pendant {2} jours.
+
+Coût : {3} unités d’argent. La confiance avec les deux factions augmente chaque trimestre tant que la paix tient, mais la confiance gagnée ainsi auprès d’une même faction est plafonnée.</Rpt_Act_PeaceGuardConfirm>
+  <Rpt_Act_PeaceGuardNoPair>Aucune paire disponible</Rpt_Act_PeaceGuardNoPair>
+  <Rpt_Act_PeaceGuardPairCooldown>récemment garantie</Rpt_Act_PeaceGuardPairCooldown>
+  <Rpt_Act_ShowOfForce>Démonstration de force</Rpt_Act_ShowOfForce>
+  <Rpt_Act_ShowOfForceConfirm>Organiser une démonstration de force à la frontière de {0}.
+
+Cela accroît la pression de soumission sans combattre, mais la bienveillance baisse de {1}.
+Coût : {2} unités d’argent.</Rpt_Act_ShowOfForceConfirm>
+  <Rpt_Bld_DoctrineLocked>Niveau {0} construit — votre doctrine actuelle ne débloque pas ce niveau, son effet est donc suspendu. Le bâtiment reste en place ; revenez à cette doctrine et il fonctionnera de nouveau.</Rpt_Bld_DoctrineLocked>
+  <Rpt_Bld_Locked>effet verrouillé</Rpt_Bld_Locked>
+  <Rpt_Chron_DoctrineNode>Nœud de doctrine « {2} » débloqué.</Rpt_Chron_DoctrineNode>
+  <Rpt_Chron_DoctrineSet>Nous avons adopté la doctrine « {2} ».</Rpt_Chron_DoctrineSet>
+  <Rpt_Chron_FriendlyAid>{0} a envoyé des secours. ({2})</Rpt_Chron_FriendlyAid>
+  <Rpt_Chron_GovernorAppointed>Nous avons nommé le gouverneur {2}.</Rpt_Chron_GovernorAppointed>
+  <Rpt_Chron_GovernorDead>Le gouverneur {2}, affecté à {0}, est mort.</Rpt_Chron_GovernorDead>
+  <Rpt_Chron_NeutralityOff>Nous avons retiré notre neutralité.</Rpt_Chron_NeutralityOff>
+  <Rpt_Chron_NeutralityOn>Nous avons déclaré notre neutralité.</Rpt_Chron_NeutralityOn>
+  <Rpt_Chron_PeaceGuard>Nous avons garanti la paix entre {0} et {1}.</Rpt_Chron_PeaceGuard>
+  <Rpt_Chron_ShowOfForce>Nous avons organisé une démonstration de force à la frontière de {0}.</Rpt_Chron_ShowOfForce>
+  <Rpt_Chron_TradeCharter>Nous avons accordé une charte commerciale à {0}.</Rpt_Chron_TradeCharter>
+  <Rpt_Chron_TributeEvent>Un incident à {0}. ({2})</Rpt_Chron_TributeEvent>
+  <Rpt_Chron_TributeExtraNo>{0} a refusé notre exigence de tribut supplémentaire.</Rpt_Chron_TributeExtraNo>
+  <Rpt_Chron_TributeExtraOk>Nous avons arraché un tribut supplémentaire à {0}. ({2})</Rpt_Chron_TributeExtraOk>
+  <Rpt_Chron_TributeGift>Nous avons envoyé un cadeau à {0}.</Rpt_Chron_TributeGift>
+  <Rpt_Doctrine0_Name>Aucune</Rpt_Doctrine0_Name>
+  <Rpt_Doctrine1_Gain>· Un traité arrive à son terme sans être rompu +{0}
+· Neutralité déclarée : refus automatique d’un appel à la guerre ou d’une invitation à une coalition +{0}
+· Chaque trimestre avec 2 traités ou moins +{1}</Rpt_Doctrine1_Gain>
+  <Rpt_Doctrine1_Name>Isolationnisme</Rpt_Doctrine1_Name>
+  <Rpt_Doctrine1_Node1>Autosuffisance</Rpt_Doctrine1_Node1>
+  <Rpt_Doctrine1_Node2>Construire nous-mêmes</Rpt_Doctrine1_Node2>
+  <Rpt_Doctrine1_Node3>Non-interventionnisme</Rpt_Doctrine1_Node3>
+  <Rpt_Doctrine1_Node4>Retrait du monde</Rpt_Doctrine1_Node4>
+  <Rpt_Doctrine1_Node5>Paix de l’ermite</Rpt_Doctrine1_Node5>
+  <Rpt_Doctrine1_NodeTip1>Décroissance de notoriété x1,5 par trimestre — seuil de traque de 80 à 90</Rpt_Doctrine1_NodeTip1>
+  <Rpt_Doctrine1_NodeTip2>Coût des bâtiments x0,85 — temps de construction x0,8</Rpt_Doctrine1_NodeTip2>
+  <Rpt_Doctrine1_NodeTip3>Débloque « Déclarer la neutralité » — les demandes de guerre et invitations à une coalition sont refusées automatiquement sans pénalité</Rpt_Doctrine1_NodeTip3>
+  <Rpt_Doctrine1_NodeTip4>Les épreuves d’événements mondiaux touchant notre colonie durent 2 jours de moins — minimum 1</Rpt_Doctrine1_NodeTip4>
+  <Rpt_Doctrine1_NodeTip5>Faim des colons x0,95 — guérison des blessures x1,1</Rpt_Doctrine1_NodeTip5>
+  <Rpt_Doctrine1_Rule>Interdit : pactes de défense, appartenance à une coalition
+Violation : lancer une guerre conjointe = -20 progression
+Coût : caravanes, routes et foires pénalisées</Rpt_Doctrine1_Rule>
+  <Rpt_Doctrine2_Gain>· Ouverture d’une route commerciale +{0}
+· Revenus trimestriels des routes commerciales +{1}</Rpt_Doctrine2_Gain>
+  <Rpt_Doctrine2_Name>Mercantilisme</Rpt_Doctrine2_Name>
+  <Rpt_Doctrine2_Node1>Attraction des caravanes</Rpt_Doctrine2_Node1>
+  <Rpt_Doctrine2_Node2>Sens du marché</Rpt_Doctrine2_Node2>
+  <Rpt_Doctrine2_Node3>Logistique</Rpt_Doctrine2_Node3>
+  <Rpt_Doctrine2_Node4>Charte commerciale</Rpt_Doctrine2_Node4>
+  <Rpt_Doctrine2_Node5>Suprématie commerciale</Rpt_Doctrine2_Node5>
+  <Rpt_Doctrine2_NodeTip1>Fréquence des caravanes supplémentaires x1,15</Rpt_Doctrine2_NodeTip1>
+  <Rpt_Doctrine2_NodeTip2>Prix d’achat du marché -3%</Rpt_Doctrine2_NodeTip2>
+  <Rpt_Doctrine2_NodeTip3>Revenus des routes commerciales x1,15 — taux d’accident de route x0,8</Rpt_Doctrine2_NodeTip3>
+  <Rpt_Doctrine2_NodeTip4>Débloque « Charte commerciale » — une faction choisie : fréquence des caravanes x1,25, prix d’achat -4% (au lieu du nœud 2) — 30 jours pour la déplacer</Rpt_Doctrine2_NodeTip4>
+  <Rpt_Doctrine2_NodeTip5>Argent des marchands x1,25 — marché et antenne commerciale niv. 4 débloqués</Rpt_Doctrine2_NodeTip5>
+  <Rpt_Doctrine2_Rule>Interdit : embargos, prise de tributaires
+Violation : guerre conjointe ou soutien à l’indépendance = -15 progression
+Coût : traités plus chers, pas d’accumulation de confiance, la richesse attire de plus gros raids</Rpt_Doctrine2_Rule>
+  <Rpt_Doctrine3_Gain>· Signature d’un serment de tribut +{0}
+· Démonstration de force +{1}
+· Réception d’un tribut +{2}</Rpt_Doctrine3_Gain>
+  <Rpt_Doctrine3_Name>Hégémonie</Rpt_Doctrine3_Name>
+  <Rpt_Doctrine3_Node1>Fiscalité tributaire</Rpt_Doctrine3_Node1>
+  <Rpt_Doctrine3_Node2>Pression de soumission</Rpt_Doctrine3_Node2>
+  <Rpt_Doctrine3_Node3>Démonstration de force</Rpt_Doctrine3_Node3>
+  <Rpt_Doctrine3_Node4>Pression intimidante</Rpt_Doctrine3_Node4>
+  <Rpt_Doctrine3_Node5>Exercice militaire</Rpt_Doctrine3_Node5>
+  <Rpt_Doctrine3_NodeTip1>Revenus de tribut x1,2 par trimestre — tous les tributaires gagnent +15 stabilité de subjugation</Rpt_Doctrine3_NodeTip1>
+  <Rpt_Doctrine3_NodeTip2>Ratio requis pour exiger un tribut x0,85</Rpt_Doctrine3_NodeTip2>
+  <Rpt_Doctrine3_NodeTip3>Débloque « Démonstration de force » — +5 soumission pendant 15 jours, -8 bienveillance, 2 000 unités d’argent, 60 j par faction / 30 j global</Rpt_Doctrine3_NodeTip3>
+  <Rpt_Doctrine3_NodeTip4>Ratio d’acceptation des ultimatums de 1,5 à 1,35</Rpt_Doctrine3_NodeTip4>
+  <Rpt_Doctrine3_NodeTip5>Seuil de rupture mentale des colons -0,03 — durée d’étourdissement x0,85 — caserne niv. 4 débloquée</Rpt_Doctrine3_NodeTip5>
+  <Rpt_Doctrine3_Rule>Interdit : pactes de non-agression, pactes de défense — sauf ennemis permanents
+Violation : libérer un tributaire, payer des réparations = -10 progression
+Coût : la notoriété persiste, la confiance baisse, les sommets sont pénalisés</Rpt_Doctrine3_Rule>
+  <Rpt_Doctrine4_Gain>· Un sommet se conclut +{0}
+· Une médiation réussit +{1}
+· Maintien d’une garantie de paix, par trimestre +{2}
+· Chaque trimestre où une guerre PNJ continue sans que vous preniez parti +{2}</Rpt_Doctrine4_Gain>
+  <Rpt_Doctrine4_Name>Médiation</Rpt_Doctrine4_Name>
+  <Rpt_Doctrine4_Node1>Prestige diplomatique</Rpt_Doctrine4_Node1>
+  <Rpt_Doctrine4_Node2>Hôte de sommet</Rpt_Doctrine4_Node2>
+  <Rpt_Doctrine4_Node3>Garantie de paix</Rpt_Doctrine4_Node3>
+  <Rpt_Doctrine4_Node4>Main impartiale</Rpt_Doctrine4_Node4>
+  <Rpt_Doctrine4_Node5>Arbitre des nations</Rpt_Doctrine4_Node5>
+  <Rpt_Doctrine4_NodeTip1>Confiance d’entretien des traités +1 par trimestre</Rpt_Doctrine4_NodeTip1>
+  <Rpt_Doctrine4_NodeTip2>Acceptation des sommets et foires +10%p</Rpt_Doctrine4_NodeTip2>
+  <Rpt_Doctrine4_NodeTip3>Débloque « Garantir la paix » — deux factions choisies : chances de guerre x0,3 pendant 60 jours, +2 confiance chacune par trimestre (jusqu’à +10 chacune), 1 500 unités d’argent</Rpt_Doctrine4_NodeTip3>
+  <Rpt_Doctrine4_NodeTip4>Coût de médiation de 1 500 à 0</Rpt_Doctrine4_NodeTip4>
+  <Rpt_Doctrine4_NodeTip5>Impact social des colons x1,1 — chances de bagarre sociale x0,8 — salle d’assemblée niv. 4 débloquée</Rpt_Doctrine4_NodeTip5>
+  <Rpt_Doctrine4_Rule>Interdit : lancer une guerre conjointe
+Violation : prendre parti dans une guerre PNJ = -15 progression
+Coût : plus difficile d’exiger un tribut, aucun avantage de combat</Rpt_Doctrine4_Rule>
+  <Rpt_Doctrine_BlockCoalition>Les isolationnistes ne rejoignent pas les coalitions</Rpt_Doctrine_BlockCoalition>
+  <Rpt_Doctrine_BlockCovert>Les médiateurs ne mènent pas d’opérations clandestines qui déstabilisent l’échiquier</Rpt_Doctrine_BlockCovert>
+  <Rpt_Doctrine_BlockDefense>Les isolationnistes ne signent pas de pactes de défense</Rpt_Doctrine_BlockDefense>
+  <Rpt_Doctrine_BlockDefenseHeg>Un hégémon ne signe pas de pactes de défense</Rpt_Doctrine_BlockDefenseHeg>
+  <Rpt_Doctrine_BlockEmbargo>Les mercantilistes ne coupent pas le commerce</Rpt_Doctrine_BlockEmbargo>
+  <Rpt_Doctrine_BlockJointWar>Les médiateurs ne déclenchent pas de guerres</Rpt_Doctrine_BlockJointWar>
+  <Rpt_Doctrine_BlockMeddle>Les isolationnistes ne se mêlent pas des affaires d’autrui</Rpt_Doctrine_BlockMeddle>
+  <Rpt_Doctrine_BlockNonAgg>Un hégémon ne quémande pas de non-agression</Rpt_Doctrine_BlockNonAgg>
+  <Rpt_Doctrine_BlockSurrender>Un hégémon ne se rend pas</Rpt_Doctrine_BlockSurrender>
+  <Rpt_Doctrine_BlockTribute>Les mercantilistes ne gardent pas de tributaires</Rpt_Doctrine_BlockTribute>
+  <Rpt_Doctrine_BlockTributePay>Un hégémon ne paie tribut à personne</Rpt_Doctrine_BlockTributePay>
+  <Rpt_Gov_AlreadyPosted>Un gouverneur est déjà affecté là-bas</Rpt_Gov_AlreadyPosted>
+  <Rpt_Gov_Cooldown>Réaffectation possible dans {0} jours</Rpt_Gov_Cooldown>
+  <Rpt_Gov_NotTributary>Pas un tributaire</Rpt_Gov_NotTributary>
+  <Rpt_LaborQuestDesc>{0}, un travailleur envoyé par {1}. Il travaillera dans notre colonie pendant {2} jours.</Rpt_LaborQuestDesc>
+  <Rpt_LaborQuestName>Travailleur de tribut {0}</Rpt_LaborQuestName>
+  <Rpt_LetterAutoRenewFail>{1} — le traité « {0} » n’a pas pu être renouvelé automatiquement.\n\nRaison : {2}\n\nLe traité a expiré.</Rpt_LetterAutoRenewFail>
+  <Rpt_LetterAutoRenewFailLabel>Échec du renouvellement auto — {0}</Rpt_LetterAutoRenewFailLabel>
+  <Rpt_LetterDoctrineBody>Doctrine diplomatique définie sur « {0} ».</Rpt_LetterDoctrineBody>
+  <Rpt_LetterDoctrineBroke>Traités rompus par ce changement : {0}</Rpt_LetterDoctrineBroke>
+  <Rpt_LetterDoctrineDrop>Vous avez abandonné votre doctrine diplomatique. Tous ses modificateurs et sa discipline disparaissent.</Rpt_LetterDoctrineDrop>
+  <Rpt_LetterDoctrineDropLabel>Doctrine abandonnée</Rpt_LetterDoctrineDropLabel>
+  <Rpt_LetterDoctrineLabel>Doctrine diplomatique — {0}</Rpt_LetterDoctrineLabel>
+  <Rpt_LetterDoctrineLockBld>L’effet de plus haut niveau de {0} bâtiment(s) s’est arrêté. Les bâtiments restent en place et refonctionneront si vous revenez à cette doctrine.</Rpt_LetterDoctrineLockBld>
+  <Rpt_LetterDoctrineNode>« {0} » débloqué. Nœud {1}/5</Rpt_LetterDoctrineNode>
+  <Rpt_LetterDoctrineNodeLabel>Doctrine avancée — {0}</Rpt_LetterDoctrineNodeLabel>
+  <Rpt_LetterDoctrineNodes>Nœuds suivants — progression requise :</Rpt_LetterDoctrineNodes>
+  <Rpt_LetterExpireSoonAuto>Le renouvellement auto est activé — ce traité se prolongera de lui-même le dernier jour. (coût : {0} unités d’argent)</Rpt_LetterExpireSoonAuto>
+  <Rpt_LetterGovernorDeadGone>{1} est tombée, et le gouverneur {0} n’a plus jamais donné signe de vie.</Rpt_LetterGovernorDeadGone>
+  <Rpt_LetterGovernorDeadLabel>Gouverneur perdu — {0}</Rpt_LetterGovernorDeadLabel>
+  <Rpt_LetterGovernorDeadRevolt>Le gouverneur {0} a été tué lors de la révolte de {1}.</Rpt_LetterGovernorDeadRevolt>
+  <Rpt_MsgAutoRenewed>{1} — le traité « {0} » a été renouvelé automatiquement. ({2} unités d’argent)</Rpt_MsgAutoRenewed>
+  <Rpt_MsgDoctrineCleared>Doctrine diplomatique abandonnée.</Rpt_MsgDoctrineCleared>
+  <Rpt_MsgDoctrineInciteEnd>En vous tournant vers la médiation, vous avez annulé {0} opération(s) d’incitation. {1} unités d’argent remboursées.</Rpt_MsgDoctrineInciteEnd>
+  <Rpt_MsgDoctrineMeddleEnd>En vous tournant vers l’isolation, vous vous êtes retiré des affaires d’autrui. {0} garantie(s) révoquée(s), {1} soutien(s) à l’indépendance annulé(s), {2} sommet(s) annulé(s).</Rpt_MsgDoctrineMeddleEnd>
+  <Rpt_MsgDoctrineSet>Doctrine diplomatique définie sur « {0} ».</Rpt_MsgDoctrineSet>
+  <Rpt_MsgDoctrineViolation>Vous avez enfreint la discipline de votre doctrine. Progression -{0}.</Rpt_MsgDoctrineViolation>
+  <Rpt_MsgGovMediateFail>Le gouverneur {0} n’a pas réussi à contenir les troubles à {1}.</Rpt_MsgGovMediateFail>
+  <Rpt_MsgGovMediateOk>Le gouverneur a apaisé les troubles à {1}.</Rpt_MsgGovMediateOk>
+  <Rpt_MsgGovernorAppointed>Gouverneur {0} nommé.</Rpt_MsgGovernorAppointed>
+  <Rpt_MsgGovernorLevelUp>Le gouverneur {0} a atteint le niveau {1}.</Rpt_MsgGovernorLevelUp>
+  <Rpt_MsgGovernorPosted>Le gouverneur {0} est parti pour {1}. Il prendra ses fonctions dans {2} jours.</Rpt_MsgGovernorPosted>
+  <Rpt_MsgGovernorRecalled>Gouverneur {0} rappelé de {1}.</Rpt_MsgGovernorRecalled>
+  <Rpt_MsgNeutralityOff>Neutralité retirée.</Rpt_MsgNeutralityOff>
+  <Rpt_MsgNeutralityOn>Neutralité déclarée. Les demandes de guerre et invitations à une coalition seront refusées automatiquement.</Rpt_MsgNeutralityOn>
+  <Rpt_MsgNeutralityRefuse>Refusé : {0}, conformément à notre neutralité déclarée.</Rpt_MsgNeutralityRefuse>
+  <Rpt_MsgPeaceGuard>La paix entre {0} et {1} est garantie pendant {2} jours.</Rpt_MsgPeaceGuard>
+  <Rpt_MsgShowOfForce>Nous avons organisé une démonstration de force à la frontière de {0}.</Rpt_MsgShowOfForce>
+  <Rpt_MsgTradeCharter>Charte commerciale accordée à {0}.</Rpt_MsgTradeCharter>
+  <Rpt_MsgTribRefugees>{1} personnes ayant fui {0} nous ont rejoints.</Rpt_MsgTribRefugees>
+  <Rpt_MsgTributeExtraNo>{0} a refusé l’exigence de tribut supplémentaire.</Rpt_MsgTributeExtraNo>
+  <Rpt_MsgTributeExtraOk>{0} a payé le tribut supplémentaire. ({1} unités d’argent)</Rpt_MsgTributeExtraOk>
+  <Rpt_MsgTributeGift>Cadeau envoyé. La stabilité de subjugation de {0} a augmenté de {1}.</Rpt_MsgTributeGift>
+  <Rpt_MsgTributeGoods>Tribut arrivé de {0}. ({1}x {2})</Rpt_MsgTributeGoods>
+  <Rpt_MsgTributeLabor>Un travailleur de {0}, {1}, est arrivé. Il restera {2} jours.</Rpt_MsgTributeLabor>
+  <Rpt_MsgTributeLaborLeave>Le travailleur de tribut {0} a terminé son séjour et rentre chez lui.</Rpt_MsgTributeLaborLeave>
+  <Rpt_MsgTributeLaborLost>Nous avons perdu {1}, le travailleur envoyé par {0}.</Rpt_MsgTributeLaborLost>
+  <Rpt_Neutrality_Coalition>invitation à une coalition</Rpt_Neutrality_Coalition>
+  <Rpt_Neutrality_War>demande de guerre</Rpt_Neutrality_War>
+  <Rpt_Set_DoctrineFactor>Vitesse de progression des doctrines : x{0}</Rpt_Set_DoctrineFactor>
+  <Rpt_Set_DoctrineFactorTip>Vitesse de déblocage des nœuds. À 1,00, une doctrine se termine en environ 5 ans si elle est seulement conservée, ou 2-3 ans si vous jouez dans son sens.</Rpt_Set_DoctrineFactorTip>
+  <Rpt_Set_DoctrineSwitchDays>Verrou de changement de doctrine : {0} jours</Rpt_Set_DoctrineSwitchDays>
+  <Rpt_Set_DoctrineSwitchDaysTip>Durée d’attente entre deux changements. La progression revient tout de même à zéro à chaque changement.</Rpt_Set_DoctrineSwitchDaysTip>
+  <Rpt_TribEvent0_A>Réduire leur tribut (-25% pendant 4 trimestres)</Rpt_TribEvent0_A>
+  <Rpt_TribEvent0_B>Refuser catégoriquement</Rpt_TribEvent0_B>
+  <Rpt_TribEvent0_Label>Autonomie exigée — {0}</Rpt_TribEvent0_Label>
+  <Rpt_TribEvent0_Short>Demande d’autonomie</Rpt_TribEvent0_Short>
+  <Rpt_TribEvent0_Text>{0} demande une réduction de son tribut. Une longue indulgence les a rendus audacieux.</Rpt_TribEvent0_Text>
+  <Rpt_TribEvent1_A>Envoyer cadeaux et émissaires pour les retenir (1000 unités d’argent)</Rpt_TribEvent1_A>
+  <Rpt_TribEvent1_B>Laisser faire</Rpt_TribEvent1_B>
+  <Rpt_TribEvent1_Label>Courtisé par un rival — {0}</Rpt_TribEvent1_Label>
+  <Rpt_TribEvent1_Short>Un rival les courtise</Rpt_TribEvent1_Short>
+  <Rpt_TribEvent1_Text>La nouvelle arrive qu’une autre faction courtise {0}.</Rpt_TribEvent1_Text>
+  <Rpt_TribEvent2_A>Envoyer des émissaires pour les rappeler à l’ordre</Rpt_TribEvent2_A>
+  <Rpt_TribEvent2_B>Fermer les yeux</Rpt_TribEvent2_B>
+  <Rpt_TribEvent2_Label>Réarmement — {0}</Rpt_TribEvent2_Label>
+  <Rpt_TribEvent2_Short>Réarmement</Rpt_TribEvent2_Short>
+  <Rpt_TribEvent2_Text>{0} renforce discrètement ses forces.</Rpt_TribEvent2_Text>
+  <Rpt_TribEvent3_Label>Émissaire de remerciement — {0}</Rpt_TribEvent3_Label>
+  <Rpt_TribEvent3_Short>Un émissaire de remerciement</Rpt_TribEvent3_Short>
+  <Rpt_TribEvent3_Text>Un émissaire de {0} est venu vous remercier pour votre règne clément, apportant un tribut supplémentaire.</Rpt_TribEvent3_Text>
+  <Rpt_TribEvent4_A>Faire une démonstration de force et le prendre</Rpt_TribEvent4_A>
+  <Rpt_TribEvent4_B>Laisser passer cette fois</Rpt_TribEvent4_B>
+  <Rpt_TribEvent4_Label>Tribut refusé — {0}</Rpt_TribEvent4_Label>
+  <Rpt_TribEvent4_Short>Tribut refusé</Rpt_TribEvent4_Short>
+  <Rpt_TribEvent4_Text>{0} affirme ne pas pouvoir payer le tribut de ce trimestre.</Rpt_TribEvent4_Text>
+  <Rpt_TribEvent5_Label>Émeute — {0}</Rpt_TribEvent5_Label>
+  <Rpt_TribEvent5_Short>Émeute</Rpt_TribEvent5_Short>
+  <Rpt_TribEvent5_Text>Une émeute a éclaté à {0} contre le tribut écrasant.</Rpt_TribEvent5_Text>
+  <Rpt_TribEvent6_A>Les accueillir</Rpt_TribEvent6_A>
+  <Rpt_TribEvent6_B>Les renvoyer</Rpt_TribEvent6_B>
+  <Rpt_TribEvent6_Label>Fugitifs — {0}</Rpt_TribEvent6_Label>
+  <Rpt_TribEvent6_Short>Fugitifs</Rpt_TribEvent6_Short>
+  <Rpt_TribEvent6_Text>Des personnes fuyant {0} sont arrivées près de notre colonie.</Rpt_TribEvent6_Text>
+  <Rpt_TribEvent7_Label>Année abondante — {0}</Rpt_TribEvent7_Label>
+  <Rpt_TribEvent7_Short>Année abondante</Rpt_TribEvent7_Short>
+  <Rpt_TribEvent7_Text>{0} a connu une bonne récolte et envoyé un tribut supplémentaire.</Rpt_TribEvent7_Text>
+  <Rpt_TribEvent8_Label>Troubles frontaliers — {0}</Rpt_TribEvent8_Label>
+  <Rpt_TribEvent8_Short>Troubles frontaliers</Rpt_TribEvent8_Short>
+  <Rpt_TribEvent8_Text>Un petit accrochage a eu lieu le long de la frontière avec {0}.</Rpt_TribEvent8_Text>
+  <Rpt_TribEvent_Governor>Laisser le gouverneur {0} s’en occuper ({1})</Rpt_TribEvent_Governor>
+  <Rpt_TrustReason_DoctrineViolation>Doctrine violée</Rpt_TrustReason_DoctrineViolation>
+  <Rpt_TrustReason_PeaceGuard>Garantie de paix</Rpt_TrustReason_PeaceGuard>
+  <Rpt_UI_AutoOff>Désactivé</Rpt_UI_AutoOff>
+  <Rpt_UI_AutoOn>Activé</Rpt_UI_AutoOn>
+  <Rpt_UI_AutoRenew>Renouvellement auto</Rpt_UI_AutoRenew>
+  <Rpt_UI_AutoRenewAllOff>Tout désactiver</Rpt_UI_AutoRenewAllOff>
+  <Rpt_UI_AutoRenewAllOn>Tout activer</Rpt_UI_AutoRenewAllOn>
+  <Rpt_UI_AutoRenewNoPermit>Aucun titre royal, donc aucune caravane ne peut arriver</Rpt_UI_AutoRenewNoPermit>
+  <Rpt_UI_AutoRenewOffTip>Le renouvellement auto est désactivé — renouvelez vous-même avant expiration. (coût : {0} unités d’argent)</Rpt_UI_AutoRenewOffTip>
+  <Rpt_UI_AutoRenewOnTip>Le renouvellement auto est activé — ce traité se prolonge de lui-même le dernier jour. (coût : {0} unités d’argent)</Rpt_UI_AutoRenewOnTip>
+  <Rpt_UI_ColAuto>Renouv.</Rpt_UI_ColAuto>
+  <Rpt_UI_ColLeft>Restant</Rpt_UI_ColLeft>
+  <Rpt_UI_ColTreaty>Traité</Rpt_UI_ColTreaty>
+  <Rpt_UI_CourtEffectMarshalHeg>Taille des raids -{0}%</Rpt_UI_CourtEffectMarshalHeg>
+  <Rpt_UI_CourtEffectMarshalIso>Dégâts subis par les colons -{0}%</Rpt_UI_CourtEffectMarshalIso>
+  <Rpt_UI_CourtTipMarshalHeg>Commande l’armée. Un hégémon ne peut pas signer de pactes de défense ; le maréchal défend donc la colonie à la place — les raids contre nos colonies sont {0}% plus petits</Rpt_UI_CourtTipMarshalHeg>
+  <Rpt_UI_CourtTipMarshalIso>Commande l’armée. Les isolationnistes ne peuvent pas appeler à l’aide ; le maréchal défend donc la colonie à la place — les colons subissent {0}% de dégâts en moins (selon Tir/Mêlée)</Rpt_UI_CourtTipMarshalIso>
+  <Rpt_UI_DoctrineCardNodes>nœuds {0}/5</Rpt_UI_DoctrineCardNodes>
+  <Rpt_UI_DoctrineCardPick>cliquer pour choisir</Rpt_UI_DoctrineCardPick>
+  <Rpt_UI_DoctrineCardTitle>Voie doctrinale</Rpt_UI_DoctrineCardTitle>
+  <Rpt_UI_DoctrineChoose>Adopter</Rpt_UI_DoctrineChoose>
+  <Rpt_UI_DoctrineChooseCost>Adopter cette doctrine — {0} unités d’argent</Rpt_UI_DoctrineChooseCost>
+  <Rpt_UI_DoctrineConfirmBlock>■ Ce que vous ne pouvez plus faire</Rpt_UI_DoctrineConfirmBlock>
+  <Rpt_UI_DoctrineConfirmBreak>■ Traités rompus immédiatement : {0}</Rpt_UI_DoctrineConfirmBreak>
+  <Rpt_UI_DoctrineConfirmCost>■ Coût
+  · {0} unités d’argent · {1} jours avant le prochain changement</Rpt_UI_DoctrineConfirmCost>
+  <Rpt_UI_DoctrineConfirmHead>Passer à la doctrine « {0} ».</Rpt_UI_DoctrineConfirmHead>
+  <Rpt_UI_DoctrineConfirmLockBld>L’effet de {0} bâtiment(s) sera verrouillé — rien n’est démoli et aucune unité d’argent n’est perdue</Rpt_UI_DoctrineConfirmLockBld>
+  <Rpt_UI_DoctrineConfirmReset>■ Ce que vous perdez
+  · {0} progression · {1} nœud(s) débloqué(s)</Rpt_UI_DoctrineConfirmReset>
+  <Rpt_UI_DoctrineConfirmRow>{0} — {1}   confiance -{2} bienveillance -{3}</Rpt_UI_DoctrineConfirmRow>
+  <Rpt_UI_DoctrineConfirmSpread>Toutes les autres factions non hostiles : confiance -{0} — la rumeur se répand</Rpt_UI_DoctrineConfirmSpread>
+  <Rpt_UI_DoctrineCurrent>Doctrine actuelle</Rpt_UI_DoctrineCurrent>
+  <Rpt_UI_DoctrineDrop>Abandonner la doctrine</Rpt_UI_DoctrineDrop>
+  <Rpt_UI_DoctrineGainBase>Chaque trimestre +{0}</Rpt_UI_DoctrineGainBase>
+  <Rpt_UI_DoctrineGainCap>Au maximum +{0} par trimestre</Rpt_UI_DoctrineGainCap>
+  <Rpt_UI_DoctrineGainTitle>Ce qui augmente la progression</Rpt_UI_DoctrineGainTitle>
+  <Rpt_UI_DoctrineLocked>{0} jours avant changement</Rpt_UI_DoctrineLocked>
+  <Rpt_UI_DoctrineNodeLocked>Nœud {0} pas encore débloqué</Rpt_UI_DoctrineNodeLocked>
+  <Rpt_UI_DoctrineNodeNeed>nécessite {0} progression</Rpt_UI_DoctrineNodeNeed>
+  <Rpt_UI_DoctrineNoneDesc>Aucune doctrine choisie. Rien n’est modifié et rien n’est bloqué.
+
+En choisir une fait progresser cette voie et débloque ses nœuds un par un. En échange, chaque doctrine impose une discipline qui bloque certains traités et actions, et tout traité déjà actif qui la contredit est rompu dès le changement.</Rpt_UI_DoctrineNoneDesc>
+  <Rpt_UI_DoctrineProgress>Progression {0}/100</Rpt_UI_DoctrineProgress>
+  <Rpt_UI_DoctrineRowNow>Actuelle · nœuds {0}/5</Rpt_UI_DoctrineRowNow>
+  <Rpt_UI_DoctrineRule>Règle de discipline</Rpt_UI_DoctrineRule>
+  <Rpt_UI_DoctrineTitle>Doctrine diplomatique</Rpt_UI_DoctrineTitle>
+  <Rpt_UI_DoctrineWillBreak>Le changement rompt {0} traité(s) immédiatement</Rpt_UI_DoctrineWillBreak>
+  <Rpt_UI_DoctrineWillWar>★ Rompre le pacte tributaire déclenche une guerre d’indépendance avec eux</Rpt_UI_DoctrineWillWar>
+  <Rpt_UI_ExpirySoonTag>{0} expire bientôt</Rpt_UI_ExpirySoonTag>
+  <Rpt_UI_Goods0>Tribut : argent</Rpt_UI_Goods0>
+  <Rpt_UI_Goods1>Tribut : marchandises</Rpt_UI_Goods1>
+  <Rpt_UI_Goods2>Tribut : main-d’œuvre</Rpt_UI_Goods2>
+  <Rpt_UI_GoodsNoLabor>L’Empire n’envoie pas de personnes comme main-d’œuvre</Rpt_UI_GoodsNoLabor>
+  <Rpt_UI_GoodsNoSpecialty>aucune spécialité (payé en argent)</Rpt_UI_GoodsNoSpecialty>
+  <Rpt_UI_GovAppoint>Nommer un gouverneur</Rpt_UI_GovAppoint>
+  <Rpt_UI_GovIdle>Gouverneurs inactifs : {0}/{1}</Rpt_UI_GovIdle>
+  <Rpt_UI_GovLevel>Niv {0} · faveur {1}</Rpt_UI_GovLevel>
+  <Rpt_UI_GovNone>(aucun gouverneur inactif)</Rpt_UI_GovNone>
+  <Rpt_UI_GovPost>Affecter</Rpt_UI_GovPost>
+  <Rpt_UI_GovPosting>en voyage ({0} j)</Rpt_UI_GovPosting>
+  <Rpt_UI_GovRecall>Rappeler</Rpt_UI_GovRecall>
+  <Rpt_UI_OnCooldown>Pas encore disponible</Rpt_UI_OnCooldown>
+  <Rpt_UI_Policy0>Clément</Rpt_UI_Policy0>
+  <Rpt_UI_Policy1>Normale</Rpt_UI_Policy1>
+  <Rpt_UI_Policy2>Dur</Rpt_UI_Policy2>
+  <Rpt_UI_PolicyDesc>tribut {0}% · stabilité {1}/trim.</Rpt_UI_PolicyDesc>
+  <Rpt_UI_RenewHostile>Impossible de renouveler en étant hostile</Rpt_UI_RenewHostile>
+  <Rpt_UI_RenewNotExpirable>Ce traité n’expire pas</Rpt_UI_RenewNotExpirable>
+  <Rpt_UI_Stability0>Docile</Rpt_UI_Stability0>
+  <Rpt_UI_Stability1>Agité</Rpt_UI_Stability1>
+  <Rpt_UI_Stability2>Furieux</Rpt_UI_Stability2>
+  <Rpt_UI_StabilityTip>Stabilité de subjugation {0} · chance de révolte {1}% par trimestre</Rpt_UI_StabilityTip>
+  <Rpt_UI_TreatyFoldAll>Tout réduire</Rpt_UI_TreatyFoldAll>
+  <Rpt_UI_TreatyGroupTip>Cliquer pour réduire ou développer les traités de cette faction</Rpt_UI_TreatyGroupTip>
+  <Rpt_UI_TreatyManager>Traités</Rpt_UI_TreatyManager>
+  <Rpt_UI_TreatyRowTip>Cliquer pour ouvrir cette faction dans l’onglet diplomatie</Rpt_UI_TreatyRowTip>
+  <Rpt_UI_TreatyUnfoldAll>Tout développer</Rpt_UI_TreatyUnfoldAll>
+  <Rpt_UI_TribAutonomy>autonomie accordée</Rpt_UI_TribAutonomy>
+  <Rpt_UI_TribExtra>Exigence supplémentaire</Rpt_UI_TribExtra>
+  <Rpt_UI_TribExtraConfirm>Exiger un tribut supplémentaire de {0}.
+
+Ils peuvent refuser, et la stabilité de subjugation baisse de {1} dans tous les cas.</Rpt_UI_TribExtraConfirm>
+  <Rpt_UI_TribGift>Cadeau</Rpt_UI_TribGift>
+  <Rpt_UI_TribIncome>{0}/trim.</Rpt_UI_TribIncome>
+  <Rpt_UI_TributaryManager>Tributaires</Rpt_UI_TributaryManager>
 </LanguageData>
