@@ -223,9 +223,7 @@ Aucune dot n'est requise — un tributaire envoie l'un des siens.</Rpt_Marry_InC
   <Rpt_Set_TraderSilverTip>Tous les marchands visitant votre colonie transportent davantage d'argent à mesure que votre compagnie commerciale progresse. Aucun effet sans compagnie.</Rpt_Set_TraderSilverTip>
   <Rpt_UI_TraderSilver>Argent des marchands +{0}</Rpt_UI_TraderSilver>
   <Rpt_Set_SubDisabled>Nécessite l'activation du paramètre parent : {0}</Rpt_Set_SubDisabled>
-  <Rpt_Set_TributaryAnyEmpire>Départ tributaire : inclure les empires ajoutés par des mods</Rpt_Set_TributaryAnyEmpire>
-  <Rpt_Set_TributaryAnyEmpireTip>Lorsque cette option est activée, les factions impériales ajoutées par des mods peuvent également être choisies pour le départ tributaire. S'il existe plusieurs candidates, l'une d'elles est sélectionnée au hasard. Si l'option est désactivée, seul l'Empire du jeu de base est utilisé.</Rpt_Set_TributaryAnyEmpireTip>
-  <Rpt_LetterTributaryStartLabel>Tributaire de l'Empire</Rpt_LetterTributaryStartLabel>
+<Rpt_LetterTributaryStartLabel>Tributaire de l'Empire</Rpt_LetterTributaryStartLabel>
   <Rpt_LetterTributaryStart>Notre colonie commence son histoire comme tributaire de {0}. Tant que l'argent coule, l'Empire ne nous touchera pas.\n\nLe prélèvement est suspendu pendant les {1} premiers jours. Ensuite, une part de notre richesse sera due chaque trimestre — et rompre le pacte déclenchera une guerre d'indépendance.</Rpt_LetterTributaryStart>
   <Rpt_UI_IndepWarConfirm>Cesser de verser le tribut à {0} et déclarer notre indépendance.\n\nUne guerre d'indépendance fera rage pendant {1} jours — les raids s'intensifieront et des forces punitives arriveront régulièrement. Résistez pour gagner votre liberté, ou soumettez-vous en cours de route dans l'humiliation.</Rpt_UI_IndepWarConfirm>
   <Rpt_LetterIndepWarLabel>Guerre d'indépendance</Rpt_LetterIndepWarLabel>
@@ -316,4 +314,130 @@ Aucune dot n'est requise — un tributaire envoie l'un des siens.</Rpt_Marry_InC
   <Rpt_Set_WarHostileOnly>Guerres uniquement entre factions déjà hostiles</Rpt_Set_WarHostileOnly>
   <Rpt_Set_WarHostileOnlyTip>Lorsque cette option est activée, les nouvelles guerres n'éclatent qu'entre des factions qui étaient déjà hostiles l'une envers l'autre. Si des factions neutres entrent en guerre et deviennent hostiles, leurs visiteurs peuvent s'affronter sur votre carte — activez cette option pour l'éviter.</Rpt_Set_WarHostileOnlyTip>
   <Rpt_Set_MedievalTech>Technologies médiévales uniquement</Rpt_Set_MedievalTech>
+  <Rpt_UI_CoalitionJoin>Rejoindre la coalition - {0} ({1} j restants)</Rpt_UI_CoalitionJoin>
+  <Rpt_UI_CoalitionJoinConfirm>Rejoindre la coalition contre {0}. {1} faction(s) y ont déjà adhéré ; y adhérer rendra cette faction hostile envers vous.
+
+Cette possibilité expire dans {2} jour(s).</Rpt_UI_CoalitionJoinConfirm>
+  <Rpt_LetterNpcCoalitionLabel>Coalition formée : {0}</Rpt_LetterNpcCoalitionLabel>
+  <Rpt_LetterNpcCoalition>{0} est devenue trop puissante, et {1} factions se sont liguées contre elle.</Rpt_LetterNpcCoalition>
+  <Rpt_MsgCoalitionJoined>Vous avez rejoint la coalition contre {0} ({1} factions).</Rpt_MsgCoalitionJoined>
+  <Rpt_ActCat_War>Guerre</Rpt_ActCat_War>
+  <Rpt_War_Section>Guerre</Rpt_War_Section>
+  <Rpt_War_StanceNeutral>Vous êtes neutre dans cette guerre.</Rpt_War_StanceNeutral>
+  <Rpt_War_StanceBacked>Soutien à {0} · {1}</Rpt_War_StanceBacked>
+  <Rpt_War_StanceJoined>engagé au combat</Rpt_War_StanceJoined>
+  <Rpt_War_StanceNotJoined>non engagé au combat</Rpt_War_StanceNotJoined>
+  <Rpt_War_BackSide>Soutenir {0}</Rpt_War_BackSide>
+  <Rpt_War_BackSideConfirm>Soutenir {0}.\nVous deviendrez hostile envers {1}.\nUne fois le choix fait, impossible de changer de camp.</Rpt_War_BackSideConfirm>
+  <Rpt_War_DeclareJoin>S'engager au combat</Rpt_War_DeclareJoin>
+  <Rpt_War_DeclareJoinConfirm>Combattre aux côtés de {0}. Vous pourrez envoyer des personnes aux batailles de cette guerre.\nVous serez entraîné dans les combats contre {1}.\nCette décision est irréversible.</Rpt_War_DeclareJoinConfirm>
+  <Rpt_War_AlreadyJoined>Vous vous êtes déjà engagé au combat.</Rpt_War_AlreadyJoined>
+  <Rpt_Msg_WarJoinDeclared>Vous vous êtes engagé à combattre aux côtés de {0}.</Rpt_Msg_WarJoinDeclared>
+  <Rpt_Set_ConquestChance>Fréquence des offensives territoriales : {0}%</Rpt_Set_ConquestChance>
+  <Rpt_Set_ConquestChanceTip>Fréquence à laquelle les factions en guerre attaquent les colonies adverses. À 0%, aucune colonie ne change jamais de mains, même en pleine guerre.</Rpt_Set_ConquestChanceTip>
+  <Rpt_Set_ConquestNotify>Rayon d'alerte des offensives : {0} tuiles</Rpt_Set_ConquestNotify>
+  <Rpt_Set_ConquestNotifyTip>Vous alerte des offensives menées à cette distance de vos colonies. À 0, vous n'êtes informé que des guerres dans lesquelles vous avez pris parti.</Rpt_Set_ConquestNotifyTip>
+  <Rpt_LetterConquestLabel>Offensive imminente : {0}</Rpt_LetterConquestLabel>
+  <Rpt_LetterConquest>Les forces de {0} marchent sur {2}, une colonie de {1}. L'issue sera décidée d'ici un jour.</Rpt_LetterConquest>
+  <Rpt_Conq_Warn>Envoyer un avertissement ({0} unités d'argent, {1}% de chances)</Rpt_Conq_Warn>
+  <Rpt_LetterWarnDefiedLabel>Avertissement ignoré : {0}</Rpt_LetterWarnDefiedLabel>
+  <Rpt_LetterWarnDefied>{0} a ignoré notre avertissement et a frappé {2} aussitôt. Nous sommes déjà engagés — nos combattants se tiennent désormais aux côtés de {1} sur ce champ de bataille.</Rpt_LetterWarnDefied>
+  <Rpt_LetterWarnDefiedNoBattle>{0} a ignoré notre avertissement et marche sur {2}. Nous n'avons pas pu atteindre le champ de bataille à temps ; {1} devra tenir seule.</Rpt_LetterWarnDefiedNoBattle>
+  <Rpt_TrustReason_WarnSaved>Attaque dissuadée</Rpt_TrustReason_WarnSaved>
+  <Rpt_LetterWarnOkLabel>Offensive annulée : {0}</Rpt_LetterWarnOkLabel>
+  <Rpt_LetterWarnOk>{0} a tenu compte de notre avertissement et a rappelé les troupes qui marchaient sur {1}.</Rpt_LetterWarnOk>
+  <Rpt_Msg_WarnFailed>{0} a ignoré notre avertissement.</Rpt_Msg_WarnFailed>
+  <Rpt_Msg_SpectateWarOver>La guerre s'est achevée avant l'attaque de {0}. L'offensive est annulée.</Rpt_Msg_SpectateWarOver>
+  <Rpt_Msg_WarnNoSilver>Envoyer un avertissement coûte {0} unités d'argent.</Rpt_Msg_WarnNoSilver>
+  <Rpt_TrustReason_WarnFailed>Avertissement ignoré</Rpt_TrustReason_WarnFailed>
+  <Rpt_LetterFactionGoneLabel>Faction détruite : {0}</Rpt_LetterFactionGoneLabel>
+  <Rpt_LetterFactionGone>{0} a perdu sa dernière colonie et a disparu.</Rpt_LetterFactionGone>
+  <Rpt_LetterFactionAbsorbedLabel>Faction absorbée : {0}</Rpt_LetterFactionAbsorbedLabel>
+  <Rpt_LetterFactionAbsorbed>{0} s'est effondrée sous le poids de la guerre. {2} de ses colonies sont passées à {1}, et {3} ont été rasées.</Rpt_LetterFactionAbsorbed>
+  <Rpt_LetterFactionRiseLabel>Une nouvelle faction : {0}</Rpt_LetterFactionRiseLabel>
+  <Rpt_LetterFactionRise>{0} a émergé sur des terres vidées par la guerre et a fondé {1}.</Rpt_LetterFactionRise>
+  <Rpt_LetterFactionRiseCededLabel>Une faction s'élève : {0}</Rpt_LetterFactionRiseCededLabel>
+  <Rpt_LetterFactionRiseCeded>{0} s'est constituée en nouvelle faction en s'emparant des colonies périphériques de {1}.</Rpt_LetterFactionRiseCeded>
+  <Rpt_Doctrine_BlockProtection>Une doctrine isolationniste ne promet pas de défendre autrui.</Rpt_Doctrine_BlockProtection>
+  <Rpt_LetterProtectionEndLabel>Fin de la protection commerciale : {0}</Rpt_LetterProtectionEndLabel>
+  <Rpt_LetterProtectionEnd>Faute de route commerciale encore ouverte vers {0}, le pacte de protection commerciale a expiré.</Rpt_LetterProtectionEnd>
+  <Rpt_LetterProtectionFailLabel>Une promesse non tenue : {0}</Rpt_LetterProtectionFailLabel>
+  <Rpt_LetterProtectionFail>{0} estime que nous avons laissé {1} tomber, et a déchiré à la fois le pacte de protection commerciale et l'accord commercial.</Rpt_LetterProtectionFail>
+  <Rpt_TrustReason_ProtectionFailed>Protection commerciale non honorée</Rpt_TrustReason_ProtectionFailed>
+  <Rpt_Giz_Spectate>Observer</Rpt_Giz_Spectate>
+  <Rpt_Giz_SpectateEnd>Terminer la bataille</Rpt_Giz_SpectateEnd>
+  <Rpt_Giz_SpectateEndDesc>Mettre fin à cette bataille immédiatement. Le vainqueur est déterminé d'après les forces survivantes et le niveau technologique de chaque camp, puis le champ de bataille est supprimé. Cette action est irréversible.</Rpt_Giz_SpectateEndDesc>
+  <Rpt_Spec_EndNoBattle>Aucune bataille n'est en cours d'observation</Rpt_Spec_EndNoBattle>
+  <Rpt_Spec_EndJoined>Impossible de mettre fin à une bataille que vous avez rejointe</Rpt_Spec_EndJoined>
+  <Rpt_Spec_EndConfirm>Mettre fin immédiatement à la bataille de {0}.\n\nForces survivantes : {1} assaillants, {2} défenseurs. Le vainqueur est déterminé d'après ces effectifs et le niveau technologique de chaque camp, puis le champ de bataille est supprimé.\n\nCette action est irréversible.</Rpt_Spec_EndConfirm>
+  <Rpt_Spec_EndResult>Bataille terminée — {0} assaillants contre {1} défenseurs, {2}</Rpt_Spec_EndResult>
+  <Rpt_Spec_EndAtk>victoire des assaillants</Rpt_Spec_EndAtk>
+  <Rpt_Spec_EndDef>victoire des défenseurs</Rpt_Spec_EndDef>
+  <Rpt_Giz_SpectateDesc>Livrer cette bataille sur une vraie carte. La carte est générée et la bataille commence dès que vous appuyez ici.\n{0} à l'attaque · {1} en défense\nVotre camp : {2}\nUne seule bataille peut être observée à la fois.</Rpt_Giz_SpectateDesc>
+  <Rpt_Giz_SpectateBusy>Vous observez déjà une autre bataille.</Rpt_Giz_SpectateBusy>
+  <Rpt_Giz_SpectateDefendBusy>La défense de {0} est en cours. Vous pourrez observer une fois qu'elle sera terminée.</Rpt_Giz_SpectateDefendBusy>
+  <Rpt_Giz_JoinAttack>Rejoindre l'attaque</Rpt_Giz_JoinAttack>
+  <Rpt_Giz_JoinAttackDesc>Prendre d'assaut cette colonie aux côtés de {0}. Vous deviendrez hostile envers {1}.\nUne navette y transporte vos combattants. Si aucune navette n'est disponible, rendez-vous sur place en caravane pour rejoindre la bataille.</Rpt_Giz_JoinAttackDesc>
+  <Rpt_Giz_JoinDefend>Rejoindre la défense</Rpt_Giz_JoinDefend>
+  <Rpt_Giz_JoinDefendDesc>Tenir cette colonie aux côtés de {0}. Vous deviendrez hostile envers {1}.\nUne navette y transporte vos combattants. Si aucune navette n'est disponible, rendez-vous sur place en caravane pour rejoindre la bataille.</Rpt_Giz_JoinDefendDesc>
+  <Rpt_Giz_JoinWindowClosed>L'assaut ennemi est déjà arrivé. Il est trop tard pour rejoindre cette bataille.</Rpt_Giz_JoinWindowClosed>
+  <Rpt_Giz_JoinNoRight>Vous ne vous êtes pas engagé dans cette guerre, et il ne s'agit pas d'un partenaire commercial protégé.</Rpt_Giz_JoinNoRight>
+  <Rpt_Giz_Warn>Avertir</Rpt_Giz_Warn>
+  <Rpt_Giz_WarnDesc>Sommer l'assaillant d'annuler son offensive.\nCoût {0} unités d'argent · Réussite {1}%</Rpt_Giz_WarnDesc>
+  <Rpt_Giz_WarnBackingAttacker>Nous soutenons l'assaillant dans cette guerre. L'avertir reviendrait à stopper notre propre avancée.</Rpt_Giz_WarnBackingAttacker>
+  <Rpt_Giz_WarnNoSilver>Argent insuffisant. {0} requis</Rpt_Giz_WarnNoSilver>
+  <Rpt_Msg_SpectateFailed>La bataille pour {0} n'a pas pu être ouverte.</Rpt_Msg_SpectateFailed>
+  <Rpt_Msg_JoinWalk>Vous avez rejoint la bataille pour {0}. Envoyez une caravane pour faire la jonction.</Rpt_Msg_JoinWalk>
+  <Rpt_Join_ConfirmAttack>Attaquer {0} aux côtés de {1}.\nVous deviendrez hostile envers {2}.</Rpt_Join_ConfirmAttack>
+  <Rpt_Join_ConfirmDefend>Défendre {0} aux côtés de {1}.\nVous deviendrez hostile envers {2}.</Rpt_Join_ConfirmDefend>
+  <Rpt_SpectateJoin>Rejoindre la bataille : {0}</Rpt_SpectateJoin>
+  <Rpt_LetterJoinShuttleLabel>Navette prête</Rpt_LetterJoinShuttleLabel>
+  <Rpt_LetterJoinShuttle>Une navette à destination de la bataille de {0} a atterri. Faites embarquer les personnes que vous envoyez.</Rpt_LetterJoinShuttle>
+  <Rpt_Join_Treaties>Traités qui seront rompus : {0}</Rpt_Join_Treaties>
+  <Rpt_Join_IfIgnored>Si vous restez à l'écart, {0} risque de tomber - et cela déchirerait le pacte de protection commerciale ainsi que l'accord commercial.</Rpt_Join_IfIgnored>
+  <Rpt_War_JoinAsk>Vous soutenez {0}. Combattrez-vous aussi en personne ? Vous engager vous permet d'envoyer des personnes aux batailles de cette guerre.</Rpt_War_JoinAsk>
+  <Rpt_LetterBattleWaveLabel>Début de l'assaut : {0}</Rpt_LetterBattleWaveLabel>
+  <Rpt_LetterBattleWave>Les forces d'assaut de {0} ont atteint {1}.</Rpt_LetterBattleWave>
+  <Rpt_LetterBattleStartLabel>Début de la bataille : {0}</Rpt_LetterBattleStartLabel>
+  <Rpt_LetterBattleStart>{0} a lancé son assaut sur {2}, une colonie de {1}.</Rpt_LetterBattleStart>
+  <Rpt_LetterBattleHeldLabel>Défense tenue : {0}</Rpt_LetterBattleHeldLabel>
+  <Rpt_LetterBattleHeld>{0} a tenu {2} face à l'assaut de {1}.</Rpt_LetterBattleHeld>
+  <Rpt_UI_WarMap>Carte des guerres</Rpt_UI_WarMap>
+  <Rpt_WarMap_Title>État du monde</Rpt_WarMap_Title>
+  <Rpt_WarMap_Ended>{0} ↔ {1} · guerre terminée</Rpt_WarMap_Ended>
+  <Rpt_WarMap_GroupCount>offensives {0} · résolues {1}</Rpt_WarMap_GroupCount>
+  <Rpt_WarMap_ResConquest>{0} — prise par {1}</Rpt_WarMap_ResConquest>
+  <Rpt_WarMap_ResRaze>{0} — rasée par {1}</Rpt_WarMap_ResRaze>
+  <Rpt_WarMap_ResRepelled>{0} — assaut repoussé par {2}</Rpt_WarMap_ResRepelled>
+  <Rpt_WarMap_Ago>il y a {0} j</Rpt_WarMap_Ago>
+  <Rpt_WarMap_None>Aucune guerre n'est en cours.</Rpt_WarMap_None>
+  <Rpt_WarMap_SecActive>En cours ({0})</Rpt_WarMap_SecActive>
+  <Rpt_WarMap_SecEnded>Terminées ({0})</Rpt_WarMap_SecEnded>
+  <Rpt_WarMap_NoEnded>Aucune guerre ne s'est encore terminée.</Rpt_WarMap_NoEnded>
+  <Rpt_WarRec_Pair>{0} ↔ {1}</Rpt_WarRec_Pair>
+  <Rpt_WarRec_Span>{0} ~ {1}</Rpt_WarRec_Span>
+  <Rpt_WarRec_Peace>paix</Rpt_WarRec_Peace>
+  <Rpt_WarRec_Absorbed>absorbée</Rpt_WarRec_Absorbed>
+  <Rpt_WarRec_Destroyed>faction détruite</Rpt_WarRec_Destroyed>
+  <Rpt_WarRec_Cleanup>guerre éteinte</Rpt_WarRec_Cleanup>
+  <Rpt_WarRec_Winner>avantage : {0}</Rpt_WarRec_Winner>
+  <Rpt_WarRec_Spoils>{0} prise(s) · {1} rasée(s)</Rpt_WarRec_Spoils>
+  <Rpt_WarRec_Coalition>coalition dissoute</Rpt_WarRec_Coalition>
+  <Rpt_WarRec_SpoilsDir>{0} → {1} : {2} prise(s) · {3} rasée(s)</Rpt_WarRec_SpoilsDir>
+  <Rpt_WarRec_Repelled>assaut de {0} repoussé</Rpt_WarRec_Repelled>
+  <Rpt_WarRec_CoalSide>coalition : {0} +{1}</Rpt_WarRec_CoalSide>
+  <Rpt_WarRec_CoalSideSolo>coalition : {0}</Rpt_WarRec_CoalSideSolo>
+  <Rpt_WarMap_Pair>{0} [{1}] contre {2} [{3}]</Rpt_WarMap_Pair>
+  <Rpt_WarMap_Days>jour {0}</Rpt_WarMap_Days>
+  <Rpt_WarMap_Secession>guerre d'indépendance</Rpt_WarMap_Secession>
+  <Rpt_WarMap_Backed>(soutenue)</Rpt_WarMap_Backed>
+  <Rpt_WarMap_Coalition>(Coalition)</Rpt_WarMap_Coalition>
+  <Rpt_WarMap_Treaty>(traité)</Rpt_WarMap_Treaty>
+  <Rpt_WarMap_March>{0} marche sur {1}, tenue par {2}</Rpt_WarMap_March>
+  <Rpt_WarMap_WillWatch>à observer</Rpt_WarMap_WillWatch>
+  <Rpt_WarMap_Watching>Observation : {0} assaille {1}, tenue par {2}</Rpt_WarMap_Watching>
+  <Rpt_WarMap_Goto>S'y rendre</Rpt_WarMap_Goto>
+  <Rpt_LetterWarIntroLabel>Un monde en mouvement</Rpt_LetterWarIntroLabel>
+  <Rpt_LetterWarIntro>Cette mise à jour apporte deux nouveautés.\n\nGuerres entre factions et changements territoriaux — les autres factions se combattent désormais entre elles et s'emparent de leurs colonies respectives ou les incendient. Une faction qui perd toutes ses colonies s'éteint, et de nouvelles factions s'installent sur les terres laissées vacantes. Lorsqu'une bataille est annoncée, vous pouvez cliquer sur la colonie concernée sur la carte du monde pour aller y assister, ou prendre parti et combattre aux côtés de l'un des camps. Si rien de tout cela ne vous tente, vous pouvez désactiver cette seule fonctionnalité dans les paramètres du mod.\n\nÉtats clients — une fois la recherche terminée, vous pouvez fonder votre propre pays à vos côtés. L'envoyer en guerre en votre nom n'augmente pas votre notoriété. Sans dirigeant en place, en revanche, il est totalement incapable d'agir et perd toutes les batailles défensives.</Rpt_LetterWarIntro>
+
 </LanguageData>

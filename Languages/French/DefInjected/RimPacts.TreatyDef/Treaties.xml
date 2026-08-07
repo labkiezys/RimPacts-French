@@ -12,4 +12,6 @@
   <Rpt_Treaty_TributePay.description>Devenir tributaire d'une faction plus puissante. Tant que l'argent continuera d'affluer, elle ne touchera ni à votre colonie ni à vos caravanes — et fermera les yeux sur les incidents mineurs. Manquez deux paiements et tout s'effondrera.</Rpt_Treaty_TributePay.description>
   <Rpt_Treaty_Defense.label>pacte de défense</Rpt_Treaty_Defense.label>
   <Rpt_Treaty_Defense.description>Si votre colonie est attaquée, l'autre faction envoie des renforts. Elle attend la même aide de votre part. Nécessite au préalable un pacte de non-agression actif.</Rpt_Treaty_Defense.description>
+  <Rpt_Treaty_TradeProtection.label>pacte de protection commerciale</Rpt_Treaty_TradeProtection.label>
+  <Rpt_Treaty_TradeProtection.description>Vous vous engagez à défendre les colonies dont dépendent vos routes commerciales. Si l'une d'elles est attaquée, une bataille défensive vous est proposée, comme avec un pacte de défense. La signature est gratuite, le pacte n'expire jamais et peut être rompu à tout moment sans pénalité. Cependant, si vous laissez tomber une colonie protégée, ce pacte et l'accord commercial associé seront tous deux rompus.</Rpt_Treaty_TradeProtection.description>
 </LanguageData>

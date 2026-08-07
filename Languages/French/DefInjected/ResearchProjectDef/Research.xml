@@ -2,4 +2,6 @@
 <LanguageData>
   <Rpt_TradeLogistics.label>logistique commerciale</Rpt_TradeLogistics.label>
   <Rpt_TradeLogistics.description>Mettre en place les registres, les contacts et les calendriers de caravanes nécessaires pour diriger une compagnie commerciale aux confins de la galaxie.</Rpt_TradeLogistics.description>
+  <Rpt_Research_PuppetState.label>administration d'un État client</Rpt_Research_PuppetState.label>
+  <Rpt_Research_PuppetState.description>Les chartes, les émissaires et les subventions discrètes nécessaires pour élever un peuple ami au rang d'État autonome. Une fois fondé, cet État ne peut plus être dissous par la main qui l'a créé.</Rpt_Research_PuppetState.description>
 </LanguageData>

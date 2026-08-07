@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Rpt_Puppet_Neolithic.label>tribu cliente</Rpt_Puppet_Neolithic.label>
+  <Rpt_Puppet_Neolithic.description>Un peuple tribal élevé sous votre patronage. Il conserve ses propres chefs et honore ses propres morts, mais chacun de ses pactes porte votre signature.\n\nIl ne maîtrise que la pierre, l'os et le feu, et ne colonisera pas de nouvelles terres de lui-même. Tout ce qu'il possède a été conquis.</Rpt_Puppet_Neolithic.description>
+  <Rpt_Puppet_Medieval.label>royaume client</Rpt_Puppet_Medieval.label>
+  <Rpt_Puppet_Medieval.description>Vos clients ont élevé des murailles, forgé le fer et fondé une cour. Les apparences sont les leurs, mais la charte reste la vôtre.\n\nIls ne coloniseront pas de nouvelles terres de leur propre initiative. Tout ce qu'ils possèdent a été conquis.</Rpt_Puppet_Medieval.description>
+  <Rpt_Puppet_Industrial.label>union cliente</Rpt_Puppet_Industrial.label>
+  <Rpt_Puppet_Industrial.description>Ateliers mécaniques, poudreries et armée permanente : tout repose sur vos registres. Ils se considèrent désormais comme une nation, ce qui ne vous coûte rien de leur accorder.\n\nIls ne coloniseront pas de nouvelles terres de leur propre initiative. Tout ce qu'ils possèdent a été conquis.</Rpt_Puppet_Industrial.description>
+  <Rpt_Puppet_Spacer.label>dominion client</Rpt_Puppet_Spacer.label>
+  <Rpt_Puppet_Spacer.description>Ascenseurs orbitaux, fabricateurs et troupes aguerries. Leur influence dépasse désormais celle de la plupart des peuples de ce monde, mais reste soumise à un traité qu'ils n'ont jamais eu le droit de refuser.\n\nIls ne coloniseront pas de nouvelles terres de leur propre initiative. Tout ce qu'ils possèdent a été conquis.</Rpt_Puppet_Spacer.description>
+  <Rpt_Puppet_Ultra.label>hégémonie cliente</Rpt_Puppet_Ultra.label>
+  <Rpt_Puppet_Ultra.description>Ils savent produire tout ce que ce monde peut offrir. Les plus âgés se souviennent encore de qui a installé leur premier chef.\n\nIls ne coloniseront pas de nouvelles terres de leur propre initiative. Tout ce qu'ils possèdent a été conquis.</Rpt_Puppet_Ultra.description>
+</LanguageData>

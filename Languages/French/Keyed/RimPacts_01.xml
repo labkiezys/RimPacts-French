@@ -308,4 +308,83 @@
   <Rpt_TrustReason_GuaranteeAbandon>Garantie abandonnée</Rpt_TrustReason_GuaranteeAbandon>
   <Rpt_MsgWarBacked>Vous avez déclaré soutenir {0}. {1} vous est désormais hostile.</Rpt_MsgWarBacked>
   <Rpt_War_BackHostile>Soutenir {0} (met fin à l'hostilité — les relations deviennent neutres)</Rpt_War_BackHostile>
+  <Rpt_LetterTributePaidLabel>Tribut payé : {0}</Rpt_LetterTributePaidLabel>
+  <Rpt_LetterTributePaid>Le tribut de ce trimestre dû à {0} a été payé : {1} unités d'argent. Tant que le pacte tient, le paiement est prélevé automatiquement chaque trimestre.</Rpt_LetterTributePaid>
+  <Rpt_UI_SortLabel>Tri : {0}</Rpt_UI_SortLabel>
+  <Rpt_UI_SortRelation>Relations</Rpt_UI_SortRelation>
+  <Rpt_UI_SortTreaty>Traités</Rpt_UI_SortTreaty>
+  <Rpt_UI_SortTrade>Commerce</Rpt_UI_SortTrade>
+  <Rpt_UI_SortGoodwill>Bienveillance</Rpt_UI_SortGoodwill>
+  <Rpt_UI_SortName>Nom</Rpt_UI_SortName>
+  <Rpt_UI_Grp_Ally>Alliés</Rpt_UI_Grp_Ally>
+  <Rpt_UI_Grp_Neutral>Neutres</Rpt_UI_Grp_Neutral>
+  <Rpt_UI_Grp_Hostile>Hostiles</Rpt_UI_Grp_Hostile>
+  <Rpt_UI_Grp_PermEnemy>Ennemis permanents</Rpt_UI_Grp_PermEnemy>
+  <Rpt_UI_Grp_TreatyMany>3 traités ou plus</Rpt_UI_Grp_TreatyMany>
+  <Rpt_UI_Grp_TreatyFew>1-2 traités</Rpt_UI_Grp_TreatyFew>
+  <Rpt_UI_Grp_TreatyNone>Aucun traité</Rpt_UI_Grp_TreatyNone>
+  <Rpt_UI_Grp_TradeRoute>Route commerciale active</Rpt_UI_Grp_TradeRoute>
+  <Rpt_UI_Grp_TradePact>Pacte commercial seulement</Rpt_UI_Grp_TradePact>
+  <Rpt_UI_Grp_TradeNone>Aucun commerce</Rpt_UI_Grp_TradeNone>
+  <Rpt_UI_Grp_GwHigh>Bienveillance 75 ou plus</Rpt_UI_Grp_GwHigh>
+  <Rpt_UI_Grp_GwMid>Bienveillance 0-74</Rpt_UI_Grp_GwMid>
+  <Rpt_UI_Grp_GwLow>Bienveillance -1 à -75</Rpt_UI_Grp_GwLow>
+  <Rpt_UI_Grp_GwHostile>Bienveillance -76 ou moins</Rpt_UI_Grp_GwHostile>
+  <Rpt_Set_SettlementCap>Plafond de colonies du monde : {0}</Rpt_Set_SettlementCap>
+  <Rpt_Set_SettlementCapValue>{0}x l'effectif initial (environ {1})</Rpt_Set_SettlementCapValue>
+  <Rpt_Set_SettlementCapTip>Une fois que le monde dépasse ce nombre de colonies, la croissance naturelle et l'arrivée de nouvelles factions s'arrêtent. La référence est le nombre de colonies au début de cette partie, ce qui s'adapte à la taille de la planète et aux réglages de population.
+
+Le repeuplement des colonies détruites par la guerre se poursuit malgré ce plafond.</Rpt_Set_SettlementCapTip>
+  <Rpt_ActCat_Relation>Diplomatie</Rpt_ActCat_Relation>
+  <Rpt_ActCat_Pressure>Pression</Rpt_ActCat_Pressure>
+  <Rpt_ActCat_Person>Personnes</Rpt_ActCat_Person>
+  <Rpt_ActCat_Covert>Clandestin</Rpt_ActCat_Covert>
+  <Rpt_Act_AidPerQuarter>{0} unités d'argent / trimestre</Rpt_Act_AidPerQuarter>
+  <Rpt_MsgAidSet>Aide régulière à {0} réglée sur {1} — {2} unités d'argent chaque trimestre, à partir du prochain trimestre.</Rpt_MsgAidSet>
+  <Rpt_MsgAidStopped>L'aide régulière à {0} a été interrompue.</Rpt_MsgAidStopped>
+  <Rpt_Set_Territory>Dynamique territoriale</Rpt_Set_Territory>
+  <Rpt_Set_NewFaction>Nouvelles factions</Rpt_Set_NewFaction>
+  <Rpt_Set_NotifyLetter>Notifications diplomatiques : lettres à droite</Rpt_Set_NotifyLetter>
+  <Rpt_Set_NotifyLetterTip>Affiche les guerres, les changements de territoire et les autres nouvelles diplomatiques récurrentes sous forme de lettres sur le côté droit de l'écran. Si le mod Event Image Popup est installé, les images correspondantes sont également affichées.</Rpt_Set_NotifyLetterTip>
+  <Rpt_Set_NotifyMsg>Notifications diplomatiques : messages brefs</Rpt_Set_NotifyMsg>
+  <Rpt_Set_NotifyMsgTip>Affiche les mêmes nouvelles sous forme de messages brefs en haut à gauche de l'écran. Rien n'est perdu : la carte des guerres, les commandes des colonies et la chronique conservent chaque entrée, et il reste possible d'envoyer un avertissement en cliquant sur la colonie.</Rpt_Set_NotifyMsgTip>
+  <Rpt_Set_TerritoryTip>Les guerres entre factions PNJ capturent ou rasent des colonies, et des factions peuvent être détruites ou voir le jour. Désactiver cette option rétablit le comportement précédent, où les guerres ne faisaient que réduire la puissance des factions. Les changements territoriaux déjà survenus ne sont pas annulés.</Rpt_Set_TerritoryTip>
+  <Rpt_Set_NewFactionTip>De nouvelles factions peuvent apparaître. Si l'option est désactivée, les places laissées par les factions détruites ne sont jamais reprises.</Rpt_Set_NewFactionTip>
+  <Rpt_Set_TerritoryRival>{0} modifie déjà directement les colonies et les factions ; la dynamique territoriale a donc été désactivée automatiquement (ce mod prend le relais).</Rpt_Set_TerritoryRival>
+  <Rpt_Set_FactionCap>Nouvelles factions en plus de celles du départ : jusqu'à {0} (ce monde : {1})</Rpt_Set_FactionCap>
+  <Rpt_Set_FactionCapTip>Nombre de factions pouvant exister en plus de celles présentes à la création du monde. Les mondes peu peuplés en reçoivent moins que la valeur définie ici. Les factions détruites à la guerre ne sont pas décomptées — leur place est reprise par le retour de la même faction.</Rpt_Set_FactionCapTip>
+  <Rpt_LetterNewNeighborLabel>Nouveau voisin : {0}</Rpt_LetterNewNeighborLabel>
+  <Rpt_LetterNewNeighbor>{0} a fondé {1} près de votre colonie.</Rpt_LetterNewNeighbor>
+  <Rpt_LetterRevoltBackLabel>Reprise de {0}</Rpt_LetterRevoltBackLabel>
+  <Rpt_LetterRevoltBack>{0} a rejeté la domination de {1} et fait de nouveau partie de {2}.</Rpt_LetterRevoltBack>
+  <Rpt_LetterSecessionCrushedLabel>Sécession écrasée : {0}</Rpt_LetterSecessionCrushedLabel>
+  <Rpt_LetterSecessionCrushed>{0} a perdu sa dernière possession : {1} l'a réabsorbée.</Rpt_LetterSecessionCrushed>
+  <Rpt_LetterSecessionWonLabel>Indépendance préservée : {0}</Rpt_LetterSecessionWonLabel>
+  <Rpt_LetterSecessionWon>{0} a mis fin à sa guerre contre {1} et conservé son indépendance.</Rpt_LetterSecessionWon>
+  <Rpt_CantSign_NoTradeRoute>Vous n'avez aucune route commerciale reliée à cette faction.</Rpt_CantSign_NoTradeRoute>
+  <Rpt_Giz_SideAttack>Soutien à l'attaquant</Rpt_Giz_SideAttack>
+  <Rpt_Giz_SideDefend>Soutien au défenseur</Rpt_Giz_SideDefend>
+  <Rpt_Giz_SideNone>Participation non autorisée</Rpt_Giz_SideNone>
+  <Rpt_Set_ChronicleMax>Entrées de chronique conservées : {0}</Rpt_Set_ChronicleMax>
+  <Rpt_Set_ChronicleMaxTip>Nombre maximal d'entrées conservées dans la chronique diplomatique. Une fois la limite atteinte, les entrées les plus anciennes sont supprimées en premier. « Illimité » conserve tout depuis le début de la partie, mais fait grossir la sauvegarde.</Rpt_Set_ChronicleMaxTip>
+  <Rpt_Set_ChronicleUnlimited>illimité</Rpt_Set_ChronicleUnlimited>
+  <Rpt_UI_GoodsRequest>Demandes de livraison d'objets</Rpt_UI_GoodsRequest>
+  <Rpt_LetterCompatLabel>Compatibilité : certaines fonctions sont désactivées</Rpt_LetterCompatLabel>
+  <Rpt_LetterCompat>Ces fonctions de RimPacts sont désactivées automatiquement, car un autre mod les couvre déjà.
+
+{0}
+
+Vous pouvez consulter cette liste à tout moment en bas des réglages du mod RimPacts.</Rpt_LetterCompat>
+  <Rpt_Compat_Item>- {0} - {1}</Rpt_Compat_Item>
+  <Rpt_Compat_PColony>Diplomatie, guerre et prix du marché avec les factions vassales fidèles au joueur</Rpt_Compat_PColony>
+  <Rpt_LetterCompatClearLabel>Compatibilité : fonctions rétablies</Rpt_LetterCompatClearLabel>
+  <Rpt_LetterCompatClear>Les fonctions du mod qui se chevauchaient ne sont plus actives : les fonctions de RimPacts qui avaient été désactivées fonctionnent de nouveau.</Rpt_LetterCompatClear>
+  <Rpt_Set_CompatNotice>Avis de compatibilité</Rpt_Set_CompatNotice>
+  <Rpt_Set_CompatNoticeTip>Envoie une lettre listant les fonctions désactivées par d'autres mods. Envoyée une fois par chargement, puis à chaque changement de cet état.</Rpt_Set_CompatNoticeTip>
+  <Rpt_UI_MonopolyGrant>Accorder un monopole</Rpt_UI_MonopolyGrant>
+  <Rpt_MsgMonopolyGranted>Un monopole sur {1} a été accordé à {0}, sans date d'expiration.</Rpt_MsgMonopolyGranted>
+  <Rpt_Set_TributaryFaction>Faction suzeraine</Rpt_Set_TributaryFaction>
+  <Rpt_Set_TributaryFactionAuto>Automatique (empire)</Rpt_Set_TributaryFactionAuto>
+  <Rpt_Set_TributaryFactionTip>Choisissez la faction dont vous êtes tributaire au départ. Laissé sur automatique, un empire est choisi selon le réglage ci-dessus. Si la faction choisie est absente du monde, vous ne commencez tout simplement pas comme tributaire.</Rpt_Set_TributaryFactionTip>
+
 </LanguageData>

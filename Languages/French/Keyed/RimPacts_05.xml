@@ -426,4 +426,203 @@ Ils peuvent refuser, et la stabilité de subjugation baisse de {1} dans tous les
   <Rpt_UI_TribGift>Cadeau</Rpt_UI_TribGift>
   <Rpt_UI_TribIncome>{0}/trim.</Rpt_UI_TribIncome>
   <Rpt_UI_TributaryManager>Tributaires</Rpt_UI_TributaryManager>
+  <Rpt_Chron_NpcCoalition>{2} factions ont formé une coalition contre {0}.</Rpt_Chron_NpcCoalition>
+  <Rpt_Chron_CoalitionJoined>Nous avons rejoint la coalition contre {0}.</Rpt_Chron_CoalitionJoined>
+  <Rpt_War_CantBackVsPuppet>Impossible de soutenir un camp qui combat notre État client {0}</Rpt_War_CantBackVsPuppet>
+  <Rpt_Chron_Cat10>Territoire</Rpt_Chron_Cat10>
+  <Rpt_Chron_Conquest>{0} a pris {2} à {1}.</Rpt_Chron_Conquest>
+  <Rpt_Chron_Raze>{0} a rasé {2}, une colonie de {1}.</Rpt_Chron_Raze>
+  <Rpt_Chron_Repelled>{0} a repoussé une attaque de {1} à {2}.</Rpt_Chron_Repelled>
+  <Rpt_Chron_ConquestAborted>{0} a annulé son offensive contre {2}, une colonie de {1}.</Rpt_Chron_ConquestAborted>
+  <Rpt_Chron_WarnOk>Nous avons averti {0}, qui a annulé son offensive contre {2}.</Rpt_Chron_WarnOk>
+  <Rpt_Chron_WarnFail>Nous avons averti {0} au sujet de {2}, mais l'avertissement a été ignoré.</Rpt_Chron_WarnFail>
+  <Rpt_Chron_FactionGone>{0} a perdu sa dernière colonie et a cessé d'exister.</Rpt_Chron_FactionGone>
+  <Rpt_Chron_Absorbed>{0} a absorbé {1} (prises/incendiées : {2}).</Rpt_Chron_Absorbed>
+  <Rpt_Chron_FactionRise>{0} a émergé comme nouvelle faction et a fondé {2}.</Rpt_Chron_FactionRise>
+  <Rpt_Chron_Founded>{0} a fondé {2}.</Rpt_Chron_Founded>
+  <Rpt_Chron_RevoltBack>{2} s'est détachée de {1} et est revenue à {0}.</Rpt_Chron_RevoltBack>
+  <Rpt_Chron_SecessionCrushed>{0} a été écrasée et réabsorbée par {1}.</Rpt_Chron_SecessionCrushed>
+  <Rpt_Chron_SecessionWon>{0} a conservé son indépendance face à {1}.</Rpt_Chron_SecessionWon>
+  <Rpt_Chron_ProtectionFail>Notre échec à défendre {2} nous a coûté le pacte de protection commerciale et l'accord commercial avec {0}.</Rpt_Chron_ProtectionFail>
+  <Rpt_Puppet_Section>État client</Rpt_Puppet_Section>
+  <Rpt_Giz_PuppetManage>Gérer l'État client</Rpt_Giz_PuppetManage>
+  <Rpt_Giz_PuppetManageDesc>Ouvrir la fenêtre de gestion de {0} : promotion de palier, envoi d'un dirigeant et aménagement des avant-postes.</Rpt_Giz_PuppetManageDesc>
+  <Rpt_Puppet_Found>Fonder un État client</Rpt_Puppet_Found>
+  <Rpt_Puppet_FoundBtn>Fonder un État client ({0} unités d'argent)</Rpt_Puppet_FoundBtn>
+  <Rpt_Puppet_FoundHint>Fondé sur un terrain vide, à une distance de {0} à {1} tuiles de l'une de vos colonies.</Rpt_Puppet_FoundHint>
+  <Rpt_Puppet_NeedResearch>Nécessite la recherche « administration d'un État client ».</Rpt_Puppet_NeedResearch>
+  <Rpt_Puppet_NeedDynamics>La dynamique des factions est désactivée.</Rpt_Puppet_NeedDynamics>
+  <Rpt_Puppet_AlreadyExists>{0} existe déjà. Vous ne pouvez avoir qu'un seul État client.</Rpt_Puppet_AlreadyExists>
+  <Rpt_Puppet_NeedSettlement>Vous n'avez aucune colonie servant de point de référence.</Rpt_Puppet_NeedSettlement>
+  <Rpt_Puppet_TileInvalid>Impossible de fonder quoi que ce soit ici.</Rpt_Puppet_TileInvalid>
+  <Rpt_Puppet_TileLayer>Doit se trouver sur la même surface que la colonie de référence.</Rpt_Puppet_TileLayer>
+  <Rpt_Puppet_TileTooClose>Trop près. Distance minimale : {0} tuiles (actuellement {1}).</Rpt_Puppet_TileTooClose>
+  <Rpt_Puppet_TileTooFar>Trop loin. Distance maximale : {0} tuiles (actuellement {1}).</Rpt_Puppet_TileTooFar>
+  <Rpt_Puppet_TileOk>Fonder ici ({0} tuiles)</Rpt_Puppet_TileOk>
+  <Rpt_Puppet_TileNo>{0} tuiles - {1}</Rpt_Puppet_TileNo>
+  <Rpt_Puppet_FoundConfirm>Fonder un État client à {1} tuiles de {0}.\n\nUne fois fondé, vous ne pourrez plus le dissoudre. Il ne peut disparaître que si une autre faction le détruit à la guerre.</Rpt_Puppet_FoundConfirm>
+  <Rpt_Puppet_FoundCost>Coût de fondation : {0} unités d'argent (vous en avez {1})</Rpt_Puppet_FoundCost>
+  <Rpt_Puppet_StateLine>{0} - {1} colonies</Rpt_Puppet_StateLine>
+  <Rpt_Puppet_TierPending>Promotion en attente : {0} - colonies {1}/{2}</Rpt_Puppet_TierPending>
+  <Rpt_Puppet_CantDissolve>Vous ne pouvez pas le dissoudre, et ses traités ne peuvent pas être rompus.</Rpt_Puppet_CantDissolve>
+  <Rpt_Puppet_OpenManager>Gestion de l'État client</Rpt_Puppet_OpenManager>
+  <Rpt_Puppet_TreatyLocked>Les traités conclus avec un État client ne peuvent pas être rompus.</Rpt_Puppet_TreatyLocked>
+  <Rpt_Puppet_CantAttack>Un État client ne peut pas être attaqué</Rpt_Puppet_CantAttack>
+  <Rpt_Puppet_CantAttackMsg>{0} est un État que vous avez vous-même créé. Vous ne pouvez pas l'attaquer.</Rpt_Puppet_CantAttackMsg>
+  <Rpt_Puppet_DeclareWar>Déclarer la guerre</Rpt_Puppet_DeclareWar>
+  <Rpt_Puppet_None>Vous n'avez aucun État client.</Rpt_Puppet_None>
+  <Rpt_Puppet_WarBadTarget>Impossible de leur déclarer la guerre.</Rpt_Puppet_WarBadTarget>
+  <Rpt_Puppet_WarBusy>Déjà en guerre.</Rpt_Puppet_WarBusy>
+  <Rpt_Puppet_WarNoLand>Les deux camps doivent posséder des colonies.</Rpt_Puppet_WarNoLand>
+  <Rpt_Puppet_WarTruce>La paix a été conclue trop récemment.</Rpt_Puppet_WarTruce>
+  <Rpt_Puppet_WarConfirm>Ordonner à {0} d'attaquer {1}.\n\nCette guerre n'est pas menée en votre nom : votre notoriété n'augmentera pas.</Rpt_Puppet_WarConfirm>
+  <Rpt_Puppet_Tier0>Tribu</Rpt_Puppet_Tier0>
+  <Rpt_Puppet_Tier1>Médiéval</Rpt_Puppet_Tier1>
+  <Rpt_Puppet_Tier2>Industriel</Rpt_Puppet_Tier2>
+  <Rpt_Puppet_Tier3>Spatial</Rpt_Puppet_Tier3>
+  <Rpt_Puppet_Tier4>Ultratechnologique</Rpt_Puppet_Tier4>
+  <Rpt_LetterPuppetFoundedLabel>État client fondé : {0}</Rpt_LetterPuppetFoundedLabel>
+  <Rpt_LetterPuppetFounded>{0} a été élevé au rang d'État sous votre patronage. Son premier siège est {1}.\n\nNon-agression, défense, commerce et tribut sont jurés sans terme. Il ne vous appartient pas d'y mettre fin.</Rpt_LetterPuppetFounded>
+  <Rpt_LetterPuppetTierLabel>État client promu : {0}</Rpt_LetterPuppetTierLabel>
+  <Rpt_LetterPuppetTier>{0} a atteint le stade {1}.</Rpt_LetterPuppetTier>
+  <Rpt_LetterPuppetGoneLabel>État client perdu : {0}</Rpt_LetterPuppetGoneLabel>
+  <Rpt_LetterPuppetGone>{0} est tombé avec sa dernière colonie. Son palier ({1}), ses droits de fondation et ses nœuds débloqués sont tous réinitialisés — la reconstruction repart du stade tribal.</Rpt_LetterPuppetGone>
+  <Rpt_Chron_PuppetGone>L'État client {0} a été perdu (palier {1})</Rpt_Chron_PuppetGone>
+  <Rpt_Chron_PuppetFounded>{0} a été élevé au rang d'État sous notre patronage, avec {2} pour siège.</Rpt_Chron_PuppetFounded>
+  <Rpt_Chron_PuppetTier>{0} a atteint le stade {2}.</Rpt_Chron_PuppetTier>
+  <Rpt_Chron_PuppetWar>{0} a déclaré la guerre à {1} sur notre ordre.</Rpt_Chron_PuppetWar>
+  <Rpt_Spy_PuppetNoTarget>Vous ne pouvez pas infiltrer d'espion dans votre propre État client. Il n'a rien à vous cacher.</Rpt_Spy_PuppetNoTarget>
+  <Rpt_Puppet_LeaderSend>Envoyer un dirigeant</Rpt_Puppet_LeaderSend>
+  <Rpt_Puppet_LeaderManage>Gérer le dirigeant</Rpt_Puppet_LeaderManage>
+  <Rpt_Puppet_LeaderRow>Dirigeant : {0}</Rpt_Puppet_LeaderRow>
+  <Rpt_Puppet_LeaderRecall>Rappeler {0}</Rpt_Puppet_LeaderRecall>
+  <Rpt_Puppet_LeaderNone>Aucun de vos dirigeants n'y est en poste.</Rpt_Puppet_LeaderNone>
+  <Rpt_Puppet_LeaderPresent>{0} occupe déjà le siège. Rappelez-le d'abord.</Rpt_Puppet_LeaderPresent>
+  <Rpt_Puppet_LeaderNeedColonist>Aucun colon ne peut être envoyé.</Rpt_Puppet_LeaderNeedColonist>
+  <Rpt_Puppet_LeaderConfirm>Envoyer {0} diriger {1}.
+
+Cette personne quitte la colonie et ne reviendra pas tant qu'elle n'aura pas été rappelée. Aucun rappel n'est possible pendant les {2} premiers jours.</Rpt_Puppet_LeaderConfirm>
+  <Rpt_Puppet_LeaderRecalling>{0} a été rappelé et fait route vers la colonie.</Rpt_Puppet_LeaderRecalling>
+  <Rpt_Puppet_LeaderReturned>{0} est de retour.</Rpt_Puppet_LeaderReturned>
+  <Rpt_Puppet_NoAssassinate>Vous ne pouvez pas faire assassiner le dirigeant d'un État client.</Rpt_Puppet_NoAssassinate>
+  <Rpt_LetterPuppetLeaderLabel>Dirigeant d'État client en poste : {0}</Rpt_LetterPuppetLeaderLabel>
+  <Rpt_LetterPuppetLeader>{0} dirige désormais {1}.
+
+Aucun rappel n'est possible pendant les {2} premiers jours. Passé ce délai, vous pourrez rappeler cette personne et en envoyer une autre aussitôt.</Rpt_LetterPuppetLeader>
+  <Rpt_Chron_PuppetLeader>{2} a pris le siège de dirigeant de {0}.</Rpt_Chron_PuppetLeader>
+  <Rpt_Chron_PuppetLeaderBack>Retour de {2}, qui dirigeait {0}.</Rpt_Chron_PuppetLeaderBack>
+  <Rpt_Puppet_Manager>État client</Rpt_Puppet_Manager>
+  <Rpt_Puppet_Ees_Section>Gestion des avant-postes</Rpt_Puppet_Ees_Section>
+  <Rpt_Puppet_Ees_NoOutpost>Aucun avant-poste à gérer.</Rpt_Puppet_Ees_NoOutpost>
+  <Rpt_Puppet_Ees_SpectateLock>Une bataille est en cours dans cet avant-poste ({0}). Il ne peut pas être modifié ici tant qu'elle n'est pas terminée — commandez-le directement sur la carte.</Rpt_Puppet_Ees_SpectateLock>
+  <Rpt_Puppet_Ees_NeedMod>Cette fonctionnalité nécessite le mod Evolving Enemy Strongholds.</Rpt_Puppet_Ees_NeedMod>
+  <Rpt_Puppet_Ees_NoData>Impossible de lire les données d'avant-poste de cette colonie.</Rpt_Puppet_Ees_NoData>
+  <Rpt_Puppet_Ees_Jump>Afficher sur la carte</Rpt_Puppet_Ees_Jump>
+  <Rpt_Puppet_Ees_Tier>Palier {0} / {1}</Rpt_Puppet_Ees_Tier>
+  <Rpt_Puppet_Ees_TierNext>Amélioration automatique dans {0}</Rpt_Puppet_Ees_TierNext>
+  <Rpt_Puppet_Ees_TierMax>Palier maximal pour cette époque</Rpt_Puppet_Ees_TierMax>
+  <Rpt_Puppet_Ees_Upgrade>Augmenter le palier ({0} unités d'argent)</Rpt_Puppet_Ees_Upgrade>
+  <Rpt_Puppet_Ees_Role>Rôle</Rpt_Puppet_Ees_Role>
+  <Rpt_Puppet_Ees_Commander>Commandant</Rpt_Puppet_Ees_Commander>
+  <Rpt_Puppet_Ees_Mortar>Batterie de mortiers</Rpt_Puppet_Ees_Mortar>
+  <Rpt_Puppet_Ees_MortarHas>Installée</Rpt_Puppet_Ees_MortarHas>
+  <Rpt_Puppet_Ees_MortarAdd>Ajouter une batterie de mortiers ({0} unités d'argent)</Rpt_Puppet_Ees_MortarAdd>
+  <Rpt_Puppet_Ees_MortarNeedTier>Nécessite le palier {0} ou supérieur</Rpt_Puppet_Ees_MortarNeedTier>
+  <Rpt_Puppet_Ees_Garrison>Plan de garnison</Rpt_Puppet_Ees_Garrison>
+  <Rpt_Puppet_Ees_Elite>Troupes d'élite</Rpt_Puppet_Ees_Elite>
+  <Rpt_Puppet_Ees_Guard>Groupe de garde</Rpt_Puppet_Ees_Guard>
+  <Rpt_Puppet_Ees_Pursuer>Groupes de poursuivants : {0}</Rpt_Puppet_Ees_Pursuer>
+  <Rpt_Puppet_Ees_Herald>Groupe de hérauts</Rpt_Puppet_Ees_Herald>
+  <Rpt_Puppet_Ees_Disruptor>Groupes de perturbateurs : {0}</Rpt_Puppet_Ees_Disruptor>
+  <Rpt_Puppet_Ees_Assault>Groupe d'assaut</Rpt_Puppet_Ees_Assault>
+  <Rpt_Puppet_Ees_AssaultNo>Cette faction ne peut pas déployer de groupe d'assaut.</Rpt_Puppet_Ees_AssaultNo>
+  <Rpt_Puppet_Ees_Dir0>Nord</Rpt_Puppet_Ees_Dir0>
+  <Rpt_Puppet_Ees_Dir1>Est</Rpt_Puppet_Ees_Dir1>
+  <Rpt_Puppet_Ees_Dir2>Sud</Rpt_Puppet_Ees_Dir2>
+  <Rpt_Puppet_Ees_Dir3>Ouest</Rpt_Puppet_Ees_Dir3>
+  <Rpt_Puppet_Ees_Drop0>Avant-postes</Rpt_Puppet_Ees_Drop0>
+  <Rpt_Puppet_Ees_Drop1>Colonies</Rpt_Puppet_Ees_Drop1>
+  <Rpt_Puppet_Ees_Drop2>Mixte</Rpt_Puppet_Ees_Drop2>
+  <Rpt_Puppet_FoundSection>Fondation de colonies — {0} / {1} utilisés</Rpt_Puppet_FoundSection>
+  <Rpt_Puppet_SettlerHave>{0} pionnier(s) prêt(s)</Rpt_Puppet_SettlerHave>
+  <Rpt_Puppet_SettlerTraining>Formation d'un pionnier — {0} jours restants</Rpt_Puppet_SettlerTraining>
+  <Rpt_Puppet_SettlerTrain>Former un pionnier ({0} unités d'argent)</Rpt_Puppet_SettlerTrain>
+  <Rpt_Puppet_SettlerTrainConfirm>Former un pionnier pour {0} unités d'argent en {1} jours.\n\nUn pionnier fonde une seule colonie et y reste ; il ne revient pas.</Rpt_Puppet_SettlerTrainConfirm>
+  <Rpt_Puppet_SettlerReady>Un pionnier est prêt. {0} en attente.</Rpt_Puppet_SettlerReady>
+  <Rpt_Puppet_SettlerWorking>Formation déjà en cours ({0} jours restants). Un seul à la fois.</Rpt_Puppet_SettlerWorking>
+  <Rpt_Puppet_FoundNoQuota>Plus aucun droit de fondation pour cette ère ({0}/{1}). Franchissez un palier pour en obtenir davantage.</Rpt_Puppet_FoundNoQuota>
+  <Rpt_Puppet_FoundNeedSettler>Aucun pionnier disponible. Formez-en un d'abord.</Rpt_Puppet_FoundNeedSettler>
+  <Rpt_Puppet_FoundNeedBase>L'État client ne possède aucune colonie servant de point de référence.</Rpt_Puppet_FoundNeedBase>
+  <Rpt_Puppet_FoundStart>Fonder une colonie</Rpt_Puppet_FoundStart>
+  <Rpt_Puppet_FoundTileRange>Doit se trouver à {0}-{1} tuiles d'une colonie de l'État client.</Rpt_Puppet_FoundTileRange>
+  <Rpt_Puppet_FoundTileOk>Fonder ici</Rpt_Puppet_FoundTileOk>
+  <Rpt_Puppet_FoundConfirmTile>Fonder ici une nouvelle colonie pour {0}.\n\nUn pionnier est consommé ; les droits de fondation pour cette ère passent à {1}/{2}.</Rpt_Puppet_FoundConfirmTile>
+  <Rpt_LetterPuppetFoundLabel>L'État client a fondé une colonie : {0}</Rpt_LetterPuppetFoundLabel>
+  <Rpt_LetterPuppetFound>{0} a fondé {1}.\n\nDroits de fondation pour cette ère : {2}/{3}.</Rpt_LetterPuppetFound>
+  <Rpt_Chron_PuppetFound>{0} a fondé {2} grâce à un pionnier que vous avez envoyé.</Rpt_Chron_PuppetFound>
+  <Rpt_Puppet_TierNeedUnlock>Le palier suivant ({0}) n'est pas encore débloqué. Il faudra ensuite {1} colonies.</Rpt_Puppet_TierNeedUnlock>
+  <Rpt_UI_VassalManager>Vassaux</Rpt_UI_VassalManager>
+  <Rpt_Puppet_NameLabel>Nom de la faction</Rpt_Puppet_NameLabel>
+  <Rpt_Puppet_NameHint>Laissez vide pour en générer un. Un chiffre est ajouté si le nom est déjà pris.</Rpt_Puppet_NameHint>
+  <Rpt_Puppet_TributeRequest>Demander un tribut</Rpt_Puppet_TributeRequest>
+  <Rpt_Puppet_TributeCooldown>Demande trop récente. De nouveau disponible dans {0} jours.</Rpt_Puppet_TributeCooldown>
+  <Rpt_Puppet_TributeNoMap>Vous n'avez aucune colonie pour les accueillir.</Rpt_Puppet_TributeNoMap>
+  <Rpt_Puppet_NodeStart>C'est le point de départ de l'État client. Rien à débloquer.</Rpt_Puppet_NodeStart>
+  <Rpt_Puppet_NodeCost>{0} unités d'argent, {1} jours</Rpt_Puppet_NodeCost>
+  <Rpt_Puppet_NodeTechNone>Aucune recherche requise</Rpt_Puppet_NodeTechNone>
+  <Rpt_Puppet_NodeTech>Recherche requise : {0} ({1})</Rpt_Puppet_NodeTech>
+  <Rpt_Puppet_NodeTechOk>terminée</Rpt_Puppet_NodeTechOk>
+  <Rpt_Puppet_NodeTechNo>non terminée</Rpt_Puppet_NodeTechNo>
+  <Rpt_Puppet_NodeScale>Seuil de promotion : {0} colonies</Rpt_Puppet_NodeScale>
+  <Rpt_Puppet_NodeWorking>Déblocage — {0} jours restants</Rpt_Puppet_NodeWorking>
+  <Rpt_Puppet_NodePickHint>Cliquez sur un nœud pour voir son coût et ses prérequis.</Rpt_Puppet_NodePickHint>
+  <Rpt_Puppet_NodeReady>Prêt à être débloqué.</Rpt_Puppet_NodeReady>
+  <Rpt_Puppet_NodeTechNeed>Recherche requise : {0} (non terminée)</Rpt_Puppet_NodeTechNeed>
+  <Rpt_Puppet_NodeTechDone>Recherche requise : {0} (terminée)</Rpt_Puppet_NodeTechDone>
+  <Rpt_Puppet_NodeDone>Débloqué</Rpt_Puppet_NodeDone>
+  <Rpt_Puppet_NodeUnlock>Débloquer</Rpt_Puppet_NodeUnlock>
+  <Rpt_Puppet_NodeBadTier>Ce palier ne peut pas être débloqué.</Rpt_Puppet_NodeBadTier>
+  <Rpt_Puppet_NodeOrder>Les paliers doivent être débloqués dans l'ordre.</Rpt_Puppet_NodeOrder>
+  <Rpt_Puppet_NodeNeedTech>Nécessite la recherche : {0}.</Rpt_Puppet_NodeNeedTech>
+  <Rpt_Puppet_NodeDoneMsg>Le palier {0} de l'État client est débloqué. Il sera promu dès qu'il aura assez de colonies.</Rpt_Puppet_NodeDoneMsg>
+  <Rpt_Puppet_NodeConfirm>Débloquer le palier {0}.\n\nCoûte {1} unités d'argent et prend {2} jours.\nMême débloqué, la promotion exige {3} colonies.</Rpt_Puppet_NodeConfirm>
+  <Rpt_Puppet_Ees_PointsHint>{0} points par palier. Tout ce que vous n'attribuez pas reste un groupe par défaut.</Rpt_Puppet_Ees_PointsHint>
+  <Rpt_Puppet_Ees_PointsOver>Dépassement du budget de {0} points.</Rpt_Puppet_Ees_PointsOver>
+  <Rpt_Puppet_Ees_PointsClear>Effacer le plan</Rpt_Puppet_Ees_PointsClear>
+  <Rpt_Puppet_Ees_AutoPlan>Gérer les garnisons automatiquement</Rpt_Puppet_Ees_AutoPlan>
+  <Rpt_Puppet_Ees_AutoPlanTip>S'applique à tous les avant-postes de cet État client, pas seulement celui-ci. Chaque jour, tout avant-poste dont le plan ne correspond plus à ses points est réorganisé dans les limites du budget. Les avant-postes déjà conformes sont laissés tels quels.</Rpt_Puppet_Ees_AutoPlanTip>
+  <Rpt_Puppet_Ees_AutoPlanStateOn>État actuel : gestion automatique activée (points ici {0}/{1})</Rpt_Puppet_Ees_AutoPlanStateOn>
+  <Rpt_Puppet_Ees_AutoPlanStateOff>État actuel : gestion automatique désactivée (points ici {0}/{1})</Rpt_Puppet_Ees_AutoPlanStateOff>
+  <Rpt_Puppet_Ees_AutoPlanOn>Les garnisons sont gérées automatiquement. Désactivez cette option pour les organiser vous-même.</Rpt_Puppet_Ees_AutoPlanOn>
+  <Rpt_Puppet_Ees_AutoPlanLocked>La gestion automatique des garnisons est activée. Désactivez-la pour organiser cet avant-poste vous-même.</Rpt_Puppet_Ees_AutoPlanLocked>
+  <Rpt_Puppet_Ees_PointsShort>Nécessite {0} points, {1} restants</Rpt_Puppet_Ees_PointsShort>
+  <Rpt_Puppet_Ees_Pt>{0}P</Rpt_Puppet_Ees_Pt>
+  <Rpt_Puppet_Ees_Head>{0} combattants ({1} dans le plan)</Rpt_Puppet_Ees_Head>
+  <Rpt_Puppet_Ees_HeadRange>{0} combattants ({1}-{2} dans le plan)</Rpt_Puppet_Ees_HeadRange>
+  <Rpt_Puppet_Ees_HeadTip>Le total est une estimation basée sur le budget militaire ; les effectifs réels varient selon les types d'unités de la faction.</Rpt_Puppet_Ees_HeadTip>
+  <Rpt_Puppet_LeaderVacantTip>Le siège du dirigeant est vacant. Envoyez l'un des vôtres depuis les actions diplomatiques pour l'occuper.</Rpt_Puppet_LeaderVacantTip>
+  <Rpt_Puppet_LeaderRecallLocked>Trop tôt après l'entrée en fonction pour rappeler ({0} jours restants).</Rpt_Puppet_LeaderRecallLocked>
+  <Rpt_Puppet_Ees_ColUnit>Unité</Rpt_Puppet_Ees_ColUnit>
+  <Rpt_Puppet_Ees_ColOpt>Réglage</Rpt_Puppet_Ees_ColOpt>
+  <Rpt_Puppet_Ees_ColCost>Coût</Rpt_Puppet_Ees_ColCost>
+  <Rpt_Puppet_Ees_PointsLeft>{0} points restants (utilisation {1}/{2})</Rpt_Puppet_Ees_PointsLeft>
+  <Rpt_Puppet_Ees_EliteN>Taille</Rpt_Puppet_Ees_EliteN>
+  <Rpt_Puppet_Ees_Elite_Tip>Affecte les combattants les plus puissants au commandant. Ils ne battent jamais en retraite.</Rpt_Puppet_Ees_Elite_Tip>
+  <Rpt_Puppet_Ees_Guard_Tip>Gardes qui tiennent un accès. Leur nombre dépend de l'effectif total.</Rpt_Puppet_Ees_Guard_Tip>
+  <Rpt_Puppet_Ees_Pursuer_Tip>Tirailleurs qui pourchassent les intrus. Attribués par groupe.</Rpt_Puppet_Ees_Pursuer_Tip>
+  <Rpt_Puppet_Ees_Disruptor_Tip>Perturbateurs qui brisent les formations ennemies. Attribués par groupe.</Rpt_Puppet_Ees_Disruptor_Tip>
+  <Rpt_Puppet_Ees_Herald_Tip>Toujours trois. Ils donnent l'alerte puis se replient.</Rpt_Puppet_Ees_Herald_Tip>
+  <Rpt_Puppet_Ees_Assault_Tip>Sort frapper l'ennemi en premier. Toutes les factions n'en disposent pas.</Rpt_Puppet_Ees_Assault_Tip>
+  <Rpt_Puppet_NeedLeader>Nécessite un dirigeant en fonction.</Rpt_Puppet_NeedLeader>
+  <Rpt_Puppet_TributeConfirm>Demander une levée de travailleurs.
+
+La prochaine demande sera disponible dans {0} jours.</Rpt_Puppet_TributeConfirm>
+  <Rpt_Giz_PuppetAttack>Ordonner l'attaque</Rpt_Giz_PuppetAttack>
+  <Rpt_Giz_PuppetAttackDesc>Ordonner à {0} de frapper ce lieu. La bataille s'engage aussitôt et vous y entrez en spectateur.\n\nEn cas de victoire, la colonie revient à {0}.\nLe prochain ordre demande {2} jours.</Rpt_Giz_PuppetAttackDesc>
+  <Rpt_Giz_PuppetAttackConfirm>Ordonner à {0} d'attaquer {1}.\n\nLa bataille s'engage aussitôt et vous y entrez en spectateur. Le prochain ordre sera disponible dans {2} jours.</Rpt_Giz_PuppetAttackConfirm>
+  <Rpt_Giz_PuppetAttackNoWar>Votre État client n'est pas en guerre avec cette faction.</Rpt_Giz_PuppetAttackNoWar>
+  <Rpt_Giz_PuppetAttackCooldown>Vous pourrez donner un nouvel ordre dans {0} jours.</Rpt_Giz_PuppetAttackCooldown>
+  <Rpt_Giz_PuppetAttackPending>Une offensive est déjà en cours contre cette colonie.</Rpt_Giz_PuppetAttackPending>
+  <Rpt_Chron_PuppetAttack>{0} a reçu l'ordre d'attaquer {2}, de {1}.</Rpt_Chron_PuppetAttack>
+
 </LanguageData>
