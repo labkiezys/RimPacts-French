@@ -331,7 +331,6 @@
   <Rpt_UI_Grp_GwLow>Bienveillance -1 à -75</Rpt_UI_Grp_GwLow>
   <Rpt_UI_Grp_GwHostile>Bienveillance -76 ou moins</Rpt_UI_Grp_GwHostile>
   <Rpt_Set_SettlementCap>Plafond de colonies du monde : {0}</Rpt_Set_SettlementCap>
-  <Rpt_Set_SettlementCapValue>{0}x l'effectif initial (environ {1})</Rpt_Set_SettlementCapValue>
   <Rpt_Set_SettlementCapTip>Une fois que le monde dépasse ce nombre de colonies, la croissance naturelle et l'arrivée de nouvelles factions s'arrêtent. La référence est le nombre de colonies au début de cette partie, ce qui s'adapte à la taille de la planète et aux réglages de population.
 
 Le repeuplement des colonies détruites par la guerre se poursuit malgré ce plafond.</Rpt_Set_SettlementCapTip>
